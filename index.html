@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>蒙古语-背单词</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+    <div class="outer-wrapper">
+        <div class="top-wrapper">
+            <div id="lessonNoWrapper"></div>
+            <div class="select-wrapper">
+                <select id="selector">
+                </select>
+            </div>
+            <div class="btn-wrapper">
+                <button id="refreshBtn">再来一组</button>
+            </div>
+        </div>
+        <div class="main-wrapper">
+            <span id="wordWrapper" class="main-font"></span>
+            <div id="explainWrapper" class="second-font"></div>
+        </div>
+        <div>
+            <audio id="player" src="" controls autoplay></audio>
+        </div>
+        <div>
+            <div id="memoBtn">⚡</div>
+        </div>
+    </div>
+</body>
+<script src="js/functions.js"></script>
+<script>
+    const refreshBtn = document.querySelector('#refreshBtn');
+    const memoBtn = document.querySelector('#memoBtn');
+    const wordWrapper = document.querySelector('#wordWrapper');
+    const explainWrapper = document.querySelector('#explainWrapper');
+    const lessonNoWrapper = document.querySelector('#lessonNoWrapper');
+    const player = document.querySelector('#player');
+    const selector = document.querySelector('#selector');
+
+    let no = 1;
+    if (window.location.search) {
+        no = window.location.search.slice(1).split('=')[1];        
+    }
+
+    const GN = 10;
+    let maxNo = 1;
+    const wrappers = {
+        wordWrapper,
+        explainWrapper,
+        lessonNoWrapper,
+    };
+    let initInfo = {
+        no,
+        maxNo,
+        memoBtn,
+        GN,
+    };
+
+    for (let i = 0; i < 20; i += 1) {
+        const op = document.createElement('option');
+        op.innerHTML = `第${i+1}课`;
+        op.setAttribute('value', i+1);
+        selector.appendChild(op);
+    }
+    selector.onchange = function(res) {
+        initInfo.maxNo = this.options.selectedIndex+1;
+        init(initInfo);
+    };
+
+    refreshBtn.onclick = function() {
+        init(initInfo);
+    };
+
+    init(initInfo);
+</script>
+</html>
