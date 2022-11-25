@@ -11,9 +11,13 @@
     <div class="outer-wrapper">
         <div class="top-wrapper">
             <div id="lessonNoWrapper"></div>
-            <div class="select-wrapper">
+            <div class="mid-wrapper">
                 <select id="selector">
                 </select>
+                <div class="check-wrapper">
+                    <input type="checkbox" id="checkBtn">
+                    <label for="check-btn">🔒</label>
+                </div>
             </div>
             <div class="btn-wrapper">
                 <button id="refreshBtn">再来一组</button>
@@ -29,52 +33,133 @@
         <div>
             <div id="memoBtn">⚡</div>
         </div>
+
+        <div class="stat-wrapper">
+            <table>
+                <tr>
+                    <td>本组：</td>
+                    <td>
+                        <span id="groupMemoed">0</span> / <span id="groupCount">0</span>
+                    </td>
+                </tr>
+                <tr>
+                    <td>本课：</td>
+                    <td>
+                        <span id="lessonMemoed">0</span> / <span id="lessonCount">0</span>
+                    </td>
+                </tr>
+                <tr>
+                    <td>学过：</td>
+                    <td>
+                        <span id="learntMemoed">0</span> / <span id="learntCount">0</span>
+                    </td>
+                </tr>
+                <tr>
+                    <td>全部：</td>
+                    <td>
+                        <span id="allMemoed">0</span> / <span id="allCount">0</span>
+                    </td>
+                </tr>
+            </table>
+        </div>
+
+        <div class="setting-wrapper">
+            <div class="setting-btn" id="starBtn">
+                ⭐
+            </div>
+        </div>
+
+        <div id="widWrapper"></div>
     </div>
 </body>
+<script src="js/lodash.js"></script>
 <script src="js/functions.js"></script>
 <script>
+    const selector = document.querySelector('#selector');
+    const checkBtn = document.querySelector('#checkBtn');
     const refreshBtn = document.querySelector('#refreshBtn');
     const memoBtn = document.querySelector('#memoBtn');
+    const starBtn = document.querySelector('#starBtn');
     const wordWrapper = document.querySelector('#wordWrapper');
     const explainWrapper = document.querySelector('#explainWrapper');
     const lessonNoWrapper = document.querySelector('#lessonNoWrapper');
     const player = document.querySelector('#player');
-    const selector = document.querySelector('#selector');
+    const widWrapper = document.querySelector('#widWrapper');
+    const allCount = document.querySelector('#allCount');
+    const allMemoed = document.querySelector('#allMemoed');
+    const lessonCount = document.querySelector('#lessonCount');
+    const lessonMemoed = document.querySelector('#lessonMemoed');
+    const learntCount = document.querySelector('#learntCount');
+    const learntMemoed = document.querySelector('#learntMemoed');
+    const groupCount = document.querySelector('#groupCount');
+    const groupMemoed = document.querySelector('#groupMemoed');
 
-    let no = 1;
-    if (window.location.search) {
-        no = window.location.search.slice(1).split('=')[1];        
-    }
-
+    const bookNo = 1;
     const GN = 10;
-    let maxNo = 1;
-    const wrappers = {
-        wordWrapper,
-        explainWrapper,
-        lessonNoWrapper,
-    };
     let initInfo = {
-        no,
-        maxNo,
+        mode: localStorage.getItem("mode") ? localStorage.getItem("mode") : 'single',
+        lessonNo: localStorage.getItem("lessonNo") ? localStorage.getItem("lessonNo") : 1,
+        bookNo,
         memoBtn,
         GN,
+        wrappers: {
+            wordWrapper,
+            explainWrapper,
+            lessonNoWrapper,
+            widWrapper,
+            allCount,
+            allMemoed,
+            lessonCount,
+            lessonMemoed,
+            learntCount,
+            learntMemoed,
+            groupCount,
+            groupMemoed,
+        }
     };
 
+    // 初始化下拉选择
     for (let i = 0; i < 20; i += 1) {
         const op = document.createElement('option');
         op.innerHTML = `第${i+1}课`;
         op.setAttribute('value', i+1);
         selector.appendChild(op);
+        selector.value = initInfo.lessonNo;
     }
     selector.onchange = function(res) {
-        initInfo.maxNo = this.options.selectedIndex+1;
+        const val = this.options.selectedIndex+1;
+
+        initInfo.lessonNo = val;
         init(initInfo);
+        initLessonWordStat(val);
+        initLearntWordStat(val);
+
+        localStorage.setItem('lessonNo', val);
     };
 
+    // 绑定状态切换按钮事件
+    checkBtn.checked = initInfo.mode === 'single';
+    checkBtn.onclick = function () {
+        if (initInfo.mode === 'single') {
+            initInfo.mode = 'all';
+        } else {
+            initInfo.mode = 'single';
+        }
+
+        init(initInfo);
+        localStorage.setItem('mode', initInfo.mode);
+    }
+
+    // 绑定跳转按钮事件
+    starBtn.onclick = function() {
+        window.location.href = 'https://gitee.com/joenahm/mgl-memo';
+    };
+
+    // 绑定刷新按钮事件
     refreshBtn.onclick = function() {
         init(initInfo);
     };
-
+    
     init(initInfo);
 </script>
 </html>
