@@ -1,9 +1,8 @@
 function initAllWordStat(all) {
-    if (localStorage.getItem('allWords') === null) {
+    const awd = localStorage.getItem('allWords');
+    if (awd === null || _.flatten(Object.values(JSON.parse(awd))).length !== _.flatten(Object.values(all)).length) {
         localStorage.setItem('allWords', JSON.stringify(all));
-    }
-    
-    if (localStorage.getItem('allCount') === null) {
+
         let count = 0;
         Object.values(all).forEach((arr) => {
             count += arr.length;
