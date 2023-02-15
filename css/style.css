@@ -51,9 +51,7 @@ body {
     width: 20px;
     height: 20px;
 }
-.btn-wrapper {
-    width: 70px;
-}
+
 #refreshBtn {
     width: 70px;
     padding: 4px 6px;
@@ -119,6 +117,7 @@ body {
 .setting-btn {
     width: 50px;
     height: 50px;
+    margin: 5px 0;
     text-align: center;
     line-height: 50px;
     font-size: 20px;

@@ -4,8 +4,21 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>蒙古语-背单词</title>
+    <meta name="Keywords" content="阿六敦,蒙古语,背单词,阿六敦蒙古语资源站,Алтан Монгол,ᠠᠯᠲᠠᠨ ᠮᠣᠩᠭᠣᠯ ᠬᠡᠷᠡᠭᠰᠡᠯ ᠰᠠᠶᠢᠲᠤ,Алтан Монгол Хэрэгсэл Сайт,济北周南,北朝云山">
+    <meta name="Description" content="一个极简的蒙古语背单词软件"> 
+    <meta name="Author" Content="济北周南,joenahm@yeah.net">
+    <title>蒙古语-背单词 | 阿六敦蒙古语资源站</title>
     <link rel="stylesheet" href="css/style.css">
+    <link rel="icon" href="favicon.svg">
+    <script>
+        var _hmt = _hmt || [];
+        (function() {
+            var hm = document.createElement("script");
+            hm.src = "https://hm.baidu.com/hm.js?536774839f658ca2c6216df74cc301fc";
+            var s = document.getElementsByTagName("script")[0]; 
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>        
 </head>
 <body>
     <div class="outer-wrapper">
@@ -67,6 +80,9 @@
             <div class="setting-btn" id="starBtn">
                 ⭐
             </div>
+            <div class="setting-btn" id="homeBtn">
+                🏠
+            </div>
         </div>
 
         <div id="widWrapper"></div>
@@ -79,6 +95,7 @@
     const checkBtn = document.querySelector('#checkBtn');
     const refreshBtn = document.querySelector('#refreshBtn');
     const memoBtn = document.querySelector('#memoBtn');
+    const homeBtn = document.querySelector('#homeBtn');
     const starBtn = document.querySelector('#starBtn');
     const wordWrapper = document.querySelector('#wordWrapper');
     const explainWrapper = document.querySelector('#explainWrapper');
@@ -150,6 +167,10 @@
         localStorage.setItem('mode', initInfo.mode);
     }
 
+    // 绑定主页按钮时间
+    homeBtn.onclick = function() {
+        window.location.href = 'https://alt-mgl.github.io';
+    };
     // 绑定跳转按钮事件
     starBtn.onclick = function() {
         window.location.href = 'https://gitee.com/joenahm/mgl-memo';
