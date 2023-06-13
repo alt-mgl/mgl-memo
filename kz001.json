@@ -3,7 +3,7 @@
   "id": "kz001",
   "hasOld": true,
   "oldType": "arb",
-  "baseUrl": "/audios/kz/kz001/",
+  "baseUrl": "./audios/kz/kz001/",
   "words": [
     {
       "id": "1",

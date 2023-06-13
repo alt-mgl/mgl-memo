@@ -3,7 +3,7 @@
   "id": "mn004",
   "hasOld": false,
   "oldType": "ugr",
-  "baseUrl": "/audios/mn/mn004/",
+  "baseUrl": "./audios/mn/mn004/",
   "words": [
     {
       "id": 1,
