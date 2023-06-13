@@ -1,0 +1,89 @@
+{
+  "name": "基础哈萨克语（测试）",
+  "id": "kz001",
+  "hasOld": true,
+  "oldType": "arb",
+  "baseUrl": "/audios/kz/kz001/",
+  "words": [
+    {
+      "id": "1",
+      "word": "алма",
+      "oldWord": "الما",
+      "expl": "苹果",
+      "audio": "1.mp3",
+      "lno": "1"
+    },
+    {
+      "id": "2",
+      "word": "қара",
+      "oldWord": "قارا",
+      "expl": "黑色",
+      "audio": "2.mp3",
+      "lno": "1"
+    },
+    {
+      "id": "3",
+      "word": "сары",
+      "oldWord": "سارى",
+      "expl": "黄色",
+      "audio": "3.mp3",
+      "lno": "1"
+    },
+    {
+      "id": "4",
+      "word": "ақ",
+      "oldWord": "اق",
+      "expl": "白色",
+      "audio": "4.mp3",
+      "lno": "1"
+    },
+    {
+      "id": "5",
+      "word": "көк",
+      "oldWord": "كوك",
+      "expl": "蓝色",
+      "audio": "5.mp3",
+      "lno": "1"
+    },
+    {
+      "id": "6",
+      "word": "су",
+      "oldWord": "سۋ",
+      "expl": "水",
+      "audio": "6.mp3",
+      "lno": "1"
+    },
+    {
+      "id": "7",
+      "word": "жақсы",
+      "oldWord": "جاقسى",
+      "expl": "好",
+      "audio": "7.mp3",
+      "lno": "1"
+    },
+    {
+      "id": "8",
+      "word": "төрт",
+      "oldWord": "تورت",
+      "expl": "四",
+      "audio": "8.mp3",
+      "lno": "1"
+    },
+    {
+      "id": "9",
+      "word": "бес",
+      "oldWord": "بەس",
+      "expl": "五",
+      "audio": "9.mp3",
+      "lno": "1"
+    },
+    {
+      "id": "10",
+      "word": "алты",
+      "oldWord": "التى",
+      "expl": "六",
+      "audio": "10.mp3",
+      "lno": "1"
+    }
+  ]
+}

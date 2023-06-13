@@ -1,0 +1,4393 @@
+{
+  "name": "现代蒙古语教程一 北大版",
+  "id": "mn001",
+  "hasOld": true,
+  "oldType": "ugr",
+  "baseUrl": "/audios/mn/mn001/",
+  "words": [
+    {
+      "id": "1",
+      "word": "ам(н)",
+      "oldWord": "ᠠᠮᠠ",
+      "expl": "（名）口",
+      "audio": "c04cd38aeb30f3ad1f8ab4e64a0ded7b.mp3",
+      "lno": "1"
+    },
+    {
+      "id": "2",
+      "word": "амт",
+      "oldWord": "ᠠᠮᠲᠠ",
+      "expl": "（名）味道",
+      "audio": "8def24c6f2087f4f9b2e04c3d6d559b7.mp3",
+      "lno": "1"
+    },
+    {
+      "id": "3",
+      "word": "ан",
+      "oldWord": "ᠠᠩ",
+      "expl": "（名）野兽",
+      "audio": "18b049cc8d8535787929df716f9f4e68.mp3",
+      "lno": "1"
+    },
+    {
+      "id": "4",
+      "word": "дан",
+      "oldWord": "ᠳᠠᠩ",
+      "expl": "（形）单独的，唯一的",
+      "audio": "9180b4da3f0c7e80975fad685f7f134e.mp3",
+      "lno": "1"
+    },
+    {
+      "id": "5",
+      "word": "дэн",
+      "oldWord": "ᠳ᠋ᠧᠩ",
+      "expl": "（名）灯",
+      "audio": "32ce9c04a986b6360b0ea1984ed86c6c.mp3",
+      "lno": "1"
+    },
+    {
+      "id": "6",
+      "word": "нам",
+      "oldWord": "ᠨᠠᠮ",
+      "expl": "（名·形）党，矮的",
+      "audio": "22c78aadb8d25a53ca407fae265a7154.mp3",
+      "lno": "1"
+    },
+    {
+      "id": "7",
+      "word": "та",
+      "oldWord": "ᠲᠠ",
+      "expl": "（代）您",
+      "audio": "fec8f2a3f2e808ccb17c4d278b4fa469.mp3",
+      "lno": "1"
+    },
+    {
+      "id": "8",
+      "word": "тэд",
+      "oldWord": "ᠲᠡᠳᠡ",
+      "expl": "（代）他们",
+      "audio": "870fa8ee962d90af50c7eaed792b075a.mp3",
+      "lno": "1"
+    },
+    {
+      "id": "9",
+      "word": "тэнд",
+      "oldWord": "ᠲᠡᠨᠳᠡ",
+      "expl": "（副）那里",
+      "audio": "e5f5579b74a291d49034b067db5852e5.mp3",
+      "lno": "1"
+    },
+    {
+      "id": "10",
+      "word": "эд",
+      "oldWord": "ᠡᠳ᠋",
+      "expl": "（名）物品",
+      "audio": "b5f3729e5418905ad2b21ce186b1c01d.mp3",
+      "lno": "1"
+    },
+    {
+      "id": "11",
+      "word": "эм",
+      "oldWord": "ᠡᠮ",
+      "expl": "（名）药",
+      "audio": "47e2e8c3fdb7739e740b95345a803cac.mp3",
+      "lno": "1"
+    },
+    {
+      "id": "12",
+      "word": "энд",
+      "oldWord": "ᠡᠨᠳᠡ",
+      "expl": "（副）这里",
+      "audio": "7f021a1415b86f2d013b2618fb31ae53.mp3",
+      "lno": "1"
+    },
+    {
+      "id": "13",
+      "word": "аз",
+      "oldWord": "ᠠᠵᠠ",
+      "expl": "（名）幸福",
+      "audio": "cc8c0a97c2dfcd73caff160b65aa39e2.mp3",
+      "lno": "2"
+    },
+    {
+      "id": "14",
+      "word": "зам",
+      "oldWord": "ᠵᠡᠮ",
+      "expl": "（名）路",
+      "audio": "142cb104bb9ea93530eeb1a904e351c2.mp3",
+      "lno": "2"
+    },
+    {
+      "id": "15",
+      "word": "зан",
+      "oldWord": "ᠵᠠᠩ",
+      "expl": "（名）性格",
+      "audio": "11269ac928ab3e305bb29d3bd755c965.mp3",
+      "lno": "2"
+    },
+    {
+      "id": "16",
+      "word": "маш",
+      "oldWord": "ᠮᠠᠰᠢ",
+      "expl": "（副）很，十分",
+      "audio": "c2177d4a10ba4d1778bc34562d05f55c.mp3",
+      "lno": "2"
+    },
+    {
+      "id": "17",
+      "word": "мод(н)",
+      "oldWord": "ᠮᠣᠳᠤ",
+      "expl": "（名）树，木头",
+      "audio": "ad148a3ca8bd0ef3b48c52454c493ec5.mp3",
+      "lno": "2"
+    },
+    {
+      "id": "18",
+      "word": "мөс(н)",
+      "oldWord": "ᠮᠥᠰᠥ",
+      "expl": "（名）冰",
+      "audio": "87cc641dcf8cd517865ee029a2369762.mp3",
+      "lno": "2"
+    },
+    {
+      "id": "19",
+      "word": "мэнд",
+      "oldWord": "ᠮᠡᠨᠳᠦ",
+      "expl": "（名）问候，健康，平安",
+      "audio": "c5738dc9da43aaa7157ef1e677c33dac.mp3",
+      "lno": "2"
+    },
+    {
+      "id": "20",
+      "word": "нас(н)",
+      "oldWord": "ᠨᠡᠰᠦ",
+      "expl": "（名）年龄",
+      "audio": "b9d04cd47823420fa061075ba05345de.mp3",
+      "lno": "2"
+    },
+    {
+      "id": "21",
+      "word": "ном",
+      "oldWord": "ᠨᠣᠮ",
+      "expl": "（名）书",
+      "audio": "aee37c30f5d091a495526f636a3527bb.mp3",
+      "lno": "2"
+    },
+    {
+      "id": "22",
+      "word": "од(н)",
+      "oldWord": "ᠣᠳᠤ",
+      "expl": "（名）星",
+      "audio": "afc7e8a98f75755e513d9d5ead888e1d.mp3",
+      "lno": "2"
+    },
+    {
+      "id": "23",
+      "word": "он",
+      "oldWord": "ᠣᠨ",
+      "expl": "（名）年",
+      "audio": "ed2b5c0139cec8ad2873829dc1117d50.mp3",
+      "lno": "2"
+    },
+    {
+      "id": "24",
+      "word": "өмд",
+      "oldWord": "ᠥᠮᠥᠳᠦ",
+      "expl": "（名）裤子",
+      "audio": "be54b4bc3e1bed147f2c20b8a47059dd.mp3",
+      "lno": "2"
+    },
+    {
+      "id": "25",
+      "word": "сам",
+      "oldWord": "ᠰᠡᠮ",
+      "expl": "（形）梳子",
+      "audio": "332532dcfaa1cbf61e2a266bd723612c.mp3",
+      "lno": "2"
+    },
+    {
+      "id": "26",
+      "word": "сан(г)",
+      "oldWord": "ᠰᠠᠩ",
+      "expl": "（名）仓库",
+      "audio": "9f5a44a734ac9e43b5968d0f3b71d69b.mp3",
+      "lno": "2"
+    },
+    {
+      "id": "27",
+      "word": "том",
+      "oldWord": "ᠲᠣᠮᠤ",
+      "expl": "（形）大",
+      "audio": "34b7da764b21d298ef307d04d8152dc5.mp3",
+      "lno": "2"
+    },
+    {
+      "id": "28",
+      "word": "тос(н)",
+      "oldWord": "ᠲᠣᠰᠤ",
+      "expl": "（名）油",
+      "audio": "227f82daef18fd97b0ed9538ce418761.mp3",
+      "lno": "2"
+    },
+    {
+      "id": "29",
+      "word": "цамц",
+      "oldWord": "ᠴᠡᠮᠴᠠ",
+      "expl": "（名）衬衫",
+      "audio": "872b57bb00e13f6b622ed4adc52500aa.mp3",
+      "lno": "2"
+    },
+    {
+      "id": "30",
+      "word": "цас(н)",
+      "oldWord": "ᠴᠠᠰᠤ",
+      "expl": "（名）雪",
+      "audio": "46bd2404e98ca7822028307b42761837.mp3",
+      "lno": "2"
+    },
+    {
+      "id": "31",
+      "word": "цөм",
+      "oldWord": "ᠴᠤᠢᠮ",
+      "expl": "（副）都",
+      "audio": "e5df881ee9dca83224477e0d93119353.mp3",
+      "lno": "2"
+    },
+    {
+      "id": "32",
+      "word": "шат",
+      "oldWord": "ᠱᠠᠲᠤ",
+      "expl": "（名）梯子",
+      "audio": "49a98a661039a29d113b9aa9160fb49c.mp3",
+      "lno": "2"
+    },
+    {
+      "id": "33",
+      "word": "ах",
+      "oldWord": "ᠠᠬ᠎ᠠ",
+      "expl": "（名）哥哥",
+      "audio": "8cab4b3e958f712569f51a9b90c495a7.mp3",
+      "lno": "3"
+    },
+    {
+      "id": "34",
+      "word": "ач",
+      "oldWord": "ᠠᠴᠢ",
+      "expl": "（名）孙子；恩惠",
+      "audio": "dd57dcc23a3083551edd85e13c2d5668.mp3",
+      "lno": "3"
+    },
+    {
+      "id": "35",
+      "word": "дөч(н)",
+      "oldWord": "ᠳᠥᠴᠢ",
+      "expl": "（数）四十",
+      "audio": "ba71da3766aa38311a4d41706ff72833.mp3",
+      "lno": "3"
+    },
+    {
+      "id": "36",
+      "word": "мах(н)",
+      "oldWord": "ᠮᠢᠬ᠎ᠠ",
+      "expl": "（名）肉",
+      "audio": "8c494cd6e4f2f0bc76c627b1d68bb2d1.mp3",
+      "lno": "3"
+    },
+    {
+      "id": "37",
+      "word": "нүд(н)",
+      "oldWord": "ᠨᠢᠳᠦ",
+      "expl": "（名）眼睛",
+      "audio": "6731166671c7bf914cfb6f651d990ad2.mp3",
+      "lno": "3"
+    },
+    {
+      "id": "38",
+      "word": "оч",
+      "oldWord": "ᠣᠴᠢ",
+      "expl": "（名）火花",
+      "audio": "7a49aafcef8b956f542016c86d67ddfd.mp3",
+      "lno": "3"
+    },
+    {
+      "id": "39",
+      "word": "сум(н)",
+      "oldWord": "ᠰᠤᠮᠤ",
+      "expl": "（名）箭；子弹",
+      "audio": "1d623b89683f9ce4e074de1676d12416.mp3",
+      "lno": "3"
+    },
+    {
+      "id": "40",
+      "word": "сүм",
+      "oldWord": "ᠰᠦᠮ᠎ᠡ",
+      "expl": "（名）庙",
+      "audio": "a40b6d3109a98321416ab3aa0d3c1a38.mp3",
+      "lno": "3"
+    },
+    {
+      "id": "41",
+      "word": "ус(н)",
+      "oldWord": "ᠤᠰᠤ",
+      "expl": "（名）水",
+      "audio": "0b3b97fa66886c5688ee4ae80ec0c3c2.mp3",
+      "lno": "3"
+    },
+    {
+      "id": "42",
+      "word": "үд",
+      "oldWord": "ᠦᠳᠠ",
+      "expl": "（名）中午",
+      "audio": "69a349f0dfb7ba3ca80d8e1c5041c5df.mp3",
+      "lno": "3"
+    },
+    {
+      "id": "43",
+      "word": "үс(н)",
+      "oldWord": "ᠦᠰᠦ",
+      "expl": "（名）头发，毛",
+      "audio": "db44ff009e860fd8b9f740e978193004.mp3",
+      "lno": "3"
+    },
+    {
+      "id": "44",
+      "word": "хот",
+      "oldWord": "ᠬᠤᠳᠠ",
+      "expl": "（名）城市，浩特",
+      "audio": "e34e492878632183b6fe42bf9ec24448.mp3",
+      "lno": "3"
+    },
+    {
+      "id": "45",
+      "word": "хөх",
+      "oldWord": "ᠬᠥᠬᠡ",
+      "expl": "（形）蓝色的",
+      "audio": "8212809fe876cbab18f4df5af397a1b0.mp3",
+      "lno": "3"
+    },
+    {
+      "id": "46",
+      "word": "хун",
+      "oldWord": "ᠬᠤᠨ",
+      "expl": "（名）天鹅",
+      "audio": "782ba846407bd42170f74bda4dbee168.mp3",
+      "lno": "3"
+    },
+    {
+      "id": "47",
+      "word": "хүн",
+      "oldWord": "ᠬᠥᠮᠦᠨ",
+      "expl": "（名）人",
+      "audio": "dded754676ac4f03e88c3e2bafaf0884.mp3",
+      "lno": "3"
+    },
+    {
+      "id": "48",
+      "word": "хүч(н)",
+      "oldWord": "ᠬᠦᠴᠦ",
+      "expl": "（名）力量",
+      "audio": "d9d0819841d6b1b1f3c05aee0d91c582.mp3",
+      "lno": "3"
+    },
+    {
+      "id": "49",
+      "word": "хэн",
+      "oldWord": "ᠬᠡᠨ",
+      "expl": "（代）谁",
+      "audio": "b877d88bfc39841eb3c7fc5f0b2f4961.mp3",
+      "lno": "3"
+    },
+    {
+      "id": "50",
+      "word": "эх",
+      "oldWord": "ᠡᠬᠡ",
+      "expl": "（名）母亲",
+      "audio": "340b254752698c55ebf3cb21507d2eeb.mp3",
+      "lno": "3"
+    },
+    {
+      "id": "51",
+      "word": "газар",
+      "oldWord": "ᠭᠠᠵᠠᠷ",
+      "expl": "（名）地方",
+      "audio": "f63a0a63f7e493c437f17c9b44980b0e.mp3",
+      "lno": "4"
+    },
+    {
+      "id": "52",
+      "word": "гар",
+      "oldWord": "ᠭᠠᠷ",
+      "expl": "（名）手",
+      "audio": "4618c2b26e9e222b2cf19471e1f2af8c.mp3",
+      "lno": "4"
+    },
+    {
+      "id": "53",
+      "word": "гэр",
+      "oldWord": "ᠭᠡᠷ",
+      "expl": "（名）毡包，家",
+      "audio": "98302eb9727009d08199b25b7b72b1cb.mp3",
+      "lno": "4"
+    },
+    {
+      "id": "54",
+      "word": "мал",
+      "oldWord": "ᠮᠠᠯ",
+      "expl": "（名）牲畜",
+      "audio": "749dfe7c0cd3b291ec96d0bb8924cb46.mp3",
+      "lno": "4"
+    },
+    {
+      "id": "55",
+      "word": "нар(н)",
+      "oldWord": "ᠨᠠᠷᠠ",
+      "expl": "（名）太阳",
+      "audio": "c0c669570f0dd6c896db86e0447802e8.mp3",
+      "lno": "4"
+    },
+    {
+      "id": "56",
+      "word": "ордон",
+      "oldWord": "ᠣᠷᠳᠣᠨ",
+      "expl": "（名）宫殿，宫",
+      "audio": "82b7b860532d8b35ea3b582ddeeda892.mp3",
+      "lno": "4"
+    },
+    {
+      "id": "57",
+      "word": "өмнө",
+      "oldWord": "ᠡᠮᠦᠨ᠎ᠡ",
+      "expl": "（名）前；南面",
+      "audio": "9b9d33e1907989c26547a20543a4192c.mp3",
+      "lno": "4"
+    },
+    {
+      "id": "58",
+      "word": "өндөг(н)",
+      "oldWord": "ᠥᠨᠳᠡᠭᠡ",
+      "expl": "（名）蛋",
+      "audio": "5f84e1429150d292b892933126d8fde9.mp3",
+      "lno": "4"
+    },
+    {
+      "id": "59",
+      "word": "өчигдөр",
+      "oldWord": "ᠥᠴᠥᠭᠡᠳᠦᠷ",
+      "expl": "（名）昨天",
+      "audio": "f32cac8a339bfc12c8a0583a855c8b19.mp3",
+      "lno": "4"
+    },
+    {
+      "id": "60",
+      "word": "танк",
+      "oldWord": "ᠲᠠᠩᠻ",
+      "expl": "（名）坦克",
+      "audio": "4107c0a4db3fa48dd9aac2701b32b143.mp3",
+      "lno": "4"
+    },
+    {
+      "id": "61",
+      "word": "тэр",
+      "oldWord": "ᠲᠡᠷᠡ",
+      "expl": "（代）他，那个",
+      "audio": "322650e1328739dbca646008305dd95e.mp3",
+      "lno": "4"
+    },
+    {
+      "id": "62",
+      "word": "үзэг",
+      "oldWord": "ᠦᠵᠦᠭ",
+      "expl": "（名）钢笔",
+      "audio": "75d85bae8b39060ab737f410f3830692.mp3",
+      "lno": "4"
+    },
+    {
+      "id": "63",
+      "word": "үсэг",
+      "oldWord": "ᠦᠰᠦᠭ",
+      "expl": "（名）字母",
+      "audio": "e77cf6040651c627d67371b1534cf327.mp3",
+      "lno": "4"
+    },
+    {
+      "id": "64",
+      "word": "хэл(н)",
+      "oldWord": "ᠬᠡᠯᠡ",
+      "expl": "（名）舌头，语言",
+      "audio": "47040b4496653f80f7752a6bb1a4852d.mp3",
+      "lno": "4"
+    },
+    {
+      "id": "65",
+      "word": "цаг",
+      "oldWord": "ᠴᠡᠬ",
+      "expl": "（名）钟表；小时；时间",
+      "audio": "584c70e3a31e2f04c94dc1a8b1828042.mp3",
+      "lno": "4"
+    },
+    {
+      "id": "66",
+      "word": "цэрэг",
+      "oldWord": "ᠴᠡᠷᠢᠭ",
+      "expl": "（名）士兵，军队",
+      "audio": "a454ad07791c65ccca35e21b54604feb.mp3",
+      "lno": "4"
+    },
+    {
+      "id": "67",
+      "word": "цэцэг",
+      "oldWord": "ᠴᠡᠴᠡᠭ",
+      "expl": "（名）花",
+      "audio": "d8fd1c1054ef427f4ddd36cfda349914.mp3",
+      "lno": "4"
+    },
+    {
+      "id": "68",
+      "word": "чи",
+      "oldWord": "ᠴᠢ",
+      "expl": "（代）你",
+      "audio": "1e6086b705c7161eeb93a8b249a5ca7c.mp3",
+      "lno": "4"
+    },
+    {
+      "id": "69",
+      "word": "шал(н)",
+      "oldWord": "ᠱᠠᠯᠠ",
+      "expl": "（名）地板",
+      "audio": "1957c5ffc4969136f2159cd465425600.mp3",
+      "lno": "4"
+    },
+    {
+      "id": "70",
+      "word": "шалгалт",
+      "oldWord": "ᠰᠢᠯᠭᠠᠯᠲᠠ",
+      "expl": "（名）考试，考验",
+      "audio": "23e126ec83c63b49fa83f161d345d7de.mp3",
+      "lno": "4"
+    },
+    {
+      "id": "71",
+      "word": "шар",
+      "oldWord": "ᠰᠢᠷ᠎ᠠ",
+      "expl": "（形）黄色的",
+      "audio": "8a7b25e0a54a3b5871b8104ab11396a3.mp3",
+      "lno": "4"
+    },
+    {
+      "id": "72",
+      "word": "шатар",
+      "oldWord": "ᠰᠢᠲᠠᠷ᠎ᠠ",
+      "expl": "（名）棋",
+      "audio": "9c75430f0aece3fdb20bb4c0d3725fe6.mp3",
+      "lno": "4"
+    },
+    {
+      "id": "73",
+      "word": "шөл(н)",
+      "oldWord": "ᠱᠥᠯᠦ",
+      "expl": "（名）汤",
+      "audio": "81295d2e1c84de687f5d9a8fb3ada0c3.mp3",
+      "lno": "4"
+    },
+    {
+      "id": "74",
+      "word": "эгч",
+      "oldWord": "ᠡᠭᠡᠴᠢ",
+      "expl": "（名）姐姐",
+      "audio": "6e5f44e31d8ce6ed207a1e28e20c9eff.mp3",
+      "lno": "4"
+    },
+    {
+      "id": "75",
+      "word": "энэ",
+      "oldWord": "ᠡᠨᠡ",
+      "expl": "（名）这个",
+      "audio": "2e929b889076e1fc84390fedefdaa7dd.mp3",
+      "lno": "4"
+    },
+    {
+      "id": "76",
+      "word": "багш",
+      "oldWord": "ᠪᠠᠭᠰᠢ",
+      "expl": "（名）老师",
+      "audio": "989fbf863dda24fe308a2581e7d5f674.mp3",
+      "lno": "5"
+    },
+    {
+      "id": "77",
+      "word": "би",
+      "oldWord": "ᠪᠢ",
+      "expl": "（代）我",
+      "audio": "99d4fb3db1563c87da2cdfc0158b37c3.mp3",
+      "lno": "5"
+    },
+    {
+      "id": "78",
+      "word": "бид(н)",
+      "oldWord": "ᠪᠢᠳᠡ",
+      "expl": "（代）我们",
+      "audio": "12879fe24168807c1ef38cd5e580ee3a.mp3",
+      "lno": "5"
+    },
+    {
+      "id": "79",
+      "word": "дэвтэр",
+      "oldWord": "ᠳᠡᠪᠲᠡᠷ",
+      "expl": "（名）练习本",
+      "audio": "15c9d2670e1195d735141d86a8828b0a.mp3",
+      "lno": "5"
+    },
+    {
+      "id": "80",
+      "word": "ертөнц",
+      "oldWord": "ᠶᠢᠷᠲᠢᠨᠴᠦ",
+      "expl": "（名）世界，宇宙",
+      "audio": "aafcf0de368db592401b388b6ab21854.mp3",
+      "lno": "5"
+    },
+    {
+      "id": "81",
+      "word": "ес(н)",
+      "oldWord": "ᠶᠢᠰᠦ",
+      "expl": "（数）九",
+      "audio": "39607.mp3",
+      "lno": "5"
+    },
+    {
+      "id": "82",
+      "word": "ёс(н)",
+      "oldWord": "ᠶᠣᠰᠣ",
+      "expl": "（名）规律",
+      "audio": "fd58de9a9e5906e3ea4682bf1a2da8aa.mp3",
+      "lno": "5"
+    },
+    {
+      "id": "83",
+      "word": "өндөр",
+      "oldWord": "ᠦᠡᠳᠦᠷ",
+      "expl": "（形）高",
+      "audio": "f3e7327224b4fa45c55d4d1375032101.mp3",
+      "lno": "5"
+    },
+    {
+      "id": "84",
+      "word": "самбар",
+      "oldWord": "ᠰᠠᠮᠪᠠᠷ᠎ᠠ",
+      "expl": "（名）黑板",
+      "audio": "970f976af8920ae1846c405e74859b03.mp3",
+      "lno": "5"
+    },
+    {
+      "id": "85",
+      "word": "сандал",
+      "oldWord": "ᠰᠠᠨᠳᠠᠯᠢ",
+      "expl": "（名）椅子",
+      "audio": "67071e9d65938645e70c38a7c5fa33de.mp3",
+      "lno": "5"
+    },
+    {
+      "id": "86",
+      "word": "сурах",
+      "oldWord": "ᠰᠤᠷᠬᠤ",
+      "expl": "（动）学习",
+      "audio": "6780b642ee43524ce93f959dcfd4f45f.mp3",
+      "lno": "5"
+    },
+    {
+      "id": "87",
+      "word": "бичиг",
+      "oldWord": "ᠪᠢᠴᠢᠭ",
+      "expl": "（名）文档，文稿",
+      "audio": "89e260002919a46026e7238ef02a55cd.mp3",
+      "lno": "5"
+    },
+    {
+      "id": "88",
+      "word": "сурах бичиг",
+      "oldWord": "ᠰᠤᠷᠬᠤ ᠪᠢᠴᠢᠭ",
+      "expl": "（词组）教科书",
+      "audio": "curah_bichig.mp3",
+      "lno": "5"
+    },
+    {
+      "id": "89",
+      "word": "фабрик",
+      "oldWord": "ᠹᠠᠪᠷᠢᠻ",
+      "expl": "（名）工厂",
+      "audio": "591a8eb77241bdaa3fd7be3b77fe90cd.mp3",
+      "lno": "5"
+    },
+    {
+      "id": "90",
+      "word": "хана(н)",
+      "oldWord": "ᠬᠠᠨ᠎ᠠ",
+      "expl": "（名）墙",
+      "audio": "ec4621d6bc5a493335f599f8de71e95b.mp3",
+      "lno": "5"
+    },
+    {
+      "id": "91",
+      "word": "Хятад",
+      "oldWord": "ᠬᠢᠲᠠᠳ",
+      "expl": "（名）中国",
+      "audio": "6e2b717617501991741693e880ba87da.mp3",
+      "lno": "5"
+    },
+    {
+      "id": "92",
+      "word": "цонх(н)",
+      "oldWord": "ᠴᠣᠩᠬᠤ",
+      "expl": "（名）窗户",
+      "audio": "0cf2422f935fb914813f388c25ac5d43.mp3",
+      "lno": "5"
+    },
+    {
+      "id": "93",
+      "word": "юм",
+      "oldWord": "ᠶᠠᠭᠤᠮ᠎ᠠ",
+      "expl": "（名）东西",
+      "audio": "1de0b4f0d139f781b3b4de87edb4de70.mp3",
+      "lno": "5"
+    },
+    {
+      "id": "94",
+      "word": "юу(н)",
+      "oldWord": "ᠶᠠᠭᠤ",
+      "expl": "（代）什么",
+      "audio": "ac065740bfb1a2339fecfec667c33de6.mp3",
+      "lno": "5"
+    },
+    {
+      "id": "95",
+      "word": "ямар",
+      "oldWord": "ᠶᠡᠮᠡᠷ",
+      "expl": "（代）什么样的",
+      "audio": "89397032aa6d3e561c259fc12b4b7232.mp3",
+      "lno": "5"
+    },
+    {
+      "id": "96",
+      "word": "айл",
+      "oldWord": "ᠠᠢᠯ",
+      "expl": "（名）住户",
+      "audio": "7604e191d74aac3ffc65c7ae68c74e71.mp3",
+      "lno": "6"
+    },
+    {
+      "id": "97",
+      "word": "аль(н)",
+      "oldWord": "ᠠᠯᠢ",
+      "expl": "（代）哪一个",
+      "audio": "b707907b9966ab1241bbeefddd143662.mp3",
+      "lno": "6"
+    },
+    {
+      "id": "98",
+      "word": "амрах",
+      "oldWord": "ᠠᠮᠡᠷᠡᠬᠤ",
+      "expl": "（动）休息",
+      "audio": "d49e2cdeb02f28268e9734d62ed0ba2a.mp3",
+      "lno": "6"
+    },
+    {
+      "id": "99",
+      "word": "арьс(н)",
+      "oldWord": "ᠠᠷᠠᠰᠤ",
+      "expl": "（名）皮肤；革",
+      "audio": "5de9bb4a5ebf77d53603d22522754a74.mp3",
+      "lno": "6"
+    },
+    {
+      "id": "100",
+      "word": "байна",
+      "oldWord": "ᠪᠡᠢᠨ᠎ᠡ",
+      "expl": "（动）有",
+      "audio": "baina.mp3",
+      "lno": "6"
+    },
+    {
+      "id": "101",
+      "word": "байшин",
+      "oldWord": "ᠪᠠᠢᠰᠢᠩ",
+      "expl": "（名）楼房",
+      "audio": "dc7c137227cdab208984f2d4b06ae17c.mp3",
+      "lno": "6"
+    },
+    {
+      "id": "102",
+      "word": "бидний",
+      "oldWord": "ᠪᠢᠳᠡᠨ ᠤ",
+      "expl": "（代）我们的",
+      "audio": "d1d214306bf428c4d18e0c79e4f5091c.mp3",
+      "lno": "6"
+    },
+    {
+      "id": "103",
+      "word": "гахай",
+      "oldWord": "ᠭᠠᠬᠠᠢ",
+      "expl": "（名）猪",
+      "audio": "3834f351ba132da9a53cfe37f9564f09.mp3",
+      "lno": "6"
+    },
+    {
+      "id": "104",
+      "word": "завь",
+      "oldWord": "ᠵᠠᠪᠢ",
+      "expl": "（名）小船",
+      "audio": "b5df2515714787ef3cf8521529d42f77.mp3",
+      "lno": "6"
+    },
+    {
+      "id": "105",
+      "word": "манай",
+      "oldWord": "ᠮᠠᠨ ᠤ",
+      "expl": "（名）我们的",
+      "audio": "ad4c70f240f36d1d08ede13c24873ce5.mp3",
+      "lno": "6"
+    },
+    {
+      "id": "106",
+      "word": "миний",
+      "oldWord": "ᠮᠢᠨᠦ",
+      "expl": "（代）我的",
+      "audio": "bef2eba5d2568ab9906147ad151d0e60.mp3",
+      "lno": "6"
+    },
+    {
+      "id": "107",
+      "word": "могой",
+      "oldWord": "ᠮᠣᠭᠠᠢ",
+      "expl": "（名）蛇",
+      "audio": "19c58228e23897b05de23539e63abb5d.mp3",
+      "lno": "6"
+    },
+    {
+      "id": "108",
+      "word": "морь(н)",
+      "oldWord": "ᠮᠣᠷᠢ",
+      "expl": "（名）马",
+      "audio": "59f1d694010e11f75d185e6ce1da6b8d.mp3",
+      "lno": "6"
+    },
+    {
+      "id": "109",
+      "word": "нохой",
+      "oldWord": "ᠨᠣᠬᠠᠶ",
+      "expl": "（名）狗",
+      "audio": "1f585d4ebb38aee62baaa2553ed1feca.mp3",
+      "lno": "6"
+    },
+    {
+      "id": "110",
+      "word": "оймс",
+      "oldWord": "ᠣᠢᠮᠤᠰᠤ",
+      "expl": "（名）袜子",
+      "audio": "6f93ae310ba49a3c98ec7dbc442ef9c8.mp3",
+      "lno": "6"
+    },
+    {
+      "id": "111",
+      "word": "онц",
+      "oldWord": "ᠣᠨᠴᠠ",
+      "expl": "（副）特别的，优",
+      "audio": "84aa00ab5bb81a348920207d0ba64d06.mp3",
+      "lno": "6"
+    },
+    {
+      "id": "112",
+      "word": "сайн",
+      "oldWord": "ᠰᠠᠢᠨ",
+      "expl": "（形）好",
+      "audio": "0ecb63b99c13279df93a713ff745b960.mp3",
+      "lno": "6"
+    },
+    {
+      "id": "113",
+      "word": "сайхан",
+      "oldWord": "ᠰᠠᠢᠬᠠᠨ",
+      "expl": "（形）好；漂亮的",
+      "audio": "94a03663f41addc9df836c1075f4ef66.mp3",
+      "lno": "6"
+    },
+    {
+      "id": "114",
+      "word": "сонин",
+      "oldWord": "ᠰᠣᠨᠢᠨ",
+      "expl": "（名·形）消息，趣闻，有趣的",
+      "audio": "8af898f2ebf2acbcacc65ba8a732ad91.mp3",
+      "lno": "6"
+    },
+    {
+      "id": "115",
+      "word": "та нар",
+      "oldWord": "ᠲᠠ ᠨᠠᠷ",
+      "expl": "（代）你们",
+      "audio": "ta_nar.mp3",
+      "lno": "6"
+    },
+    {
+      "id": "116",
+      "word": "та нарын",
+      "oldWord": "ᠲᠠ ᠨᠠᠷ ᠤᠨ",
+      "expl": "（代）你们的",
+      "audio": "ta_nariin.mp3",
+      "lno": "6"
+    },
+    {
+      "id": "117",
+      "word": "танай",
+      "oldWord": "ᠲᠠᠨ ᠤ",
+      "expl": "（代）你们的",
+      "audio": "a60e903795fe57b5db7c35f2762b9ce0.mp3",
+      "lno": "6"
+    },
+    {
+      "id": "118",
+      "word": "таны",
+      "oldWord": "ᠲᠠᠨ ᠤ",
+      "expl": "（代）您的",
+      "audio": "2aeacb288b5a653a16a10853143b01da.mp3",
+      "lno": "6"
+    },
+    {
+      "id": "119",
+      "word": "толь",
+      "oldWord": "ᠲᠣᠯᠢ",
+      "expl": "（名）词典；镜子",
+      "audio": "180f06e37ca498103d9828e4aa06ede8.mp3",
+      "lno": "6"
+    },
+    {
+      "id": "120",
+      "word": "түүний",
+      "oldWord": "ᠲᠡᠭᠦᠨ ᠤ",
+      "expl": "（代）他的",
+      "audio": "ab633a27b620a6ce0a03d8734e42b794.mp3",
+      "lno": "6"
+    },
+    {
+      "id": "121",
+      "word": "тэдний",
+      "oldWord": "ᠲᠡᠳᠡᠨ ᠤ",
+      "expl": "（代）他们的",
+      "audio": "36830bf81487e13ba6141a5806339969.mp3",
+      "lno": "6"
+    },
+    {
+      "id": "122",
+      "word": "уу",
+      "oldWord": "ᠤᠤ",
+      "expl": "（语）吗",
+      "audio": "6277e2a7446059985dc9bcf0a4ac1a8f.mp3",
+      "lno": "6"
+    },
+    {
+      "id": "123",
+      "word": "хайч",
+      "oldWord": "ᠬᠠᠢᠴᠢ",
+      "expl": "（名）剪刀",
+      "audio": "5fbb85c89d36d7697aa3e9ac1f74e7d9.mp3",
+      "lno": "6"
+    },
+    {
+      "id": "124",
+      "word": "хань",
+      "oldWord": "ᠬᠠᠨᠢ",
+      "expl": "（名）朋友",
+      "audio": "b75ae85544e9b7b4feb0a2ffa423813d.mp3",
+      "lno": "6"
+    },
+    {
+      "id": "125",
+      "word": "хонь(н)",
+      "oldWord": "ᠬᠣᠨᠢ",
+      "expl": "（名）绵羊",
+      "audio": "0667e340ec652170646f1e16479c064f.mp3",
+      "lno": "6"
+    },
+    {
+      "id": "126",
+      "word": "цай(н)",
+      "oldWord": "ᠴᠠᠢ",
+      "expl": "（名）茶",
+      "audio": "788dd84d456d2a863737c6be672919f2.mp3",
+      "lno": "6"
+    },
+    {
+      "id": "127",
+      "word": "чиний",
+      "oldWord": "ᠴᠢᠨᠤ",
+      "expl": "（代）你的",
+      "audio": "cbd74555625ac4401736468d6b068446.mp3",
+      "lno": "6"
+    },
+    {
+      "id": "128",
+      "word": "юмгүй",
+      "oldWord": "ᠶᠠᠭᠤᠮ᠎ᠠ ᠦᠭᠡᠢ",
+      "expl": "没有东西",
+      "audio": "c73084d8cf6eafd1c3d44e4d2987067b.mp3",
+      "lno": "6"
+    },
+    {
+      "id": "129",
+      "word": "Баатар",
+      "oldWord": "ᠪᠠᠭᠠᠲᠤᠷ",
+      "expl": "巴特尔",
+      "audio": "2f5f2651ef1deb777f58719f687555bf.mp3",
+      "lno": "7"
+    },
+    {
+      "id": "130",
+      "word": "бал",
+      "oldWord": "ᠪᠠᠯ",
+      "expl": "（名）圆珠笔",
+      "audio": "ff9c63f843b11f9c3666fe46caaddea8.mp3",
+      "lno": "7"
+    },
+    {
+      "id": "131",
+      "word": "баллуур",
+      "oldWord": "ᠪᠠᠯᠠᠯᠤᠭᠤᠷ",
+      "expl": "（名）橡皮",
+      "audio": "2274d423a30ccc6e9dc2fe07bcaf1c1d.mp3",
+      "lno": "7"
+    },
+    {
+      "id": "132",
+      "word": "баярлалаа",
+      "oldWord": "ᠪᠠᠶᠠᠷᠯᠠᠯ᠎ᠠ",
+      "expl": "（动）感谢",
+      "audio": "fe70bb84dadf83d8c6fa05a987659bcc.mp3",
+      "lno": "7"
+    },
+    {
+      "id": "133",
+      "word": "баяртай",
+      "oldWord": "ᠪᠠᠶᠠᠷᠲᠠᠢ",
+      "expl": "（形）再见",
+      "audio": "faf5de3cae37bc3e0e7dfb57a028b9b2.mp3",
+      "lno": "7"
+    },
+    {
+      "id": "134",
+      "word": "бийр",
+      "oldWord": "ᠪᠢᠷ",
+      "expl": "（名）毛笔",
+      "audio": "9ab592fcb9d2392abd7e549d1096252a.mp3",
+      "lno": "7"
+    },
+    {
+      "id": "135",
+      "word": "бэ",
+      "oldWord": "ᠪᠤᠢ", 
+      "expl": "（语）呢",
+      "audio": "19863.mp3",
+      "lno": "7"
+    },
+    {
+      "id": "136",
+      "word": "зөөлөн",
+      "oldWord": "ᠵᠥᠭᠡᠯᠡᠨ",
+      "expl": "（形）软",
+      "audio": "f552d10e82bee3ca647e13534403e6b7.mp3",
+      "lno": "7"
+    },
+    {
+      "id": "137",
+      "word": "зузаан",
+      "oldWord": "ᠵᠤᠵᠠᠭᠠᠨ",
+      "expl": "（形）厚",
+      "audio": "44937a18bd73b61f45f6cd868ef25ad9.mp3",
+      "lno": "7"
+    },
+    {
+      "id": "138",
+      "word": "зүгээр",
+      "oldWord": "ᠵᠦᠭᠡᠷ",
+      "expl": "（副）没关系",
+      "audio": "202571ee97a46aff47f161bbdf201304.mp3",
+      "lno": "7"
+    },
+    {
+      "id": "139",
+      "word": "маргааш",
+      "oldWord": "ᠮᠡᠷᠭᠠᠰᠢ",
+      "expl": "（名）明天",
+      "audio": "a6cf6af73e39bfc490f5f74aa5c31806.mp3",
+      "lno": "7"
+    },
+    {
+      "id": "140",
+      "word": "нарийн",
+      "oldWord": "ᠨᠡᠷᠢᠠ",
+      "expl": "（形）窄",
+      "audio": "f1b13e7ce15256a2b5898109a524638c.mp3",
+      "lno": "7"
+    },
+    {
+      "id": "141",
+      "word": "нимгэн",
+      "oldWord": "ᠨᠢᠮᠭᠡᠨ",
+      "expl": "（形）薄",
+      "audio": "522cd5927f783fc77600fd772a4c812f.mp3",
+      "lno": "7"
+    },
+    {
+      "id": "142",
+      "word": "нөгөөдөр",
+      "oldWord": "ᠨᠥᠭᠥᠭᠡᠳᠦᠷ",
+      "expl": "（名）后天",
+      "audio": "51ceb36085e1dac4343244d192b4f41f.mp3",
+      "lno": "7"
+    },
+    {
+      "id": "143",
+      "word": "нэр",
+      "oldWord": "ᠨᠡᠷ᠎ᠡ",
+      "expl": "（名）姓名",
+      "audio": "da1a38f3a450132623ef0a9c2d06b986.mp3",
+      "lno": "7"
+    },
+    {
+      "id": "144",
+      "word": "өнөөдөр",
+      "oldWord": "ᠥᠨᠥᠳᠥᠷ",
+      "expl": "（名）今天",
+      "audio": "d57d7025c77e824c9af04ec3663d856c.mp3",
+      "lno": "7"
+    },
+    {
+      "id": "145",
+      "word": "өргөн",
+      "oldWord": "ᠦᠷᠭᠡᠠ",
+      "expl": "（形）宽",
+      "audio": "f8877b56b39523cf2e134ca22ad4f499.mp3",
+      "lno": "7"
+    },
+    {
+      "id": "146",
+      "word": "танд",
+      "oldWord": "ᠲᠠᠨ ᠳᠤ",
+      "expl": "（代）对您（та的给在格）",
+      "audio": "tand.mp3",
+      "lno": "7"
+    },
+    {
+      "id": "147",
+      "word": "түргэн",
+      "oldWord": "ᠲᠦᠷᠭᠡᠨ",
+      "expl": "（形）快",
+      "audio": "2b167e0e90ccd4c7e6def85871bdc76d.mp3",
+      "lno": "7"
+    },
+    {
+      "id": "148",
+      "word": "тэмээ(н)",
+      "oldWord": "ᠲᠡᠮᠡᠭᠡ",
+      "expl": "（名）骆驼",
+      "audio": "2ba1d740671bd03ca620046c5b93128f.mp3",
+      "lno": "7"
+    },
+    {
+      "id": "149",
+      "word": "удаан",
+      "oldWord": "ᠤᠳᠠᠭᠠᠨ",
+      "expl": "（形）慢",
+      "audio": "ed17116488dc48e88e31563a0385eb81.mp3",
+      "lno": "7"
+    },
+    {
+      "id": "150",
+      "word": "уржигдар",
+      "oldWord": "ᠤᠷᠵᠢᠳᠤᠷ",
+      "expl": "（名）前天",
+      "audio": "2e3a5313ba5a3cc45e47918ee8d9b5e3.mp3",
+      "lno": "7"
+    },
+    {
+      "id": "151",
+      "word": "уул(н)",
+      "oldWord": "ᠠᠭᠤᠯᠠ",
+      "expl": "（名）山",
+      "audio": "0bf6a1018b9e49f894d3488213eb7060.mp3",
+      "lno": "7"
+    },
+    {
+      "id": "152",
+      "word": "үүл(н)",
+      "oldWord": "ᠡᠭᠦᠯᠡ",
+      "expl": "（名）云",
+      "audio": "c67d19743b5b8d6fcfa0f5fccd49859f.mp3",
+      "lno": "7"
+    },
+    {
+      "id": "153",
+      "word": "үхэр",
+      "oldWord": "ᠦᠬᠡᠷ",
+      "expl": "（名）牛",
+      "audio": "efcae486196fbce3c3ef845a2eee1fa6.mp3",
+      "lno": "7"
+    },
+    {
+      "id": "154",
+      "word": "харандаа(н)",
+      "oldWord": "ᠬᠠᠷᠠᠨᠳᠠ",
+      "expl": "（名）铅笔",
+      "audio": "3ad9ca61520d3d1a29050e5f1e2d48ef.mp3",
+      "lno": "7"
+    },
+    {
+      "id": "155",
+      "word": "хатуу",
+      "oldWord": "ᠬᠠᠲᠠᠭᠤ",
+      "expl": "（形）硬",
+      "audio": "3c531a100b28f61cf5be5fb880339e81.mp3",
+      "lno": "7"
+    },
+    {
+      "id": "156",
+      "word": "хуучин",
+      "oldWord": "ᠬᠠᠭᠤᠴᠢᠠ",
+      "expl": "（形）旧，旧的",
+      "audio": "128f51e0782ac37a6fb136bb7b1ead88.mp3",
+      "lno": "7"
+    },
+    {
+      "id": "157",
+      "word": "цаас(н)",
+      "oldWord": "ᠴᠡᠭᠠᠰᠦ",
+      "expl": "（名）纸",
+      "audio": "f2ac416fdb6fe4897a19ec9cec002b89.mp3",
+      "lno": "7"
+    },
+    {
+      "id": "158",
+      "word": "шинэ",
+      "oldWord": "ᠰᠢᠨ᠎ᠡ",
+      "expl": "（形）新",
+      "audio": "67c2c13e9cc0c312973c90245537fd04.mp3",
+      "lno": "7"
+    },
+    {
+      "id": "159",
+      "word": "шугам",
+      "oldWord": "ᠱᠤᠭᠤᠮ",
+      "expl": "（名）尺子",
+      "audio": "9b3ae3088fda561ec27757f2f8713b62.mp3",
+      "lno": "7"
+    },
+    {
+      "id": "160",
+      "word": "ямаа(н)",
+      "oldWord": "ᠢᠮᠠᠭ᠎ᠠ",
+      "expl": "（名）山羊",
+      "audio": "52128c5dfbd523c851c7fbf70dcf9afd.mp3",
+      "lno": "7"
+    },
+    {
+      "id": "161",
+      "word": "арав(н)",
+      "oldWord": "ᠠᠷᠪᠡ",
+      "expl": "（数）十",
+      "audio": "da707030398f31cba526be8279c81dc9.mp3",
+      "lno": "8"
+    },
+    {
+      "id": "162",
+      "word": "гурав(н)",
+      "oldWord": "ᠭᠤᠷᠪᠠ",
+      "expl": "（数）三",
+      "audio": "923f28737e2fe5e4a57af84cfa3392a2.mp3",
+      "lno": "8"
+    },
+    {
+      "id": "163",
+      "word": "гуч(н)",
+      "oldWord": "ᠭᠤᠴᠢ",
+      "expl": "（数）三十",
+      "audio": "2944a6e7d00416e51188f06ca12031ac.mp3",
+      "lno": "8"
+    },
+    {
+      "id": "164",
+      "word": "гэрлэх",
+      "oldWord": "ᠭᠡᠷᠯᠡᠬᠦ",
+      "expl": "（动）成家，结婚",
+      "audio": "c1072ccf5d49d0ad1ecff4eb4bcd5a69.mp3",
+      "lno": "8"
+    },
+    {
+      "id": "165",
+      "word": "дал(н)",
+      "oldWord": "ᠳᠠᠯᠠ",
+      "expl": "（数）七十",
+      "audio": "0d2e00d2c8b42eefcd3b0b97be31dcaa.mp3",
+      "lno": "8"
+    },
+    {
+      "id": "166",
+      "word": "долоо(н)",
+      "oldWord": "ᠳᠣᠯᠣᠭ᠎ᠠ",
+      "expl": "（数）七",
+      "audio": "5ef10f6f6b0cef4d1c1b38b27b80247d.mp3",
+      "lno": "8"
+    },
+    {
+      "id": "167",
+      "word": "дөрөв(н)",
+      "oldWord": "ᠳᠥᠷᠪᠡ",
+      "expl": "（数）四",
+      "audio": "9dbfc457cdc34af939da63e045289101.mp3",
+      "lno": "8"
+    },
+    {
+      "id": "168",
+      "word": "ер(н)",
+      "oldWord": "ᠶᠡᠷᠡ",
+      "expl": "（数）九十",
+      "audio": "39310.mp3",
+      "lno": "8"
+    },
+    {
+      "id": "169",
+      "word": "жар(н)",
+      "oldWord": "ᠵᠢᠷᠠ",
+      "expl": "（数）六十",
+      "audio": "68995fcbf432492d15484d04a9d2ac40.mp3",
+      "lno": "8"
+    },
+    {
+      "id": "170",
+      "word": "зургаа(н)",
+      "oldWord": "ᠵᠢᠷᠭᠤᠭ᠎ᠠ",
+      "expl": "（数）六",
+      "audio": "ce5e81b123d7475124e7c17ed4a968c5.mp3",
+      "lno": "8"
+    },
+    {
+      "id": "171",
+      "word": "зуу(н)",
+      "oldWord": "ᠵᠠᠭᠤ",
+      "expl": "（数）百",
+      "audio": "28e1105612cbddf7becb1a56863b8e66.mp3",
+      "lno": "8"
+    },
+    {
+      "id": "172",
+      "word": "мянга(н)",
+      "oldWord": "ᠮᠢᠩᠭ᠎ᠠ",
+      "expl": "（数）千",
+      "audio": "e00a6e2b58eefb3c2c7bb37467061cc1.mp3",
+      "lno": "8"
+    },
+    {
+      "id": "173",
+      "word": "найм(н)",
+      "oldWord": "ᠨᠠᠶᠮᠠ",
+      "expl": "（数）八",
+      "audio": "14b127da3d8bfaa63ee2db765f4ac377.mp3",
+      "lno": "8"
+    },
+    {
+      "id": "174",
+      "word": "ная(н)",
+      "oldWord": "ᠨᠠᠶᠠ",
+      "expl": "（数）八十",
+      "audio": "a8ab8ba26a41ea5a37bb6e232deda61a.mp3",
+      "lno": "8"
+    },
+    {
+      "id": "175",
+      "word": "нэг(н)",
+      "oldWord": "ᠨᠢᠭᠡ",
+      "expl": "（数）一",
+      "audio": "f24c2c15b9d03797c6874986a8d19516.mp3",
+      "lno": "8"
+    },
+    {
+      "id": "176",
+      "word": "орой",
+      "oldWord": "ᠣᠷᠣᠢ",
+      "expl": "（名）晚上",
+      "audio": "14fd53a1110ac6666cf6ae15cf10403f.mp3",
+      "lno": "8"
+    },
+    {
+      "id": "177",
+      "word": "өглөө(н)",
+      "oldWord": "ᠥᠷᠯᠥᠭᠡ",
+      "expl": "（名）早",
+      "audio": "5e126b1205172fe219e381d354ca4c55.mp3",
+      "lno": "8"
+    },
+    {
+      "id": "178",
+      "word": "өдөр",
+      "oldWord": "ᠡᠳᠦᠷ",
+      "expl": "（名）白天，日",
+      "audio": "075f70a9ad3190a8f091b2b834da34d0.mp3",
+      "lno": "8"
+    },
+    {
+      "id": "179",
+      "word": "тав(н)",
+      "oldWord": "ᠲᠠᠪᠤ",
+      "expl": "（数）五",
+      "audio": "670615d7175935a9b7ddd3c7c22cabfb.mp3",
+      "lno": "8"
+    },
+    {
+      "id": "180",
+      "word": "тавь(н)",
+      "oldWord": "ᠲᠠᠪᠢ",
+      "expl": "（数）五十",
+      "audio": "62911bf278858defdce165ec8e71f081.mp3",
+      "lno": "8"
+    },
+    {
+      "id": "181",
+      "word": "үдээс өмнө",
+      "oldWord": "ᠦᠳᠡ ᠡᠴᠡ ᠡᠮᠦᠨ᠎ᠡ",
+      "expl": "（词组）上午",
+      "audio": "udees_omono.mp3",
+      "lno": "8"
+    },
+    {
+      "id": "182",
+      "word": "үдээс хойш",
+      "oldWord": "ᠦᠳᠡ ᠡᠴᠡ ᠬᠣᠢᠰᠢ",
+      "expl": "（词组）下午",
+      "audio": "udees_hoish.mp3",
+      "lno": "8"
+    },
+    {
+      "id": "183",
+      "word": "хоёр",
+      "oldWord": "ᠬᠣᠶᠠᠷ",
+      "expl": "（数）二",
+      "audio": "4c7ce35c9bbffb72bfc926eb3aa73df8.mp3",
+      "lno": "8"
+    },
+    {
+      "id": "184",
+      "word": "хорь(н)",
+      "oldWord": "ᠬᠤᠷᠢ",
+      "expl": "（数）二十",
+      "audio": "4b4c25798e1ab81947f6efe02e6db934.mp3",
+      "lno": "8"
+    },
+    {
+      "id": "185",
+      "word": "шөнө",
+      "oldWord": "ᠰᠥᠨᠢ",
+      "expl": "（名）夜",
+      "audio": "0d5f52388f16ddda49c9c059f519eb65.mp3",
+      "lno": "8"
+    },
+    {
+      "id": "186",
+      "word": "аав",
+      "oldWord": "ᠠᠪᠤ",
+      "expl": "（名）爸爸",
+      "audio": "370af5302c6a2e643cf2d172adcc9e38.mp3",
+      "lno": "9"
+    },
+    {
+      "id": "187",
+      "word": "аяга(н)",
+      "oldWord": "ᠠᠶᠠᠭ᠎ᠠ",
+      "expl": "（名）碗",
+      "audio": "128532ed252788e851d99dacdbc69c24.mp3",
+      "lno": "9"
+    },
+    {
+      "id": "188",
+      "word": "бага",
+      "oldWord": "ᠪᠡᠭ᠎ᠠ",
+      "expl": "（形）小的",
+      "audio": "b397f07f41ea7729adbd0f834aadd4e7.mp3",
+      "lno": "9"
+    },
+    {
+      "id": "189",
+      "word": "дасгал",
+      "oldWord": "ᠳᠠᠰᠬᠠᠯ",
+      "expl": "（名）练习",
+      "audio": "00d4be56d0b41405b9c8510705f375bf.mp3",
+      "lno": "9"
+    },
+    {
+      "id": "190",
+      "word": "дүү",
+      "oldWord": "ᠳᠡᠭᠦᠦ",
+      "expl": "（名）弟弟",
+      "audio": "a595827e9d015ac0dc7467d12aa15cc1.mp3",
+      "lno": "9"
+    },
+    {
+      "id": "191",
+      "word": "жолооч",
+      "oldWord": "ᠵᠢᠯᠤᠭᠤᠴᠢ",
+      "expl": "（名）司机",
+      "audio": "23026c5f12cfb7554b315ed2d6a5c22b.mp3",
+      "lno": "9"
+    },
+    {
+      "id": "192",
+      "word": "кино(н)",
+      "oldWord": "ᠺᠢᠨᠣ᠋",
+      "expl": "（名）电影",
+      "audio": "c76cebcfed03de88d955cc917fc644e2.mp3",
+      "lno": "9"
+    },
+    {
+      "id": "193",
+      "word": "монгол",
+      "oldWord": "ᠮᠣᠩᠭᠣᠯ",
+      "expl": "（名）蒙古",
+      "audio": "554a19bedb69dbafe858b3a6acdbcf46.mp3",
+      "lno": "9"
+    },
+    {
+      "id": "194",
+      "word": "орчуулагч",
+      "oldWord": "ᠣᠷᠴᠢᠭᠤᠯᠤᠭ᠌ᠴᠢ",
+      "expl": "（名）翻译",
+      "audio": "5ce9f2bc7286136f67e9c2f2376eddee.mp3",
+      "lno": "9"
+    },
+    {
+      "id": "195",
+      "word": "өвөө",
+      "oldWord": "ᠡᠪᠦᠭᠡ",
+      "expl": "（名）爷爷",
+      "audio": "8953115f030d17c9e21bf747b048751e.mp3",
+      "lno": "9"
+    },
+    {
+      "id": "196",
+      "word": "савх(н)",
+      "oldWord": "ᠰᠠᠪᠬ᠎ᠠ",
+      "expl": "（名）筷子",
+      "audio": "895c927b2d821152231e4b16f8a76bda.mp3",
+      "lno": "9"
+    },
+    {
+      "id": "197",
+      "word": "сэрээ",
+      "oldWord": "ᠰᠡᠷᠡᠭᠡ",
+      "expl": "（名）叉子",
+      "audio": "5ee0d4a374a00c21261e2dafbccadafd.mp3",
+      "lno": "9"
+    },
+    {
+      "id": "198",
+      "word": "таваг",
+      "oldWord": "ᠲᠠᠪᠠᠭ",
+      "expl": "（名）盘子",
+      "audio": "82085f6561120d1ae19b8ea3f7720de8.mp3",
+      "lno": "9"
+    },
+    {
+      "id": "199",
+      "word": "тогооч",
+      "oldWord": "ᠲᠣᠭᠣᠭᠠᠴᠢ",
+      "expl": "（名）厨师",
+      "audio": "327a847e3d87034bbf431c4099c5977d.mp3",
+      "lno": "9"
+    },
+    {
+      "id": "200",
+      "word": "үнэн",
+      "oldWord": "ᠦᠨᠡᠨ",
+      "expl": "（名）真理",
+      "audio": "5e5a195a6787bd833fad55b95e6b88c7.mp3",
+      "lno": "9"
+    },
+    {
+      "id": "201",
+      "word": "халбага",
+      "oldWord": "ᠬᠠᠯᠪᠠᠭ᠎ᠠ",
+      "expl": "（名）勺子",
+      "audio": "8cfaed9d9edf4c9d6b4d603b72f356ff.mp3",
+      "lno": "9"
+    },
+    {
+      "id": "202",
+      "word": "хутга(н)",
+      "oldWord": "ᠬᠢᠲᠤᠭ᠎ᠠ",
+      "expl": "（名）刀子",
+      "audio": "e50eab9ff640862dc00752a2796c0eff.mp3",
+      "lno": "9"
+    },
+    {
+      "id": "203",
+      "word": "чоно",
+      "oldWord": "ᠴᠢᠨᠦ᠎ᠠ",
+      "expl": "（名）狼",
+      "audio": "7723cafffc8e22d1a4eedcefa1820c40.mp3",
+      "lno": "9"
+    },
+    {
+      "id": "204",
+      "word": "эмээ",
+      "oldWord": "ᠡᠮᠡᠭᠡ",
+      "expl": "（名）奶奶",
+      "audio": "f3f73dac4db0911d7736f7af66c2f8cb.mp3",
+      "lno": "9"
+    },
+    {
+      "id": "205",
+      "word": "ээж",
+      "oldWord": "ᠡᠵᠢ",
+      "expl": "（名）妈妈",
+      "audio": "8cdb31dcb428609cb5b7185ca6e9722e.mp3",
+      "lno": "9"
+    },
+    {
+      "id": "206",
+      "word": "бохир",
+      "oldWord": "ᠪᠣᠬᠢᠷ",
+      "expl": "（形）肮脏的",
+      "audio": "c71b182c50d19554ee1808ca8fa085e2.mp3",
+      "lno": "10"
+    },
+    {
+      "id": "207",
+      "word": "бүрхэг",
+      "oldWord": "ᠪᠦᠷᠬᠦᠭ",
+      "expl": "（形）阴霾",
+      "audio": "e583241226f34f1f4f5d2b2ad8045102.mp3",
+      "lno": "10"
+    },
+    {
+      "id": "208",
+      "word": "гуанз(хоолны газар)",
+      "oldWord": "ᠭᠤᠸᠠᠩᠵᠠ",
+      "expl": "（名）食堂（饭馆）",
+      "audio": "e2927c4f5c050e0ad98ebb65eebe0d56.mp3",
+      "lno": "10"
+    },
+    {
+      "id": "209",
+      "word": "номын сан",
+      "oldWord": "ᠨᠣᠮ ᠤᠨ ᠰᠠᠩ",
+      "expl": "（词组）图书馆",
+      "audio": "nomin_sang.mp3",
+      "lno": "10"
+    },
+    {
+      "id": "210",
+      "word": "байр",
+      "oldWord": "ᠪᠠᠢᠷᠢ",
+      "expl": "（名）房屋，处所",
+      "audio": "bda6185c15be83c6eab2abf4976350fc.mp3",
+      "lno": "10"
+    },
+    {
+      "id": "211",
+      "word": "оюутны байр",
+      "oldWord": "ᠣᠶᠤᠲᠠᠨ ᠤ ᠪᠠᠢᠷᠢ",
+      "expl": "（词组）学生宿舍",
+      "audio": "oyotni_bair.mp3",
+      "lno": "10"
+    },
+    {
+      "id": "212",
+      "word": "уншлагын танхим",
+      "oldWord": "ᠤᠩᠰᠢᠯᠭ᠎ᠠ ᠶᠢᠨ ᠲᠠᠩᠬᠢᠮ",
+      "expl": "（词组）阅览室",
+      "audio": "unshlagin_tanhim.mp3",
+      "lno": "10"
+    },
+    {
+      "id": "213",
+      "word": "халуун",
+      "oldWord": "ᠬᠠᠯᠠᠭᠤᠨ",
+      "expl": "（形）热",
+      "audio": "40a2eddb6e64fd2c6e67b8fab1600150.mp3",
+      "lno": "10"
+    },
+    {
+      "id": "214",
+      "word": "анги",
+      "oldWord": "ᠠᠩᠭᠢ",
+      "expl": "（名）班级",
+      "audio": "a468b64fb1df377c732520d97aaa1ad9.mp3",
+      "lno": "10"
+    },
+    {
+      "id": "215",
+      "word": "хичээлийн анги",
+      "oldWord": "ᠬᠢᠴᠢᠶᠡᠯ ᠦᠨ ᠠᠩᠭᠢ",
+      "expl": "（词组）教室",
+      "audio": "hicheelin_angi.mp3",
+      "lno": "10"
+    },
+    {
+      "id": "216",
+      "word": "хичээлийн байр",
+      "oldWord": "ᠬᠢᠴᠢᠶᠡᠯ ᠦᠨ ᠪᠠᠢᠷᠢ",
+      "expl": "（词组）教学楼",
+      "audio": "hicheelin_bair.mp3",
+      "lno": "10"
+    },
+    {
+      "id": "217",
+      "word": "хоол(н)",
+      "oldWord": "ᠬᠣᠭᠣᠯᠠ",
+      "expl": "（名）饭",
+      "audio": "9106527da2415f8ce6203a262a611e86.mp3",
+      "lno": "10"
+    },
+    {
+      "id": "218",
+      "word": "хүйтэн",
+      "oldWord": "ᠬᠦᠢᠲᠡᠨ",
+      "expl": "（形）冷，冷的",
+      "audio": "40ab52abc320cf0f98e56eb8a2f136fd.mp3",
+      "lno": "10"
+    },
+    {
+      "id": "219",
+      "word": "цэвэр",
+      "oldWord": "ᠴᠡᠪᠡᠷ",
+      "expl": "（形）干净的",
+      "audio": "ac44f8917ed80eb243a70ce4dcf532c7.mp3",
+      "lno": "10"
+    },
+    {
+      "id": "220",
+      "word": "цэлмэг",
+      "oldWord": "ᠴᠡᠯᠮᠡᠭ",
+      "expl": "（形）晴朗的",
+      "audio": "c768b91913be7a6559166e3a3d4acc8d.mp3",
+      "lno": "10"
+    },
+    {
+      "id": "221",
+      "word": "ажилчин",
+      "oldWord": "ᠠᠵᠢᠯᠴᠢᠨ",
+      "expl": "（名）工人",
+      "audio": "afee655b47bc752a5fdda8200b7b9331.mp3",
+      "lno": "11"
+    },
+    {
+      "id": "222",
+      "word": "алга",
+      "oldWord": "ᠠᠯᠠᠭ᠎ᠠ",
+      "expl": "（副）没有",
+      "audio": "e6f47b8acce0ca7627e3018b3efad838.mp3",
+      "lno": "11"
+    },
+    {
+      "id": "223",
+      "word": "боов(н)",
+      "oldWord": "ᠪᠣᠣᠪᠤ",
+      "expl": "（名）点心",
+      "audio": "b641b6c51533d8ec7af7fc2470d9a682.mp3",
+      "lno": "11"
+    },
+    {
+      "id": "224",
+      "word": "бүсгүй",
+      "oldWord": "ᠪᠦᠰᠡᠭᠦᠢ",
+      "expl": "（名）妇女",
+      "audio": "3ba09abbfe01a297c86ab8b3466e0c2f.mp3",
+      "lno": "11"
+    },
+    {
+      "id": "225",
+      "word": "гуай",
+      "oldWord": "ᠭᠤᠸᠠᠶ",
+      "expl": "（名）先生",
+      "audio": "7ff45860ff8d46e35a5b5dde3ca2a2ac.mp3",
+      "lno": "11"
+    },
+    {
+      "id": "226",
+      "word": "жимс(н)",
+      "oldWord": "ᠵᠢᠮᠢᠰ",
+      "expl": "（名）水果",
+      "audio": "9076583bce34c2436def1c72e0fcdef9.mp3",
+      "lno": "11"
+    },
+    {
+      "id": "227",
+      "word": "захирал",
+      "oldWord": "ᠵᠠᠬᠢᠷᠤᠯ",
+      "expl": "（名）校长",
+      "audio": "68c0ef6c263e4a163cb8eb04a3cd3048.mp3",
+      "lno": "11"
+    },
+    {
+      "id": "228",
+      "word": "зураач",
+      "oldWord": "ᠵᠢᠷᠤᠭᠠᠴᠢ",
+      "expl": "（名）画家，画师",
+      "audio": "2ec752c2b274f8983ac95704d457d7ba.mp3",
+      "lno": "11"
+    },
+    {
+      "id": "229",
+      "word": "зурагчин",
+      "oldWord": "ᠵᠢᠷᠤᠭᠴᠢᠨ",
+      "expl": "（名）摄影师",
+      "audio": "a585bc4752b5e14a304d8efbefc78bcd.mp3",
+      "lno": "11"
+    },
+    {
+      "id": "230",
+      "word": "машин",
+      "oldWord": "ᠮᠠᠰᠢᠨ",
+      "expl": "（名）汽车",
+      "audio": "c45ae4ff979a05ef5349c40c5e76846d.mp3",
+      "lno": "11"
+    },
+    {
+      "id": "231",
+      "word": "мөн",
+      "oldWord": "ᠮᠥᠨ",
+      "expl": "（副）是的",
+      "audio": "5c06439cb1d0bbc8df5f28ba5ea3c50f.mp3",
+      "lno": "11"
+    },
+    {
+      "id": "232",
+      "word": "найз",
+      "oldWord": "ᠨᠠᠢᠵᠠ",
+      "expl": "（名）朋友",
+      "audio": "74ece747c96b1d715698d89a569c9e7d.mp3",
+      "lno": "11"
+    },
+    {
+      "id": "233",
+      "word": "орос",
+      "oldWord": "ᠤᠷᠦᠰ",
+      "expl": "（名）俄罗斯",
+      "audio": "8bf6d9334fb55ce18d82e677822a8d8a.mp3",
+      "lno": "11"
+    },
+    {
+      "id": "234",
+      "word": "оюутан",
+      "oldWord": "ᠣᠶᠤᠲᠠᠨ",
+      "expl": "（名）大学生",
+      "audio": "fafb78a8c98050cbc91e40ef5c4adbea.mp3",
+      "lno": "11"
+    },
+    {
+      "id": "235",
+      "word": "саруул",
+      "oldWord": "ᠰᠡᠷᠡᠭᠤᠯ",
+      "expl": "（形）明亮的",
+      "audio": "c2cbaa8f576de16eb8d66cf635ca6c5d.mp3",
+      "lno": "11"
+    },
+    {
+      "id": "236",
+      "word": "солонгос",
+      "oldWord": "ᠰᠤᠯᠦᠨᠭᠭᠤᠰ",
+      "expl": "（名）朝鲜",
+      "audio": "380a1e4eb5961c7b5b3d56e416cf5bc4.mp3",
+      "lno": "11"
+    },
+    {
+      "id": "237",
+      "word": "сургууль",
+      "oldWord": "ᠰᠤᠷᠭᠠᠭᠤᠯᠢ",
+      "expl": "（名）学校",
+      "audio": "9b2395f7f9a2f29f97c5897800824f9a.mp3",
+      "lno": "11"
+    },
+    {
+      "id": "238",
+      "word": "талхчин",
+      "oldWord": "ᠲᠠᠯᠬᠠᠴᠢᠨ",
+      "expl": "（名）面包师",
+      "audio": "396f08ddab0027301c4ca8f770e9e9ef.mp3",
+      "lno": "11"
+    },
+    {
+      "id": "239",
+      "word": "хаалга(н)",
+      "oldWord": "ᠬᠠᠭᠠᠯᠭ᠎ᠠ",
+      "expl": "（名）门",
+      "audio": "0ac75a0cf416ba268bb44b29710d240f.mp3",
+      "lno": "11"
+    },
+    {
+      "id": "240",
+      "word": "ширээ(н)",
+      "oldWord": "ᠰᠢᠷᠡᠭᠡ",
+      "expl": "（名）桌子",
+      "audio": "a5da77f59ae663152fac95fa8a7e86d4.mp3",
+      "lno": "11"
+    },
+    {
+      "id": "241",
+      "word": "шохой",
+      "oldWord": "ᠴᠣᠬᠤᠢ",
+      "expl": "（名）粉笔",
+      "audio": "c2115d1996d2695609c44351ef946521.mp3",
+      "lno": "11"
+    },
+    {
+      "id": "242",
+      "word": "япон",
+      "oldWord": "ᠶᠠᠫᠤᠨ",
+      "expl": "（名）日本",
+      "audio": "4c694838c4bfde74d29218a7df301b0f.mp3",
+      "lno": "11"
+    },
+    {
+      "id": "243",
+      "word": "айраг",
+      "oldWord": "ᠠᠢᠷᠠᠭ",
+      "expl": "（名）马奶酒",
+      "audio": "cdd565a77d44bc67909fac79b67bfb46.mp3",
+      "lno": "12"
+    },
+    {
+      "id": "244",
+      "word": "амархан",
+      "oldWord": "ᠠᠮᠡᠷᠬᠠᠠ",
+      "expl": "（形）简单的",
+      "audio": "91987628953cb031e5ca2ea50285edaf.mp3",
+      "lno": "12"
+    },
+    {
+      "id": "245",
+      "word": "англи хэл",
+      "oldWord": "ᠠᠩᠭ᠍ᠯᠢ ᠬᠡᠯᠡ",
+      "expl": "（名）英语",
+      "audio": "angli_hel.mp3",
+      "lno": "12"
+    },
+    {
+      "id": "246",
+      "word": "анхааралтай",
+      "oldWord": "ᠠᠩᠬᠠᠷᠤᠯᠲᠠᠢ",
+      "expl": "（形）注意的",
+      "audio": "5ede9fc369c3714378f2ea8dbba6d422.mp3",
+      "lno": "12"
+    },
+    {
+      "id": "247",
+      "word": "бичих",
+      "oldWord": "ᠪᠢᠴᠢᠬᠦ",
+      "expl": "（动）写",
+      "audio": "561b027bc5cbb300cc1f5a8c2486cd97.mp3",
+      "lno": "12"
+    },
+    {
+      "id": "248",
+      "word": "гайгүй",
+      "oldWord": "ᠭᠠᠢᠭᠤᠢ",
+      "expl": "（副）还可以",
+      "audio": "6bd9cea0159373119fd45101f5287d78.mp3",
+      "lno": "12"
+    },
+    {
+      "id": "249",
+      "word": "дагах",
+      "oldWord": "ᠲᠡᠭᠠᠬᠤ",
+      "expl": "（动）跟随",
+      "audio": "dfca946b7d8aab674842eccaf1a67043.mp3",
+      "lno": "12"
+    },
+    {
+      "id": "250",
+      "word": "дуу(н)",
+      "oldWord": "ᠳᠠᠭᠤᠤ",
+      "expl": "（名）歌",
+      "audio": "946f1890dda2e1e3e807e0d12aaa1da1.mp3",
+      "lno": "12"
+    },
+    {
+      "id": "251",
+      "word": "дуулах",
+      "oldWord": "ᠳᠠᠭᠤᠯᠠᠬᠤ",
+      "expl": "（动）唱歌，听，听说",
+      "audio": "eeee017c2f29b952fc9255fd9b1f1bbf.mp3",
+      "lno": "12"
+    },
+    {
+      "id": "252",
+      "word": "заах",
+      "oldWord": "ᠵᠢᠭᠠᠬᠤ",
+      "expl": "（动）教",
+      "audio": "bef3a1380df9a8195989c2588153d119.mp3",
+      "lno": "12"
+    },
+    {
+      "id": "253",
+      "word": "засах",
+      "oldWord": "ᠵᠠᠰᠠᠬᠤ",
+      "expl": "（动）修理",
+      "audio": "cd85c409bd150eefbbd9d34cd897738f.mp3",
+      "lno": "12"
+    },
+    {
+      "id": "254",
+      "word": "захидал",
+      "oldWord": "ᠵᠡᠬᠢᠳᠡᠯ",
+      "expl": "（名）信",
+      "audio": "a48fb9a2761336ad619a33b5ab2efcef.mp3",
+      "lno": "12"
+    },
+    {
+      "id": "255",
+      "word": "зураг",
+      "oldWord": "ᠵᠢᠷᠤᠭ",
+      "expl": "（名）画，照片",
+      "audio": "e01581c56e76994851d76271d513be8d.mp3",
+      "lno": "12"
+    },
+    {
+      "id": "256",
+      "word": "зурах",
+      "oldWord": "ᠵᠢᠷᠦᠬᠤ",
+      "expl": "（动）画",
+      "audio": "5b184bc402615f331919574a4b8b9529.mp3",
+      "lno": "12"
+    },
+    {
+      "id": "257",
+      "word": "идэх",
+      "oldWord": "ᠢᠳᠡᠬᠦ",
+      "expl": "（动）吃",
+      "audio": "44154a33db8a6f4aee94a7f9ba711663.mp3",
+      "lno": "12"
+    },
+    {
+      "id": "258",
+      "word": "ирэх",
+      "oldWord": "ᠢᠷᠡᠬᠦ",
+      "expl": "（动）来",
+      "audio": "0ca267c0610f4db7ed13a149b7f4a033.mp3",
+      "lno": "12"
+    },
+    {
+      "id": "259",
+      "word": "маллах",
+      "oldWord": "ᠮᠠᠯᠯᠠᠬᠤ",
+      "expl": "（动）放牧",
+      "audio": "fdfd96c9ba368be8dbdbdaf66c00fcef.mp3",
+      "lno": "12"
+    },
+    {
+      "id": "260",
+      "word": "нилээд",
+      "oldWord": "ᠨᠡᠯᠢᠶᠡᠳ",
+      "expl": "（副）相当，颇",
+      "audio": "nileed.mp3",
+      "lno": "12"
+    },
+    {
+      "id": "261",
+      "word": "радио",
+      "oldWord": "ᠷᠡᠳᠢᠤ᠋",
+      "expl": "（名）广播",
+      "audio": "a398fb77df76e6153df57cd65fd0a7c5.mp3",
+      "lno": "12"
+    },
+    {
+      "id": "262",
+      "word": "тайлбарлах",
+      "oldWord": "ᠲᠠᠢᠯᠪᠤᠷᠢᠯᠠᠬᠤ",
+      "expl": "（动）解释",
+      "audio": "5582cd2eac5cc5df47c0ca1bef9f52d2.mp3",
+      "lno": "12"
+    },
+    {
+      "id": "263",
+      "word": "угаах",
+      "oldWord": "ᠤᠭᠠᠬᠤ",
+      "expl": "（动）洗",
+      "audio": "33361144c9d1205dec8af0ff42c7a269.mp3",
+      "lno": "12"
+    },
+    {
+      "id": "264",
+      "word": "унших",
+      "oldWord": "ᠤᠩᠰᠢᠬᠤ",
+      "expl": "（动）读",
+      "audio": "ceef690691d769e4dfed3584a7f4c0fc.mp3",
+      "lno": "12"
+    },
+    {
+      "id": "265",
+      "word": "уух",
+      "oldWord": "ᠤᠤᠭᠤᠬᠤ",
+      "expl": "（动）喝",
+      "audio": "9a2bee1afac7a8ad141b7f0e4a26ce3f.mp3",
+      "lno": "12"
+    },
+    {
+      "id": "266",
+      "word": "үзэх",
+      "oldWord": "ᠦᠵᠡᠬᠦ",
+      "expl": "（动）看，学习",
+      "audio": "4e371e3487696ce36d33f2461ad406b2.mp3",
+      "lno": "12"
+    },
+    {
+      "id": "267",
+      "word": "чийдэн(г)",
+      "oldWord": "ᠴᠢᠳᠡᠩ",
+      "expl": "（名）电灯",
+      "audio": "b63e03ba847d497bc8471d5b4ed40ba8.mp3",
+      "lno": "12"
+    },
+    {
+      "id": "268",
+      "word": "шар айраг",
+      "oldWord": "ᠰᠢᠷ᠎ᠠ ᠠᠢᠷᠠᠭ",
+      "expl": "（名）啤酒",
+      "audio": "shar_airag.mp3",
+      "lno": "12"
+    },
+    {
+      "id": "269",
+      "word": "эмэгтэй",
+      "oldWord": "ᠡᠮᠡᠭᠲᠡᠢ",
+      "expl": "（形·名）女的；女人",
+      "audio": "356fac67dc339937a15e9bb611a4c8c4.mp3",
+      "lno": "12"
+    },
+    {
+      "id": "270",
+      "word": "эрэгтэй",
+      "oldWord": "ᠡᠷᠡᠭᠲᠡᠢ",
+      "expl": "（形·名）男的；男人",
+      "audio": "9ac679af53b7a83babdd322aed068869.mp3",
+      "lno": "12"
+    },
+    {
+      "id": "271",
+      "word": "янз бүрийн",
+      "oldWord": "ᠶᠠᠩᠵᠤ ᠪᠦᠷᠢ ᠶᠢᠨ",
+      "expl": "（词组）各种各样的",
+      "audio": "yangz_buriin.mp3",
+      "lno": "12"
+    },
+    {
+      "id": "272",
+      "word": "буйдан",
+      "oldWord": "ᠪᠤᠢᠳᠠᠩ",
+      "expl": "（名）沙发凳",
+      "audio": "fbe9cb4f12fed456d513a3a1bd06f2fd.mp3",
+      "lno": "13"
+    },
+    {
+      "id": "273",
+      "word": "газрын зураг",
+      "oldWord": "ᠭᠠᠵᠠᠷ ᠤᠨ ᠵᠢᠷᠤᠭ",
+      "expl": "（名）地图",
+      "audio": "gazariin_zurag.mp3",
+      "lno": "13"
+    },
+    {
+      "id": "274",
+      "word": "гоё",
+      "oldWord": "ᠭᠣᠶᠣ",
+      "expl": "（形）漂亮的",
+      "audio": "b5ab07b12068f645d7cb982444ef1f3b.mp3",
+      "lno": "13"
+    },
+    {
+      "id": "275",
+      "word": "гэвч",
+      "oldWord": "ᠭᠡᠪᠡᠴᠦ",
+      "expl": "（连）然而",
+      "audio": "a5b89b975c92b79298f24eab719ff375.mp3",
+      "lno": "13"
+    },
+    {
+      "id": "276",
+      "word": "давхар",
+      "oldWord": "ᠳᠠᠪᠬᠤᠷ",
+      "expl": "（名）层",
+      "audio": "0b15c6483818e137383af2661f0ead18.mp3",
+      "lno": "13"
+    },
+    {
+      "id": "277",
+      "word": "дуртай",
+      "oldWord": "ᠳᠤᠷᠠᠲᠠᠶ",
+      "expl": "（形）喜爱的，喜好的",
+      "audio": "85b855d9b610e68bf38800331979bf2f.mp3",
+      "lno": "13"
+    },
+    {
+      "id": "278",
+      "word": "дэлгүүр",
+      "oldWord": "ᠲᠡᠯᠭᠡᠬᠦᠷ",
+      "expl": "（名）商店",
+      "audio": "c6640549d4b1062403290ca44a069f14.mp3",
+      "lno": "13"
+    },
+    {
+      "id": "279",
+      "word": "дэргэд",
+      "oldWord": "ᠳᠡᠷᠭᠡᠳᠡ",
+      "expl": "（后）在旁，在附近",
+      "audio": "683a17eacd02d39beaaa9d758e7905ba.mp3",
+      "lno": "13"
+    },
+    {
+      "id": "280",
+      "word": "жүүс(н)",
+      "oldWord": "ᠵᠢᠭᠦᠰᠦ",
+      "expl": "（名）果汁",
+      "audio": "44262.mp3",
+      "lno": "13"
+    },
+    {
+      "id": "281",
+      "word": "залгуур",
+      "oldWord": "ᠵᠠᠯᠭᠠᠭᠤᠷ",
+      "expl": "（名）插座",
+      "audio": "cf7c56ec421871d77ce4dedcf128db78.mp3",
+      "lno": "13"
+    },
+    {
+      "id": "282",
+      "word": "зүүн",
+      "oldWord": "ᠵᠡᠭᠦᠨ",
+      "expl": "（名）东面，左边",
+      "audio": "9fab70ce87c4f3ca26d21ad140392379.mp3",
+      "lno": "13"
+    },
+    {
+      "id": "283",
+      "word": "компьютер",
+      "oldWord": "ᠺᠣᠮᠫᠢᠦ᠋ᠲ᠋ᠧᠷ",
+      "expl": "（名）计算机",
+      "audio": "7d79edcfad819c923afb42e2e8379c77.mp3",
+      "lno": "13"
+    },
+    {
+      "id": "284",
+      "word": "кофе",
+      "oldWord": "ᠻᠣᠹᠧ",
+      "expl": "（名）咖啡",
+      "audio": "6ddf88e0ebda86976188aced225066af.mp3",
+      "lno": "13"
+    },
+    {
+      "id": "285",
+      "word": "курс",
+      "oldWord": "ᠺᠦᠷᠰ",
+      "expl": "（名）年级",
+      "audio": "1f53cd4a51064068c05cfc6c2d494312.mp3",
+      "lno": "13"
+    },
+    {
+      "id": "286",
+      "word": "малчин",
+      "oldWord": "ᠮᠠᠯᠴᠢᠨ",
+      "expl": "（名）牧民",
+      "audio": "258d7e4ad9a259bf468bb56f06edcac6.mp3",
+      "lno": "13"
+    },
+    {
+      "id": "287",
+      "word": "нэгдүгээр",
+      "oldWord": "ᠨᠢᠭᠡᠳᠦᠭᠡᠷ",
+      "expl": "（数）第一",
+      "audio": "87fd65a0020466ccaf03fc85ff2a0d22.mp3",
+      "lno": "13"
+    },
+    {
+      "id": "288",
+      "word": "ор(н)",
+      "oldWord": "ᠣᠷᠣ",
+      "expl": "（名）床",
+      "audio": "e81c4e4f2b7b93b481e13a8553c2ae1b.mp3",
+      "lno": "13"
+    },
+    {
+      "id": "289",
+      "word": "өвс(н)",
+      "oldWord": "ᠡᠪᠡᠰᠦ",
+      "expl": "（名）草",
+      "audio": "ee33f142ce7f04b1c7ca3f003adfc6a0.mp3",
+      "lno": "13"
+    },
+    {
+      "id": "290",
+      "word": "өлгүүр",
+      "oldWord": "ᠡᠯᠭᠦᠭᠦᠷ",
+      "expl": "（名）挂钩；悬垂物",
+      "audio": "52d951634032d320aa84147cf019c81f.mp3",
+      "lno": "13"
+    },
+    {
+      "id": "291",
+      "word": "өмсөх",
+      "oldWord": "ᠡᠮᠦᠰᠬᠦ",
+      "expl": "（动）穿",
+      "audio": "d0d4da3f56a30739a2fb8093bd965c3c.mp3",
+      "lno": "13"
+    },
+    {
+      "id": "292",
+      "word": "өнгө(н)",
+      "oldWord": "ᠥᠩᠭᠡ",
+      "expl": "（名）颜色",
+      "audio": "1535bdae58701065ad17784f54a24adc.mp3",
+      "lno": "13"
+    },
+    {
+      "id": "293",
+      "word": "проектор",
+      "oldWord": "ᠫᠷᠣᠶᠧᠺᠲ᠋ᠣᠷ",
+      "expl": "（名）投影仪",
+      "audio": "proyektor.mp3",
+      "lno": "13"
+    },
+    {
+      "id": "294",
+      "word": "самбарын алчуур",
+      "oldWord": "ᠰᠠᠮᠪᠠᠷ᠎ᠠ ᠶᠢᠨ ᠠᠯᠴᠢᠭᠤᠷ",
+      "expl": "（词组）黑板擦",
+      "audio": "sanbariin_alchuur.mp3",
+      "lno": "13"
+    },
+    {
+      "id": "295",
+      "word": "суух",
+      "oldWord": "ᠰᠠᠭᠤᠬᠤ",
+      "expl": "（动）坐；居住",
+      "audio": "8123f1fed7716e7df1672378763de687.mp3",
+      "lno": "13"
+    },
+    {
+      "id": "296",
+      "word": "сэтгүүл",
+      "oldWord": "ᠰᠡᠳᠬᠦᠯ",
+      "expl": "（名）杂志",
+      "audio": "c83d3b3dd56a739ef4cc4e2951b34072.mp3",
+      "lno": "13"
+    },
+    {
+      "id": "297",
+      "word": "тавдугаар",
+      "oldWord": "ᠲᠠᠪᠤᠳᠤᠭᠠᠷ",
+      "expl": "（数）第五",
+      "audio": "0d151ac4f56c46cf3b2ca8ad3ede4466.mp3",
+      "lno": "13"
+    },
+    {
+      "id": "298",
+      "word": "тавиур",
+      "oldWord": "ᠲᠠᠯᠪᠢᠭᠤᠷ",
+      "expl": "（名）架子",
+      "audio": "86aff613099c85359e82429e209d6830.mp3",
+      "lno": "13"
+    },
+    {
+      "id": "299",
+      "word": "толь бичиг",
+      "oldWord": "ᠲᠣᠯᠢ ᠪᠢᠴᠢᠭ",
+      "expl": "（名）辞典",
+      "audio": "toli_bichig.mp3",
+      "lno": "13"
+    },
+    {
+      "id": "300",
+      "word": "тохилог",
+      "oldWord": "ᠲᠣᠬᠢᠯᠢᠭ",
+      "expl": "（形）整洁的，舒适的",
+      "audio": "2e0b3bf023a85059af52ee2071592db2.mp3",
+      "lno": "13"
+    },
+    {
+      "id": "301",
+      "word": "үзэгийн сав(н)",
+      "oldWord": "ᠦᠵᠦᠭ ᠤᠨ ᠰᠠᠪᠠ",
+      "expl": "（词组）文具盒，文具袋",
+      "audio": "uzegiin_sav.mp3",
+      "lno": "13"
+    },
+    {
+      "id": "302",
+      "word": "хавтас(н)",
+      "oldWord": "ᠬᠠᠪᠲᠠᠰᠤ",
+      "expl": "（名）文件夹",
+      "audio": "ffba14475520f7968f6bb3cdd909bb58.mp3",
+      "lno": "13"
+    },
+    {
+      "id": "303",
+      "word": "хашаа(н)",
+      "oldWord": "ᠬᠠᠰᠢᠶ᠎ᠠ",
+      "expl": "（名）围栏，院子",
+      "audio": "10aefe82ef500c67d151705355abe526.mp3",
+      "lno": "13"
+    },
+    {
+      "id": "304",
+      "word": "хэрэгтэй",
+      "oldWord": "ᠬᠡᠷᠡᠭᠲᠡᠢ",
+      "expl": "（形）需要，必须",
+      "audio": "a3494a014290ac4cf23ca5f948694f13.mp3",
+      "lno": "13"
+    },
+    {
+      "id": "305",
+      "word": "цагаан",
+      "oldWord": "ᠴᠡᠭᠠᠠ",
+      "expl": "（形）白色的",
+      "audio": "f80752079a4b2412436c88134939c04d.mp3",
+      "lno": "13"
+    },
+    {
+      "id": "306",
+      "word": "шүүгээ(н)",
+      "oldWord": "ᠱᠦᠭᠦᠶ",
+      "expl": "（名）柜子",
+      "audio": "ce24b4dfb4bbdfcafca817b5e422765e.mp3",
+      "lno": "13"
+    },
+    {
+      "id": "307",
+      "word": "амралт",
+      "oldWord": "ᠠᠮᠠᠷᠠᠯᠲᠠ",
+      "expl": "（名）休息",
+      "audio": "6856366bd01786a085f1efe6667ad716.mp3",
+      "lno": "14"
+    },
+    {
+      "id": "308",
+      "word": "ариун цэврийн цаас",
+      "oldWord": "ᠠᠷᠢᠭᠤᠨ ᠴᠡᠪᠡᠷ  ᠦᠨ ᠴᠠᠭᠠᠰᠤ",
+      "expl": "（词组）卫生纸",
+      "audio": "aryoon_ceveriin_caas.mp3",
+      "lno": "14"
+    },
+    {
+      "id": "309",
+      "word": "банк(н)",
+      "oldWord": "ᠪᠠᠩᠬᠢ",
+      "expl": "（名）银行",
+      "audio": "bd5af1f610a12434c9128e4a399cef8a.mp3",
+      "lno": "14"
+    },
+    {
+      "id": "310",
+      "word": "билет",
+      "oldWord": "ᠪᠢᠯᠧᠲ",
+      "expl": "（名）票",
+      "audio": "13381.mp3",
+      "lno": "14"
+    },
+    {
+      "id": "311",
+      "word": "бөмбөг(н)",
+      "oldWord": "ᠪᠥᠮᠪᠥᠭᠡ",
+      "expl": "（名）球",
+      "audio": "3c935f3d6ef6ca09bb2d8a6a21f68473.mp3",
+      "lno": "14"
+    },
+    {
+      "id": "312",
+      "word": "гэрийн ажил",
+      "oldWord": "ᠭᠡᠷ ᠤᠨ ᠠᠵᠢᠯ",
+      "expl": "（词组）家务",
+      "audio": "geriin_ajil.mp3",
+      "lno": "14"
+    },
+    {
+      "id": "313",
+      "word": "гэрийн даалгавар",
+      "oldWord": "ᠭᠡᠷ ᠤᠨ ᠳᠠᠭᠠᠭᠠᠯᠭᠠᠪᠤᠷᠢ",
+      "expl": "（词组）家庭作业",
+      "audio": "geriin_daalgavar.mp3",
+      "lno": "14"
+    },
+    {
+      "id": "314",
+      "word": "дарга",
+      "oldWord": "ᠳᠠᠷᠤᠭ᠎ᠠ",
+      "expl": "（名）长，首长，长官",
+      "audio": "38324307209d4714164dbb6528e3ef2c.mp3",
+      "lno": "14"
+    },
+    {
+      "id": "315",
+      "word": "дотор",
+      "oldWord": "ᠳᠣᠲᠣᠷ᠎ᠠ",
+      "expl": "（后）内部",
+      "audio": "41756e80572a9ae2732db2690746869a.mp3",
+      "lno": "14"
+    },
+    {
+      "id": "316",
+      "word": "дөрвүүл",
+      "oldWord": "ᠳᠥᠷᠪᠡᠭᠦᠯᠡ",
+      "expl": "（数）四个人",
+      "audio": "1c66e71f2d5fe7cb16f3d5dfb20552bb.mp3",
+      "lno": "14"
+    },
+    {
+      "id": "317",
+      "word": "жааз",
+      "oldWord": "ᠵᠢᠶᠠᠵᠠ",
+      "expl": "（名）框",
+      "audio": "b82a8a24d1f67898a5a81c0bc4b74abe.mp3",
+      "lno": "14"
+    },
+    {
+      "id": "318",
+      "word": "зайрмаг",
+      "oldWord": "ᠵᠠᠢᠷᠮᠠᠭ",
+      "expl": "（名）冰淇淋",
+      "audio": "f00dd896bef4ca42e2482afdc9f81e3e.mp3",
+      "lno": "14"
+    },
+    {
+      "id": "319",
+      "word": "зочид буудал",
+      "oldWord": "ᠵᠣᠴᠢᠳ ᠪᠠᠭᠤᠳᠠᠯ",
+      "expl": "（名）宾馆",
+      "audio": "zochid_buudal.mp3",
+      "lno": "14"
+    },
+    {
+      "id": "320",
+      "word": "зурагт",
+      "oldWord": "ᠵᠢᠷᠤᠭᠲᠤ",
+      "expl": "（名）电视",
+      "audio": "4211e09b9c0de92422ac0f9c9fb60bec.mp3",
+      "lno": "14"
+    },
+    {
+      "id": "321",
+      "word": "зэрэг",
+      "oldWord": "ᠵᠡᠷᠭᠡ",
+      "expl": "（后）等等",
+      "audio": "527dd82f08b0b755bea5597bceefa942.mp3",
+      "lno": "14"
+    },
+    {
+      "id": "322",
+      "word": "интернет кафе",
+      "oldWord": "ᠢᠨᠲ᠋ᠧᠷᠨᠧᠲ ᠺᠠᠹᠧ",
+      "expl": "（词组）网吧",
+      "audio": "internet_cafe.mp3",
+      "lno": "14"
+    },
+    {
+      "id": "323",
+      "word": "нийтийн",
+      "oldWord": "ᠨᠡᠢᠲᠡ ᠶᠢᠨ",
+      "expl": "（形）公共的",
+      "audio": "7d321a589b2321add77c41d4c481ed75.mp3",
+      "lno": "14"
+    },
+    {
+      "id": "324",
+      "word": "орших",
+      "oldWord": "ᠣᠷᠤᠰᠢᠬᠤ",
+      "expl": "（动）位于",
+      "audio": "c101146d43d735e1fe316543d9646cff.mp3",
+      "lno": "14"
+    },
+    {
+      "id": "325",
+      "word": "өгөх",
+      "oldWord": "ᠥᠭᠬᠦ",
+      "expl": "（动）给",
+      "audio": "39bd73c22e60171b66bbe02a98cad6f1.mp3",
+      "lno": "14"
+    },
+    {
+      "id": "326",
+      "word": "өнөө орой",
+      "oldWord": "ᠥᠨᠥ ᠣᠷᠣᠢ",
+      "expl": "（词组）今晚",
+      "audio": "onoo_oroi.mp3",
+      "lno": "14"
+    },
+    {
+      "id": "327",
+      "word": "өрөө(н)",
+      "oldWord": "ᠥᠷᠦᠭᠡ",
+      "expl": "（名）房间",
+      "audio": "31ec3aaae81d74808892ed767b61b9af.mp3",
+      "lno": "14"
+    },
+    {
+      "id": "328",
+      "word": "саван(г)",
+      "oldWord": "ᠰᠡᠪᠦᠡᠭ",
+      "expl": "（名）肥皂",
+      "audio": "3c5f7a68df101dee9a44ccf9eceef3ed.mp3",
+      "lno": "14"
+    },
+    {
+      "id": "329",
+      "word": "тавтай",
+      "oldWord": "ᠲᠠᠪᠲᠠᠢ",
+      "expl": "（形）舒适的",
+      "audio": "a7ac509db1dcd32d5f351c7e7cb69d78.mp3",
+      "lno": "14"
+    },
+    {
+      "id": "330",
+      "word": "тагт",
+      "oldWord": "ᠲᠠᠭᠳᠤ",
+      "expl": "（名）阳台",
+      "audio": "1c6bbe8c42f9ba9d584a6a6c0f67be07.mp3",
+      "lno": "14"
+    },
+    {
+      "id": "331",
+      "word": "тоглох",
+      "oldWord": "ᠲᠣᠭᠯᠠᠬᠤ",
+      "expl": "（动）玩",
+      "audio": "b001ee8b5f2b3829cd2dda1f19b7cbf7.mp3",
+      "lno": "14"
+    },
+    {
+      "id": "332",
+      "word": "туслах",
+      "oldWord": "ᠲᠤᠰᠠᠯᠠᠬᠤ",
+      "expl": "（动）帮助",
+      "audio": "65a4fb37c456072e0671620c5234a473.mp3",
+      "lno": "14"
+    },
+    {
+      "id": "333",
+      "word": "угаалгын машин",
+      "oldWord": "ᠤᠬᠢᠶᠠᠯᠡᠭ᠎ᠠ ᠶ᠋ᠢᠨ ᠮᠠᠱᠢᠨ",
+      "expl": "（名）洗衣机",
+      "audio": "ugalgiin_mashin.mp3",
+      "lno": "14"
+    },
+    {
+      "id": "334",
+      "word": "удахгүй",
+      "oldWord": "ᠤᠳᠠᠬᠤ ᠦᠭᠡᠢ",
+      "expl": "（副）不久",
+      "audio": "2073713e08bf46034820588521060b6f.mp3",
+      "lno": "14"
+    },
+    {
+      "id": "335",
+      "word": "унд",
+      "oldWord": "ᠤᠮᠳᠠ",
+      "expl": "（名）饮料",
+      "audio": "5ff2363014e7ff18f687f29900146aab.mp3",
+      "lno": "14"
+    },
+    {
+      "id": "336",
+      "word": "үнэ төлбөргүй",
+      "oldWord": "ᠦᠨ᠎ᠡ ᠲᠥᠯᠦᠪᠦᠷᠢ ᠦᠭᠡᠢ",
+      "expl": "（词组）免费的",
+      "audio": "une_tolborgui.mp3",
+      "lno": "14"
+    },
+    {
+      "id": "337",
+      "word": "хажуу",
+      "oldWord": "ᠬᠠᠵᠠᠭᠤ",
+      "expl": "（后）旁边",
+      "audio": "fcc331968f49fb1d87c4c1093a31cfa3.mp3",
+      "lno": "14"
+    },
+    {
+      "id": "338",
+      "word": "хамт",
+      "oldWord": "ᠬᠠᠮᠲᠤ",
+      "expl": "（副）一起，共同",
+      "audio": "ff2c0427002393e4ee021c3687f38078.mp3",
+      "lno": "14"
+    },
+    {
+      "id": "339",
+      "word": "харин",
+      "oldWord": "ᠬᠠᠷᠢᠨ",
+      "expl": "（连）然而，而",
+      "audio": "494e9de95640fbe78b67677067145ff4.mp3",
+      "lno": "14"
+    },
+    {
+      "id": "340",
+      "word": "харих",
+      "oldWord": "ᠬᠠᠷᠢᠬᠤ",
+      "expl": "（动）回，回去",
+      "audio": "179978720c00427cbf410a714b9fe6b7.mp3",
+      "lno": "14"
+    },
+    {
+      "id": "341",
+      "word": "хичээлийн хэрэгсэл",
+      "oldWord": "ᠬᠢᠴᠢᠶᠡᠯ ᠤᠨ ᠬᠡᠷᠡᠭᠰᠡᠯ",
+      "expl": "（词组）文具",
+      "audio": "hicheeliin_heregcel.mp3",
+      "lno": "14"
+    },
+    {
+      "id": "342",
+      "word": "хөшиг(н)",
+      "oldWord": "ᠬᠥᠰᠢᠭᠡ",
+      "expl": "（名）窗帘",
+      "audio": "8214c774167f75f7a6dbae9d2a43d286.mp3",
+      "lno": "14"
+    },
+    {
+      "id": "343",
+      "word": "цүнх(н)",
+      "oldWord": "ᠴᠦᠩᠬᠦ",
+      "expl": "（名）提包，袋子",
+      "audio": "563d7ba0da87e05043ff86eb79ce1bd0.mp3",
+      "lno": "14"
+    },
+    {
+      "id": "344",
+      "word": "шуудан(г)",
+      "oldWord": "ᠰᠢᠤᠳᠠᠨ",
+      "expl": "（名）邮局",
+      "audio": "44a92a47d7a8a938afc65d29b956854c.mp3",
+      "lno": "14"
+    },
+    {
+      "id": "345",
+      "word": "шүд",
+      "oldWord": "ᠰᠢᠳᠦ",
+      "expl": "（名）牙",
+      "audio": "e7d640e51277835e7dd8a1996838fa8f.mp3",
+      "lno": "14"
+    },
+    {
+      "id": "346",
+      "word": "шүдийн сойз",
+      "oldWord": "ᠰᠢᠳᠦᠨ ᠤ ᠱᠤᠸᠠᠵᠠ",
+      "expl": "（词组）牙刷",
+      "audio": "shudnii_coiz.mp3",
+      "lno": "14"
+    },
+    {
+      "id": "347",
+      "word": "яриа(н)",
+      "oldWord": "ᠶᠠᠷᠢᠶ᠎ᠠ",
+      "expl": "（名）讲话，会话",
+      "audio": "91c35b6b1ac5bef0f8d78f42d7ea8fd9.mp3",
+      "lno": "14"
+    },
+    {
+      "id": "348",
+      "word": "удирдах",
+      "oldWord": "ᠤᠳᠤᠷᠢᠳᠬᠤ",
+      "expl": "（动）管理",
+      "audio": "a85ab8ddaf34a0766a0be14986a59317.mp3",
+      "lno": "15"
+    },
+    {
+      "id": "349",
+      "word": "ангийн удирдах багш",
+      "oldWord": "ᠠᠩᠭᠢ ᠶᠢᠨ ᠤᠳᠤᠷᠢᠳᠬᠤ ᠪᠠᠭᠰᠢ",
+      "expl": "（词组）班主任",
+      "audio": "ang_udardax_bagsh.mp3",
+      "lno": "15"
+    },
+    {
+      "id": "350",
+      "word": "Баасан(тав дахь өдөр)",
+      "oldWord": "ᠪᠠᠰᠠᠩ",
+      "expl": "（名）星期五",
+      "audio": "9548.mp3",
+      "lno": "15"
+    },
+    {
+      "id": "351",
+      "word": "Бямба(хагас сайн өдөр / зургаа дахь өдөр)",
+      "oldWord": "ᠪᠢᠮᠪᠠ",
+      "expl": "（名）星期六",
+      "audio": "20855.mp3",
+      "lno": "15"
+    },
+    {
+      "id": "352",
+      "word": "гариг",
+      "oldWord": "ᠭᠠᠷᠢᠭ",
+      "expl": "（名）行星，星期",
+      "audio": "23462.mp3",
+      "lno": "15"
+    },
+    {
+      "id": "353",
+      "word": "гутал",
+      "oldWord": "ᠭᠤᠲᠤᠯ",
+      "expl": "（名）靴子",
+      "audio": "1a7dc05f6c0221b1f7d77e123d61771b.mp3",
+      "lno": "15"
+    },
+    {
+      "id": "354",
+      "word": "Даваа(нэг дэх өдөр)",
+      "oldWord": "ᠳᠠᠪᠠᠭ᠎ᠠ",
+      "expl": "（名）星期一",
+      "audio": "29217.mp3",
+      "lno": "15"
+    },
+    {
+      "id": "355",
+      "word": "дараа",
+      "oldWord": "ᠳᠠᠷᠠᠭ᠎ᠠ",
+      "expl": "（后）然后，之后",
+      "audio": "9dab860b4c12cae3870a1d32665bf2c3.mp3",
+      "lno": "15"
+    },
+    {
+      "id": "356",
+      "word": "долоо хоног",
+      "oldWord": "ᠳᠣᠯᠤᠭ᠎ᠠ ᠬᠣᠨᠤᠭ",
+      "expl": "（名）一周",
+      "audio": "doloo_honog.mp3",
+      "lno": "15"
+    },
+    {
+      "id": "357",
+      "word": "захих",
+      "oldWord": "ᠵᠠᠬᠢᠬᠤ",
+      "expl": "（动）订购",
+      "audio": "0463eabaa9d64a38ad96c67b10b13431.mp3",
+      "lno": "15"
+    },
+    {
+      "id": "358",
+      "word": "Лхагва(гурав дахь өдөр)",
+      "oldWord": "ᡀᠠᠭᠪᠠ",
+      "expl": "（名）星期三",
+      "audio": "55032.mp3",
+      "lno": "15"
+    },
+    {
+      "id": "359",
+      "word": "май",
+      "oldWord": "ᠮᠠᠶ",
+      "expl": "（感）给（你）",
+      "audio": "c1dc3094eaa126ceb36e117ab23c699f.mp3",
+      "lno": "15"
+    },
+    {
+      "id": "360",
+      "word": "марк",
+      "oldWord": "ᠮᠠᠷᠻ",
+      "expl": "（名）邮票",
+      "audio": "ea82410c7a9991816b5eeeebe195e20a.mp3",
+      "lno": "15"
+    },
+    {
+      "id": "361",
+      "word": "монголчууд",
+      "oldWord": "ᠮᠣᠩᠭᠣᠯᠴᠤᠳ",
+      "expl": "（名）蒙古人",
+      "audio": "36f908506c57c90f89434eafe8e44429.mp3",
+      "lno": "15"
+    },
+    {
+      "id": "362",
+      "word": "мөнгө(н)",
+      "oldWord": "ᠮᠥᠩᠭᠥ",
+      "expl": "（名）钱；银子",
+      "audio": "25e1224d099e8597c537885ab7619df7.mp3",
+      "lno": "15"
+    },
+    {
+      "id": "363",
+      "word": "Мягмар(хоёр дахь өдөр)",
+      "oldWord": "ᠮᠢᠭᠮᠠᠷ",
+      "expl": "（名）星期二",
+      "audio": "60159.mp3",
+      "lno": "15"
+    },
+    {
+      "id": "364",
+      "word": "Ням(бүтэн сайн өдөр / долоо дахь өдөр)",
+      "oldWord": "ᠨᠢᠮ᠎ᠠ",
+      "expl": "（名）星期日",
+      "audio": "66035.mp3",
+      "lno": "15"
+    },
+    {
+      "id": "365",
+      "word": "овог",
+      "oldWord": "ᠣᠪᠣᠭ",
+      "expl": "（名）氏族；姓",
+      "audio": "750140c3cde903d9da01c924848017f7.mp3",
+      "lno": "15"
+    },
+    {
+      "id": "366",
+      "word": "охин",
+      "oldWord": "ᠦᠬᠢᠨ",
+      "expl": "（名）女儿，女孩，少女",
+      "audio": "3e3b7dce6b8e32297a255f04bb5b3e71.mp3",
+      "lno": "15"
+    },
+    {
+      "id": "367",
+      "word": "өлсөх",
+      "oldWord": "ᠥᠯᠦᠰᠬᠦ",
+      "expl": "（动）饿",
+      "audio": "cebd5f9eab19d975b8ea04cbd29a50ee.mp3",
+      "lno": "15"
+    },
+    {
+      "id": "368",
+      "word": "өөр",
+      "oldWord": "ᠥᠭᠡᠷ᠎ᠡ",
+      "expl": "（形）不同的，其他的",
+      "audio": "fc60c069f5ff37e4617cf542283e9b4e.mp3",
+      "lno": "15"
+    },
+    {
+      "id": "369",
+      "word": "Пүрэв(дөрөв дэх өдөр)",
+      "oldWord": "ᠫᠦᠷᠪᠦ",
+      "expl": "（名）星期四",
+      "audio": "74010.mp3",
+      "lno": "15"
+    },
+    {
+      "id": "370",
+      "word": "танилцуулах",
+      "oldWord": "ᠲᠡᠨᠢᠯᠴᠡᠭᠤᠯᠬᠤ",
+      "expl": "（动）介绍",
+      "audio": "48e10b28bbbfcb283ebf21ec00c46af8.mp3",
+      "lno": "15"
+    },
+    {
+      "id": "371",
+      "word": "тухай",
+      "oldWord": "ᠲᠤᠬᠠᠶ",
+      "expl": "（后）关于，有关",
+      "audio": "afcff18131eb894c97eef039fed0a06b.mp3",
+      "lno": "15"
+    },
+    {
+      "id": "372",
+      "word": "хайртай",
+      "oldWord": "ᠬᠠᠢᠷᠠᠲᠠᠢ",
+      "expl": "（形）喜爱……的",
+      "audio": "bfa9f0e1bd4cbbedd3decb95e6f56b1a.mp3",
+      "lno": "15"
+    },
+    {
+      "id": "373",
+      "word": "худалдагч",
+      "oldWord": "ᠬᠤᠳᠠᠯᠳᠤᠭᠴᠢ",
+      "expl": "（名）售货员",
+      "audio": "5d88a6b9d8d9b6b33ea1b78f8d547e64.mp3",
+      "lno": "15"
+    },
+    {
+      "id": "374",
+      "word": "хурал",
+      "oldWord": "ᠬᠤᠷᠠᠯ",
+      "expl": "（名）会，会议",
+      "audio": "bf8e5b79f9051c12ec4b2eef15611ea8.mp3",
+      "lno": "15"
+    },
+    {
+      "id": "375",
+      "word": "цагаан идээ",
+      "oldWord": "ᠴᠠᠭᠠᠨ ᠢᠳᠡᠭᠡ",
+      "expl": "（名）奶食",
+      "audio": "cagaan_idee.mp3",
+      "lno": "15"
+    },
+    {
+      "id": "376",
+      "word": "чихэр",
+      "oldWord": "ᠰᠢᠬᠢᠷ",
+      "expl": "（名）糖",
+      "audio": "848d039650ae1e45e84198783b311e94.mp3",
+      "lno": "15"
+    },
+    {
+      "id": "377",
+      "word": "ядрах",
+      "oldWord": "ᠶᠡᠳᠡᠷᠡᠬᠤ",
+      "expl": "（动）疲劳，累",
+      "audio": "798b72eed28cce717b78b7798ee2ea63.mp3",
+      "lno": "15"
+    },
+    {
+      "id": "378",
+      "word": "алдар",
+      "oldWord": "ᠠᠯᠳᠡᠷ",
+      "expl": "（名）名字；名声",
+      "audio": "d4f6f20552808003d2abbbafae94ec57.mp3",
+      "lno": "15"
+    },
+    {
+      "id": "379",
+      "word": "Ази",
+      "oldWord": "ᠠᠽᠢᠶ᠎ᠠ",
+      "expl": "（名）亚洲",
+      "audio": "630bea3b12744b776c5c14a9af61e288.mp3",
+      "lno": "16"
+    },
+    {
+      "id": "380",
+      "word": "амттай",
+      "oldWord": "ᠠᠮᠲᠠᠲᠠᠢ",
+      "expl": "（形）美味的",
+      "audio": "681150151b254f3c8b97a7efd3db6da5.mp3",
+      "lno": "16"
+    },
+    {
+      "id": "381",
+      "word": "баар(н)",
+      "oldWord": "ᠪᠠᠭᠠᠷ",
+      "expl": "（名）酒吧",
+      "audio": "73356ec0dc224e18f2fc00594448ec54.mp3",
+      "lno": "16"
+    },
+    {
+      "id": "382",
+      "word": "банш",
+      "oldWord": "ᠪᠠᠩᠰᠢ",
+      "expl": "（名）饺子",
+      "audio": "7d16191d6f9657b33b73b8bdfae97837.mp3",
+      "lno": "16"
+    },
+    {
+      "id": "383",
+      "word": "баруун",
+      "oldWord": "ᠪᠠᠷᠠᠭᠤᠨ",
+      "expl": "（名）西；右边",
+      "audio": "28566541a23c73b41e08618b9e38448a.mp3",
+      "lno": "16"
+    },
+    {
+      "id": "384",
+      "word": "биеийн тамир",
+      "oldWord": "ᠪᠡᠶ᠎ᠡ ᠶ᠋ᠢᠨ ᠲᠠᠮᠢᠷ",
+      "expl": "（名）体育运动",
+      "audio": "biyiin_tamir.mp3",
+      "lno": "16"
+    },
+    {
+      "id": "385",
+      "word": "бичиг баримт",
+      "oldWord": "ᠪᠢᠴᠢᠭ ᠪᠠᠷᠢᠮᠲᠠ",
+      "expl": "（词组）书面材料，文献",
+      "audio": "bichik_barimt.mp3",
+      "lno": "16"
+    },
+    {
+      "id": "386",
+      "word": "гарын үсэг",
+      "oldWord": "ᠭᠠᠷ ᠤᠨ ᠦᠰᠦᠭ",
+      "expl": "（名）签名",
+      "audio": "garin_ucek.mp3",
+      "lno": "16"
+    },
+    {
+      "id": "387",
+      "word": "гурилтай шөл",
+      "oldWord": "ᠭᠤᠯᠢᠷ ᠲᠠᠢ ᠱᠥᠯᠦ",
+      "expl": "（词组）汤面",
+      "audio": "guriltai_shol.mp3",
+      "lno": "16"
+    },
+    {
+      "id": "388",
+      "word": "Европ",
+      "oldWord": "ᠧᠦᠷᠣᠫᠠ",
+      "expl": "（名）欧洲",
+      "audio": "15a520e67a67dc5827f8f29609ef0e4e.mp3",
+      "lno": "16"
+    },
+    {
+      "id": "389",
+      "word": "заримдаа",
+      "oldWord": "ᠵᠠᠷᠢᠮ ᠳᠠᠭᠠᠨ",
+      "expl": "（副）有时",
+      "audio": "0bd4383cca0256074d5c519d90c1f458.mp3",
+      "lno": "16"
+    },
+    {
+      "id": "390",
+      "word": "захиалах",
+      "oldWord": "ᠵᠠᠬᠢᠶᠠᠯᠠᠬᠤ",
+      "expl": "（动）订，点",
+      "audio": "ee24845d17378e30518f286b1b5308fa.mp3",
+      "lno": "16"
+    },
+    {
+      "id": "391",
+      "word": "зүүн тийш",
+      "oldWord": "ᠵᠡᠭᠦᠨ ᠲᠡᠰᠢ",
+      "expl": "（词组）向左；向东",
+      "audio": "zuun_tiish.mp3",
+      "lno": "16"
+    },
+    {
+      "id": "392",
+      "word": "илгээмж",
+      "oldWord": "ᠢᠯᠡᠭᠡᠮᠵᠢ",
+      "expl": "（名）包裹",
+      "audio": "342ec8c0a7a300d5ab20cb418ca0febf.mp3",
+      "lno": "16"
+    },
+    {
+      "id": "393",
+      "word": "нээх",
+      "oldWord": "ᠨᠡᠭᠡᠭᠡᠬᠦ",
+      "expl": "（动）打开，揭开",
+      "audio": "813e91750efecaadd9e482c0ea331d92.mp3",
+      "lno": "16"
+    },
+    {
+      "id": "394",
+      "word": "ойрхон",
+      "oldWord": "ᠣᠢᠷᠠᠬᠠᠨ",
+      "expl": "（形）近的",
+      "audio": "8b88b20213fc09f01d0df1235363e32d.mp3",
+      "lno": "16"
+    },
+    {
+      "id": "395",
+      "word": "өөртөө үйлчлэх",
+      "oldWord": "ᠥᠪᠡᠷ  ᠲᠤ ᠪᠡᠨ ᠦᠢᠯᠡᠴᠢᠯᠡᠬᠦ",
+      "expl": "（词组）自助",
+      "audio": "oortoo_uilchleh.mp3",
+      "lno": "16"
+    },
+    {
+      "id": "396",
+      "word": "паспорт",
+      "oldWord": "ᠫᠠᠰᠫᠣᠷᠲ",
+      "expl": "（名）护照",
+      "audio": "3866ad4ad3bac33ffaf95b588a51fe16.mp3",
+      "lno": "16"
+    },
+    {
+      "id": "397",
+      "word": "ресторан",
+      "oldWord": "ᠷᠸᠰᠲ᠋ᠣᠷᠠᠨ",
+      "expl": "（名）饭店，餐馆",
+      "audio": "490b615931980ed8917e8391307c7ee9.mp3",
+      "lno": "16"
+    },
+    {
+      "id": "398",
+      "word": "сурагч",
+      "oldWord": "ᠰᠤᠷᠤᠭᠴᠢ",
+      "expl": "（名）中（小）学生",
+      "audio": "7919328cec16604375742fc176d733d9.mp3",
+      "lno": "16"
+    },
+    {
+      "id": "399",
+      "word": "танхим",
+      "oldWord": "ᠲᠠᠩᠬᠢᠮ",
+      "expl": "（名）大厅",
+      "audio": "7a01c875edf6a85748c05b4a81a0cd08.mp3",
+      "lno": "16"
+    },
+    {
+      "id": "400",
+      "word": "төрөл",
+      "oldWord": "ᠲᠥᠷᠥᠯ",
+      "expl": "（名）种类",
+      "audio": "20ede6880659446686cda0f7f685ff2a.mp3",
+      "lno": "16"
+    },
+    {
+      "id": "401",
+      "word": "төрөх",
+      "oldWord": "ᠲᠦᠷᠦᠭᠦ",
+      "expl": "（动）生，出生",
+      "audio": "90b5071ba2f6420da017c894fb6cdea4.mp3",
+      "lno": "16"
+    },
+    {
+      "id": "402",
+      "word": "туранхай",
+      "oldWord": "ᠲᠤᠷᠠᠩᠬᠠᠢ",
+      "expl": "（形）瘦的",
+      "audio": "2d67c6cdb865183e84663184e288ea82.mp3",
+      "lno": "16"
+    },
+    {
+      "id": "403",
+      "word": "утас(н)",
+      "oldWord": "ᠤᠲᠠᠰᠤ",
+      "expl": "（名）绳子，电话",
+      "audio": "eeb678bc47b9dc26cc993d576d5e6b06.mp3",
+      "lno": "16"
+    },
+    {
+      "id": "404",
+      "word": "үзүүлэх",
+      "oldWord": "ᠦᠵᠡᠭᠦᠯᠬᠦ",
+      "expl": "（动）让……看",
+      "audio": "0ecc0a24b90e8155c75753c67e92c6a4.mp3",
+      "lno": "16"
+    },
+    {
+      "id": "405",
+      "word": "хол",
+      "oldWord": "ᠬᠤᠯᠠ",
+      "expl": "（形）远的",
+      "audio": "1c5880041babca319ee0eb56cd7f8762.mp3",
+      "lno": "16"
+    },
+    {
+      "id": "406",
+      "word": "хуушуур",
+      "oldWord": "ᠬᠤᠤᠱᠤᠤᠷ",
+      "expl": "（名）馅饼",
+      "audio": "dce70dae562aef5fad1e32e8d0f994a2.mp3",
+      "lno": "16"
+    },
+    {
+      "id": "407",
+      "word": "хүлээн авах",
+      "oldWord": "ᠬᠦᠯᠢᠶᠡᠨ ᠠᠪᠬᠤ",
+      "expl": "（动）接受",
+      "audio": "huleen_avah.mp3",
+      "lno": "16"
+    },
+    {
+      "id": "408",
+      "word": "хүртэл",
+      "oldWord": "ᠬᠦᠷᠳᠡᠯ᠎ᠠ",
+      "expl": "（动）到……为止",
+      "audio": "b8ef88eb87cf3b13ea0dbb82c2a0cad8.mp3",
+      "lno": "16"
+    },
+    {
+      "id": "409",
+      "word": "хямд",
+      "oldWord": "ᠬᠢᠮᠳᠠ",
+      "expl": "（形）便宜的",
+      "audio": "56c108e93f47b81c57973e28787b8fba.mp3",
+      "lno": "16"
+    },
+    {
+      "id": "410",
+      "word": "цуйван",
+      "oldWord": "ᠴᠤᠢᠪᠢᠩ",
+      "expl": "（名）炒饼",
+      "audio": "4c343d33f303fc774d383be5cfdb4eb3.mp3",
+      "lno": "16"
+    },
+    {
+      "id": "411",
+      "word": "эдгээр",
+      "oldWord": "ᠡᠳᠡᠭᠡᠷ",
+      "expl": "（代）这些",
+      "audio": "18ac6d6785ec1a0d0663729d9ad06f63.mp3",
+      "lno": "16"
+    },
+    {
+      "id": "412",
+      "word": "ашгүй",
+      "oldWord": "ᠠᠰᠢᠭᠦᠢ",
+      "expl": "（形·感）相当好的",
+      "audio": "7a99e9c1fc43ad0c3d227e227d7b6172.mp3",
+      "lno": "17"
+    },
+    {
+      "id": "413",
+      "word": "бага сага",
+      "oldWord": "ᠪᠠᠭ᠎ᠠ ᠰᠠᠭ᠎ᠠ",
+      "expl": "（形）一点的，不多的",
+      "audio": "baga_saga.mp3",
+      "lno": "17"
+    },
+    {
+      "id": "414",
+      "word": "битгий",
+      "oldWord": "ᠪᠢᠳᠡᠭᠡᠢ",
+      "expl": "（语）不要，别，不可",
+      "audio": "e96be93406aebfa69a95508da234e437.mp3",
+      "lno": "17"
+    },
+    {
+      "id": "415",
+      "word": "бороо(н)",
+      "oldWord": "ᠪᠣᠷᠤᠭ᠎ᠠ",
+      "expl": "（名）雨",
+      "audio": "abfb70ac9530c8b28013adbe22e14e81.mp3",
+      "lno": "17"
+    },
+    {
+      "id": "416",
+      "word": "бороо орох",
+      "oldWord": "ᠪᠣᠷᠤᠭ᠎ᠠ ᠣᠷᠤᠬᠤ",
+      "expl": "（词组）下雨",
+      "audio": "boroo_oroh.mp3",
+      "lno": "17"
+    },
+    {
+      "id": "417",
+      "word": "дагуулах",
+      "oldWord": "ᠲᠡᠭᠠᠭᠤᠯᠬᠤ",
+      "expl": "（动）使跟随，带领",
+      "audio": "f488352bb246cfadae15f1f8bc2c5aca.mp3",
+      "lno": "17"
+    },
+    {
+      "id": "418",
+      "word": "дөхөх",
+      "oldWord": "ᠳᠥᠬᠦᠬᠦ",
+      "expl": "（动）接近，临近",
+      "audio": "4c65df235e48c01160ed1459493f22d1.mp3",
+      "lno": "17"
+    },
+    {
+      "id": "419",
+      "word": "дуусах",
+      "oldWord": "ᠳᠠᠭᠤᠰᠬᠤ",
+      "expl": "（动）结束，完成，终结",
+      "audio": "352715341f1d41464587c92ed3ea5a52.mp3",
+      "lno": "17"
+    },
+    {
+      "id": "420",
+      "word": "жаахан",
+      "oldWord": "ᠵᠢᠭᠠᠬᠠᠠ",
+      "expl": "（副）少许，一点，稍微",
+      "audio": "209660869734c76b83a71a21ee81ef0f.mp3",
+      "lno": "17"
+    },
+    {
+      "id": "421",
+      "word": "завтай",
+      "oldWord": "ᠵᠠᠪᠲᠠᠢ",
+      "expl": "（形）有空闲的，有空隙的",
+      "audio": "436e5bda7c2f8058f2531c1c81067c50.mp3",
+      "lno": "17"
+    },
+    {
+      "id": "422",
+      "word": "захиа",
+      "oldWord": "ᠵᠠᠬᠢᠶ᠎ᠠ",
+      "expl": "（名）信",
+      "audio": "f3433f259d991fa0f3ba11494cc6b4b7.mp3",
+      "lno": "17"
+    },
+    {
+      "id": "423",
+      "word": "зугаалга",
+      "oldWord": "ᠵᠤᠭᠠᠯᠭ᠎ᠠ",
+      "expl": "（名）散步，游玩，消遣",
+      "audio": "82ebe5a27befb80d98ef6c5c8ad9fe6f.mp3",
+      "lno": "17"
+    },
+    {
+      "id": "424",
+      "word": "муж",
+      "oldWord": "ᠮᠤᠵᠢ",
+      "expl": "（名）省",
+      "audio": "8aa341b29a153f625b96575f8875ae9b.mp3",
+      "lno": "17"
+    },
+    {
+      "id": "425",
+      "word": "навч",
+      "oldWord": "ᠨᠡᠪᠴᠢ",
+      "expl": "（名）树叶",
+      "audio": "44fce724eb9e99a37f48f3d102169dbf.mp3",
+      "lno": "17"
+    },
+    {
+      "id": "426",
+      "word": "намар",
+      "oldWord": "ᠨᠡᠮᠦᠷ",
+      "expl": "（名）秋天",
+      "audio": "2218f27af63f44a553983e479c4aad72.mp3",
+      "lno": "17"
+    },
+    {
+      "id": "427",
+      "word": "оюутны зөвлөл",
+      "oldWord": "ᠣᠶᠤᠲᠠᠨ ᠤ ᠵᠥᠪᠯᠡᠯ",
+      "expl": "（词组）（大学的）学生会",
+      "audio": "oyotni_zovlol.mp3",
+      "lno": "17"
+    },
+    {
+      "id": "428",
+      "word": "саяхан",
+      "oldWord": "ᠰᠠᠶᠢᠬᠠᠨ",
+      "expl": "（副）刚刚，不久前",
+      "audio": "6ed360726ea8c07269e75537aec1483c.mp3",
+      "lno": "17"
+    },
+    {
+      "id": "429",
+      "word": "сонирхолтой",
+      "oldWord": "ᠰᠣᠨᠢᠷᠬᠠᠯᠲᠠᠢ",
+      "expl": "（形）有意思的",
+      "audio": "6b648199bab86ea9178bc7c5c2160e19.mp3",
+      "lno": "17"
+    },
+    {
+      "id": "430",
+      "word": "такси",
+      "oldWord": "ᠲᠠᠺᠰᠢ",
+      "expl": "（名）出租车",
+      "audio": "b0b6fc9fc68b8bfbe757b402b0d0b4d1.mp3",
+      "lno": "17"
+    },
+    {
+      "id": "431",
+      "word": "тоолох",
+      "oldWord": "ᠲᠣᠭᠠᠯᠠᠬᠤ",
+      "expl": "（动）数",
+      "audio": "259dec95e495c8f8420ad9ec0b028522.mp3",
+      "lno": "17"
+    },
+    {
+      "id": "432",
+      "word": "тэгээд",
+      "oldWord": "ᠲᠡᠭᠡᠭᠡᠳ",
+      "expl": "（副）然后，以后，那么",
+      "audio": "46a26a491c29fcc19c7a455072666d72.mp3",
+      "lno": "17"
+    },
+    {
+      "id": "433",
+      "word": "удаа",
+      "oldWord": "ᠤᠳᠠᠭ᠎ᠠ",
+      "expl": "（名）次，回",
+      "audio": "7354639b240b6468caae848fdff893b2.mp3",
+      "lno": "17"
+    },
+    {
+      "id": "434",
+      "word": "улам",
+      "oldWord": "ᠤᠯᠠᠮ",
+      "expl": "（副）越来越……，更加",
+      "audio": "92312b8c317ea871bcc96422bc74c650.mp3",
+      "lno": "17"
+    },
+    {
+      "id": "435",
+      "word": "уулзах",
+      "oldWord": "ᠠᠭᠤᠯᠵᠠᠬᠤ",
+      "expl": "（动）见面，相逢",
+      "audio": "6c889971f1af5b4c097be898f8006b7c.mp3",
+      "lno": "17"
+    },
+    {
+      "id": "436",
+      "word": "үзэсгэлэнтэй",
+      "oldWord": "ᠦᠵᠡᠰᠭᠦᠯᠡᠩᠲᠡᠢ",
+      "expl": "（形）美丽的，雅观的",
+      "audio": "b2fe7dc7d045e76ca58e5ae37a171332.mp3",
+      "lno": "17"
+    },
+    {
+      "id": "437",
+      "word": "хүү",
+      "oldWord": "ᠬᠦᠦ",
+      "expl": "（名）儿子，男孩，小子",
+      "audio": "34568d07e8b6e95fce7b1ed54f4c4b2f.mp3",
+      "lno": "17"
+    },
+    {
+      "id": "438",
+      "word": "хэвийн",
+      "oldWord": "ᠬᠡᠪ ᠤᠨ",
+      "expl": "（形）正常的，常态的",
+      "audio": "b46d0328b4c9f92be1deb8d6aeac64ee.mp3",
+      "lno": "17"
+    },
+    {
+      "id": "439",
+      "word": "чадах",
+      "oldWord": "ᠴᠢᠳᠠᠬᠤ",
+      "expl": "（动）能够",
+      "audio": "5176cd2c5dae63bc9b2e5b195ddb6110.mp3",
+      "lno": "17"
+    },
+    {
+      "id": "440",
+      "word": "авъяас",
+      "oldWord": "ᠠᠪᠢᠶᠠᠰ",
+      "expl": "（名）才能，天资",
+      "audio": "ece54caa8aac3cf87d21a88a26291079.mp3",
+      "lno": "18"
+    },
+    {
+      "id": "441",
+      "word": "аймаг",
+      "oldWord": "ᠠᠢᠮᠠᠭ",
+      "expl": "（名）省；盟",
+      "audio": "cb37e846679174d49f95f66b6d6fd027.mp3",
+      "lno": "18"
+    },
+    {
+      "id": "442",
+      "word": "амьдрах",
+      "oldWord": "ᠠᠮᠢᠳᠤᠷᠠᠬᠤ",
+      "expl": "（动）生活",
+      "audio": "178358375b4b9a629ef1e5312ca69545.mp3",
+      "lno": "18"
+    },
+    {
+      "id": "443",
+      "word": "ард",
+      "oldWord": "ᠠᠷᠠᠳ",
+      "expl": "（名）平民，人民",
+      "audio": "4ce0bec67fe735f4997426101dd5292b.mp3",
+      "lno": "18"
+    },
+    {
+      "id": "444",
+      "word": "ашиг шим",
+      "oldWord": "ᠠᠰᠢᠭ ᠰᠢᠮ᠎ᠡ",
+      "expl": "（名）营养，产品，收益",
+      "audio": "ashig_shim.mp3",
+      "lno": "18"
+    },
+    {
+      "id": "445",
+      "word": "аятайхан",
+      "oldWord": "ᠠᠶᠠᠲᠠᠶᠢᠬᠠᠨ",
+      "expl": "（形）较愉快的，较舒适的",
+      "audio": "0bb288f54e45a17dd978054a5e8ee67f.mp3",
+      "lno": "18"
+    },
+    {
+      "id": "446",
+      "word": "баг",
+      "oldWord": "ᠪᠠᠭ",
+      "expl": "（名）队；乡，巴克",
+      "audio": "4a82715423d654d61838e81060a4cdf1.mp3",
+      "lno": "18"
+    },
+    {
+      "id": "447",
+      "word": "билигтэй",
+      "oldWord": "ᠪᠢᠯᠢᠭᠲᠡᠶ",
+      "expl": "（形）有天资的，聪慧的",
+      "audio": "biligtei.mp3",
+      "lno": "18"
+    },
+    {
+      "id": "448",
+      "word": "бор",
+      "oldWord": "ᠪᠣᠷᠤ",
+      "expl": "（形）灰白色的",
+      "audio": "597e592d65a2f3814020cbdf7e9e522a.mp3",
+      "lno": "18"
+    },
+    {
+      "id": "449",
+      "word": "говь",
+      "oldWord": "ᠭᠣᠪᠢ",
+      "expl": "（名）戈壁",
+      "audio": "76370184d5583366753a2fefbd747927.mp3",
+      "lno": "18"
+    },
+    {
+      "id": "450",
+      "word": "жил",
+      "oldWord": "ᠵᠢᠯ",
+      "expl": "（名）年",
+      "audio": "d9568755a2adc836a8e1f3dd89cd8cdd.mp3",
+      "lno": "18"
+    },
+    {
+      "id": "451",
+      "word": "залгах",
+      "oldWord": "ᠵᠠᠯᠭᠠᠬᠤ",
+      "expl": "（动）接上，衔接",
+      "audio": "f513adcddf4cf81024c8010b7bbdc882.mp3",
+      "lno": "18"
+    },
+    {
+      "id": "452",
+      "word": "залуу",
+      "oldWord": "ᠵᠠᠯᠠᠭᠤ",
+      "expl": "（形·名）年轻的，年轻人",
+      "audio": "7299f7182adbbe47001c6553718b123e.mp3",
+      "lno": "18"
+    },
+    {
+      "id": "453",
+      "word": "зоригтой",
+      "oldWord": "ᠵᠣᠷᠢᠭᠲᠠᠢ",
+      "expl": "（形）勇敢的",
+      "audio": "4be965750f477f13bece0e3c6f40c15b.mp3",
+      "lno": "18"
+    },
+    {
+      "id": "454",
+      "word": "кабель",
+      "oldWord": "ᠻᠠᠪᠧᠯ",
+      "expl": "（名）电缆",
+      "audio": "kabil.mp3",
+      "lno": "18"
+    },
+    {
+      "id": "455",
+      "word": "нийлэх",
+      "oldWord": "ᠨᠡᠶᠢᠯᠡᠬᠦ",
+      "expl": "（动）联合，汇合",
+      "audio": "6e80f8e38e3592d6d01f1375ef874ecc.mp3",
+      "lno": "18"
+    },
+    {
+      "id": "456",
+      "word": "нутаг",
+      "oldWord": "ᠨᠤᠳᠦᠬ",
+      "expl": "（名）地方，家乡",
+      "audio": "2db4dac1992c3ad895d79d643da1ed2d.mp3",
+      "lno": "18"
+    },
+    {
+      "id": "457",
+      "word": "сум",
+      "oldWord": "ᠰᠤᠮᠤ",
+      "expl": "（名）县，苏木",
+      "audio": "1d623b89683f9ce4e074de1676d12416.mp3",
+      "lno": "18"
+    },
+    {
+      "id": "458",
+      "word": "тал хээр",
+      "oldWord": "ᠲᠠᠯ᠎ᠠ ᠬᠡᠭᠡᠷ᠎ᠡ",
+      "expl": "（词组）平原，原野",
+      "audio": "tal_heer.mp3",
+      "lno": "18"
+    },
+    {
+      "id": "459",
+      "word": "тогтоох",
+      "oldWord": "ᠲᠤᠬᠳᠡᠭᠠᠬᠤ",
+      "expl": "（动）确定；记住",
+      "audio": "9a97bf24d6c74bc1635f5318e6600ea1.mp3",
+      "lno": "18"
+    },
+    {
+      "id": "460",
+      "word": "тохирох",
+      "oldWord": "ᠲᠤᠬᠢᠷᠡᠬᠤ",
+      "expl": "（动）相符合；商妥",
+      "audio": "e0f829cc6657ffaacd575042f1f0fe8c.mp3",
+      "lno": "18"
+    },
+    {
+      "id": "461",
+      "word": "тэсвэртэй",
+      "oldWord": "ᠲᠡᠰᠪᠦᠷᠢᠲᠡᠢ",
+      "expl": "（形）有毅力的，忍耐的",
+      "audio": "b720aacd56d23975f791cdf0c5e18a03.mp3",
+      "lno": "18"
+    },
+    {
+      "id": "462",
+      "word": "уйтгартай",
+      "oldWord": "ᠤᠢᠳᠬᠠᠷᠲᠠᠢ",
+      "expl": "（形）忧伤的，苦闷的",
+      "audio": "6c6bb3ecb41fa0f4373727475f622977.mp3",
+      "lno": "18"
+    },
+    {
+      "id": "463",
+      "word": "улирал",
+      "oldWord": "ᠤᠯᠠᠷᠢᠯ",
+      "expl": "（名）季节",
+      "audio": "a8b18751db6a1abd796a658ec32abc5c.mp3",
+      "lno": "18"
+    },
+    {
+      "id": "464",
+      "word": "улс",
+      "oldWord": "ᠤᠯᠤᠰ",
+      "expl": "（名）国家",
+      "audio": "35cd1dfe100f7768dfef1417863589b4.mp3",
+      "lno": "18"
+    },
+    {
+      "id": "465",
+      "word": "уудам",
+      "oldWord": "ᠠᠭᠤᠳᠠᠮ",
+      "expl": "（形）广阔的",
+      "audio": "uudam.mp3",
+      "lno": "18"
+    },
+    {
+      "id": "466",
+      "word": "уур амьсгал",
+      "oldWord": "ᠠᠭᠤᠷ ᠠᠮᠢᠰᠬᠤᠯ",
+      "expl": "（名）气候",
+      "audio": "uur_amsgal.mp3",
+      "lno": "18"
+    },
+    {
+      "id": "467",
+      "word": "уучлаарай",
+      "oldWord": "ᠠᠭᠤᠴᠢᠯᠠᠭᠠᠷᠠᠢ",
+      "expl": "（动）对不起",
+      "audio": "b14167e132d03d7e76e283d4605013fe.mp3",
+      "lno": "18"
+    },
+    {
+      "id": "468",
+      "word": "ухаантай",
+      "oldWord": "ᠤᠬᠠᠭᠠᠨᠲᠠᠢ",
+      "expl": "（形）有智慧的",
+      "audio": "6fcceaa64a3a83518cf6c1a837eca951.mp3",
+      "lno": "18"
+    },
+    {
+      "id": "469",
+      "word": "хавар",
+      "oldWord": "ᠬᠠᠪᠦᠷ",
+      "expl": "（名）春天",
+      "audio": "488a1eddcc511c94df8a4a05141f82db.mp3",
+      "lno": "18"
+    },
+    {
+      "id": "470",
+      "word": "хангай",
+      "oldWord": "ᠬᠠᠩᠭᠠᠶ",
+      "expl": "（名）森林，杭盖",
+      "audio": "7205d0ee34f60fba0734554105c1c33d.mp3",
+      "lno": "18"
+    },
+    {
+      "id": "471",
+      "word": "харилцан яриа(н)",
+      "oldWord": "ᠬᠠᠷᠢᠯᠴᠠᠨ ᠶᠠᠷᠢᠶ᠎ᠠ",
+      "expl": "（词组）对话",
+      "audio": "harilcan_yaria.mp3",
+      "lno": "18"
+    },
+    {
+      "id": "472",
+      "word": "хил",
+      "oldWord": "ᠬᠢᠯᠢ",
+      "expl": "（名）界，分界线，边界",
+      "audio": "bf0f4e3af415a7ccb2333f804130c423.mp3",
+      "lno": "18"
+    },
+    {
+      "id": "473",
+      "word": "хослох",
+      "oldWord": "ᠬᠣᠣᠰᠯᠠᠬᠤ",
+      "expl": "（动）复合，组合",
+      "audio": "503b3becb200bfa50a4c0f83841bcbff.mp3",
+      "lno": "18"
+    },
+    {
+      "id": "474",
+      "word": "царай",
+      "oldWord": "ᠴᠢᠷᠠᠶ",
+      "expl": "（名）脸，面孔",
+      "audio": "1f972a4a196d225dd5b98fce2d673b81.mp3",
+      "lno": "18"
+    },
+    {
+      "id": "475",
+      "word": "цөл",
+      "oldWord": "ᠴᠥᠯ",
+      "expl": "（名）荒漠",
+      "audio": "88c477d3f64ab9102f8a902e55914dc9.mp3",
+      "lno": "18"
+    },
+    {
+      "id": "476",
+      "word": "чухал",
+      "oldWord": "ᠴᠢᠬᠤᠯᠠ",
+      "expl": "（形）重要的",
+      "audio": "486822e4f41bcd16c60fe9433327990b.mp3",
+      "lno": "18"
+    },
+    {
+      "id": "477",
+      "word": "шударга",
+      "oldWord": "ᠰᠢᠳᠤᠷᠭᠤ",
+      "expl": "（形）诚实的，忠诚的",
+      "audio": "56d765f1bd0813b41595b2bee3269914.mp3",
+      "lno": "18"
+    },
+    {
+      "id": "478",
+      "word": "эрс тэс",
+      "oldWord": "ᠡᠷᠡᠰ ᠲᠡᠰ",
+      "expl": "（形）剧烈的，急躁的，急剧的",
+      "audio": "ers_tes.mp3",
+      "lno": "18"
+    },
+    {
+      "id": "479",
+      "word": "автобус(н)",
+      "oldWord": "ᠠᠦ᠋ᠲ᠋ᠣᠪᠦ᠋ᠰ",
+      "expl": "（名）公共汽车",
+      "audio": "171928208859ca8de418ac31312a3b1e.mp3",
+      "lno": "19"
+    },
+    {
+      "id": "480",
+      "word": "болгоомжтой",
+      "oldWord": "ᠪᠣᠯᠭᠤᠮᠵᠢᠲᠠᠢ",
+      "expl": "（形）小心的，谨慎的",
+      "audio": "88d38c4ab7d9093535e2ff2e52970261.mp3",
+      "lno": "19"
+    },
+    {
+      "id": "481",
+      "word": "бууз",
+      "oldWord": "ᠪᠤᠤᠵᠠ",
+      "expl": "（名）包子",
+      "audio": "e2d3b7a87f4e2c8d4f2fa855083d3935.mp3",
+      "lno": "19"
+    },
+    {
+      "id": "482",
+      "word": "бүжиг",
+      "oldWord": "ᠪᠦᠵᠢᠭ",
+      "expl": "（名）舞蹈",
+      "audio": "a2c731922ad7b9af4900bc2a6215fc75.mp3",
+      "lno": "19"
+    },
+    {
+      "id": "483",
+      "word": "гадаа",
+      "oldWord": "ᠭᠠᠳᠠᠭ᠎ᠠ",
+      "expl": "（副）外面",
+      "audio": "e9af7929161cc56da21c79adbdba85c3.mp3",
+      "lno": "19"
+    },
+    {
+      "id": "484",
+      "word": "галт тэрэг(н)",
+      "oldWord": "ᠭᠠᠯᠲᠤ ᠲᠡᠷᠭᠡ",
+      "expl": "（名）火车",
+      "audio": "484.mp3",
+      "lno": "19"
+    },
+    {
+      "id": "485",
+      "word": "дадлага",
+      "oldWord": "ᠳᠠᠳᠤᠯᠭ᠎ᠠ",
+      "expl": "（名）习惯，经验，技能",
+      "audio": "f8ac160f26f5de2ee0b78e8b0acab4c4.mp3",
+      "lno": "19"
+    },
+    {
+      "id": "486",
+      "word": "дээшлүүлэх",
+      "oldWord": "ᠳᠡᠭᠡᠭᠱᠢᠯᠡᠭᠦᠯᠬᠦ",
+      "expl": "（动）提升",
+      "audio": "c91e430015d8ac6e1ef5ff970a5654e9.mp3",
+      "lno": "19"
+    },
+    {
+      "id": "487",
+      "word": "жижүүр",
+      "oldWord": "ᠵᠢᠵᠢᠭᠦᠷ",
+      "expl": "（名）值日生，值班员",
+      "audio": "949da9f10e368b844d1ce9e1731ebf47.mp3",
+      "lno": "19"
+    },
+    {
+      "id": "488",
+      "word": "жуулчин",
+      "oldWord": "ᠵᠢᠭᠤᠯᠴᠢᠨ",
+      "expl": "（名）旅客，旅行家",
+      "audio": "77da24f88c6f733a8c66e4138e39dac4.mp3",
+      "lno": "19"
+    },
+    {
+      "id": "489",
+      "word": "компани",
+      "oldWord": "ᠻᠣᠮᠫᠠᠨᠢ",
+      "expl": "（名）公司",
+      "audio": "7479f8360cba2619e272eeace6addd20.mp3",
+      "lno": "19"
+    },
+    {
+      "id": "490",
+      "word": "мэргэжил",
+      "oldWord": "ᠮᠡᠷᠭᠡᠵᠢᠯ",
+      "expl": "（名）职业",
+      "audio": "ce1097eaf2fe46078e56c79af0b2b8c8.mp3",
+      "lno": "19"
+    },
+    {
+      "id": "491",
+      "word": "мэргэжил дээшлүүлэгч",
+      "oldWord": "ᠮᠡᠷᠭᠡᠵᠢᠯ  ᠳᠡᠭᠡᠭᠱᠢᠯᠡᠭᠦᠯᠬᠴᠢ",
+      "expl": "（词组）进修生",
+      "audio": "491.mp3",
+      "lno": "19"
+    },
+    {
+      "id": "492",
+      "word": "нэрийн хуудас(н)",
+      "oldWord": "ᠨᠡᠷ᠎ᠡ ᠶᠢᠨ ᠬᠠᠭᠤᠳᠠᠰᠤ",
+      "expl": "（词组）名片",
+      "audio": "492.mp3",
+      "lno": "19"
+    },
+    {
+      "id": "493",
+      "word": "одоохон",
+      "oldWord": "ᠣᠳᠤᠬᠠᠨ",
+      "expl": "（副）马上",
+      "audio": "f0d984544b40275b1c11194a0fe522e9.mp3",
+      "lno": "19"
+    },
+    {
+      "id": "494",
+      "word": "онгоц(н)",
+      "oldWord": "ᠣᠩᠭᠤᠴᠠ",
+      "expl": "（名）船，飞机",
+      "audio": "f1ababdd79ef4e2c17472eb5edfb205e.mp3",
+      "lno": "19"
+    },
+    {
+      "id": "495",
+      "word": "өвөлжөө(н)",
+      "oldWord": "ᠡᠪᠦᠯᠵᠢᠶ᠎ᠡ",
+      "expl": "（名）冬营地",
+      "audio": "4a800e36efbadf3179bc4dc8af45efae.mp3",
+      "lno": "19"
+    },
+    {
+      "id": "496",
+      "word": "солих",
+      "oldWord": "ᠰᠣᠯᠢᠬᠤ",
+      "expl": "（动）换，交换",
+      "audio": "b838e7cd6ffd81b343a12c60264e49ab.mp3",
+      "lno": "19"
+    },
+    {
+      "id": "497",
+      "word": "Сөүл",
+      "oldWord": "ᠰᠸᠥᠯ",
+      "expl": "（名）首尔",
+      "audio": "497.mp3",
+      "lno": "19"
+    },
+    {
+      "id": "498",
+      "word": "сүү(н)",
+      "oldWord": "ᠰᠦ",
+      "expl": "（名）奶",
+      "audio": "e562d84bead6523a0da5467755dab03f.mp3",
+      "lno": "19"
+    },
+    {
+      "id": "499",
+      "word": "таатай",
+      "oldWord": "ᠲᠠᠭᠠᠲᠠᠢ",
+      "expl": "（形）愉快的，惬意的",
+      "audio": "403a390a6be5ba59403ab0d30842e170.mp3",
+      "lno": "19"
+    },
+    {
+      "id": "500",
+      "word": "тамхи(н)",
+      "oldWord": "ᠲᠠᠮᠠᠬᠢ",
+      "expl": "（名）烟，烟草",
+      "audio": "5b1e81c6cbe7d27926f63561e052c5a6.mp3",
+      "lno": "19"
+    },
+    {
+      "id": "501",
+      "word": "татах",
+      "oldWord": "ᠲᠠᠲᠠᠬᠤ",
+      "expl": "（动）抽，拉，引",
+      "audio": "320046616c278dcc7dc3b64b14748d0b.mp3",
+      "lno": "19"
+    },
+    {
+      "id": "502",
+      "word": "тоот",
+      "oldWord": "ᠲᠣᠭᠠᠲᠤ",
+      "expl": "（形）有……号的",
+      "audio": "2f1e40efd0bb18da396abd34f507b7d6.mp3",
+      "lno": "19"
+    },
+    {
+      "id": "503",
+      "word": "төгсөх",
+      "oldWord": "ᠲᠡᠬᠦᠰᠬᠦ",
+      "expl": "（动）毕业",
+      "audio": "7d03f079388e0e78ddccfeab5eb8abef.mp3",
+      "lno": "19"
+    },
+    {
+      "id": "504",
+      "word": "түүх(н)",
+      "oldWord": "ᠲᠡᠦᠬᠡ",
+      "expl": "（名）历史",
+      "audio": "0ca543a3dbd22c996dd893981b94a875.mp3",
+      "lno": "19"
+    },
+    {
+      "id": "505",
+      "word": "Улаанбаатар",
+      "oldWord": "ᠤᠯᠠᠭᠠᠨᠪᠠᠭᠠᠲᠤᠷ",
+      "expl": "（名）乌兰巴托",
+      "audio": "0efc499bfe69e1f1de3545c43ef29cc7.mp3",
+      "lno": "19"
+    },
+    {
+      "id": "506",
+      "word": "уран зохиол",
+      "oldWord": "ᠤᠷᠠᠨ ᠵᠣᠬᠢᠶᠠᠯ",
+      "expl": "（名）文学",
+      "audio": "506.mp3",
+      "lno": "19"
+    },
+    {
+      "id": "507",
+      "word": "үйлчилгээ(н)",
+      "oldWord": "ᠦᠢᠯᠡᠴᠢᠯᠡᠭᠡ",
+      "expl": "（名）服务",
+      "audio": "f0b7ba339ad8070fe673afe72b1c1a0f.mp3",
+      "lno": "19"
+    },
+    {
+      "id": "508",
+      "word": "хорхойтой",
+      "oldWord": "ᠬᠣᠷᠣᠬᠠᠢᠲᠠᠢ",
+      "expl": "（形）痴迷……的，上瘾的",
+      "audio": "dcb48486e3c5d0d5a9e14179780b2cd9.mp3",
+      "lno": "19"
+    },
+    {
+      "id": "509",
+      "word": "хөгжих",
+      "oldWord": "ᠬᠥᠭᠵᠢᠬᠦ",
+      "expl": "（动）发展",
+      "audio": "4b350887eae83e3d7daaa7a9b1624817.mp3",
+      "lno": "19"
+    },
+    {
+      "id": "510",
+      "word": "хувцас",
+      "oldWord": "ᠬᠤᠪᠴᠠᠰᠤ",
+      "expl": "（名）衣服",
+      "audio": "038d8386fec89c89199d0932c8818f15.mp3",
+      "lno": "19"
+    },
+    {
+      "id": "511",
+      "word": "цаг агаар",
+      "oldWord": "ᠴᠠᠭ ᠠᠭᠠᠷ",
+      "expl": "（名）天气",
+      "audio": "511.mp3",
+      "lno": "19"
+    },
+    {
+      "id": "512",
+      "word": "цайны газар",
+      "oldWord": "ᠴᠠᠢ ᠶᠢᠨ ᠭᠠᠵᠠᠷ",
+      "expl": "（词组）茶馆",
+      "audio": "512.mp3",
+      "lno": "19"
+    },
+    {
+      "id": "513",
+      "word": "цув(н)",
+      "oldWord": "ᠴᠤᠪᠠ",
+      "expl": "（名）雨衣",
+      "audio": "0a7f8cd2aaa019a538d719e2ab1d7820.mp3",
+      "lno": "19"
+    },
+    {
+      "id": "514",
+      "word": "чийгтэй",
+      "oldWord": "ᠴᠢᠭᠢᠭᠲᠡᠢ",
+      "expl": "（形）潮湿的",
+      "audio": "703210951d465bc841aff23f112bca89.mp3",
+      "lno": "19"
+    },
+    {
+      "id": "515",
+      "word": "шүхэр",
+      "oldWord": "ᠰᠢᠬᠦᠷ",
+      "expl": "（名）雨伞",
+      "audio": "8159b8fe72ae9661d747a44c0fef5fa5.mp3",
+      "lno": "19"
+    },
+    {
+      "id": "516",
+      "word": "баяр",
+      "oldWord": "ᠪᠠᠶᠠᠷ",
+      "expl": "（名）节日",
+      "audio": "ff74042dc76d78b45a07dbddb630bef7.mp3",
+      "lno": "20"
+    },
+    {
+      "id": "517",
+      "word": "буудал",
+      "oldWord": "ᠪᠠᠭᠤᠳᠠᠯ",
+      "expl": "（名）站，车站",
+      "audio": "e713bb309b5058769e4978567c1afc07.mp3",
+      "lno": "20"
+    },
+    {
+      "id": "518",
+      "word": "буцах",
+      "oldWord": "ᠪᠤᠴᠠᠬᠤ",
+      "expl": "（动）返回",
+      "audio": "518.mp3",
+      "lno": "20"
+    },
+    {
+      "id": "519",
+      "word": "ганц",
+      "oldWord": "ᠭᠠᠭᠴᠠ",
+      "expl": "（形·副）唯一的，单独的",
+      "audio": "17744e17d6a76a7975b66443a679cf79.mp3",
+      "lno": "20"
+    },
+    {
+      "id": "520",
+      "word": "гулгах",
+      "oldWord": "ᠭᠤᠯᠭᠤᠬᠤ",
+      "expl": "（动）滑，溜，打滑",
+      "audio": "501e2f9064847b8dc8765bdb7f239ddc.mp3",
+      "lno": "20"
+    },
+    {
+      "id": "521",
+      "word": "давтах",
+      "oldWord": "ᠳᠠᠪᠲᠠᠬᠤ",
+      "expl": "（动）复习，重复",
+      "audio": "1b5dfdca2cc4c68a2924a4178e6be18e.mp3",
+      "lno": "20"
+    },
+    {
+      "id": "522",
+      "word": "дүн",
+      "oldWord": "ᠳ᠋ᠦᠩ",
+      "expl": "（名）结果，成绩",
+      "audio": "73306f6a12962ae752199839b526d552.mp3",
+      "lno": "20"
+    },
+    {
+      "id": "523",
+      "word": "зав чөлөө(н)",
+      "oldWord": "ᠵᠠᠪ ᠴᠢᠯᠦᠭᠡ",
+      "expl": "（词组）空闲时间",
+      "audio": "523.mp3",
+      "lno": "20"
+    },
+    {
+      "id": "524",
+      "word": "зөвшөөрөх",
+      "oldWord": "ᠵᠥᠪᠰᠢᠶᠡᠷᠡᠬᠦ",
+      "expl": "（动）同意，赞同",
+      "audio": "836dc38bc473d0d5137ef6de2500bcae.mp3",
+      "lno": "20"
+    },
+    {
+      "id": "525",
+      "word": "кредит карт",
+      "oldWord": "ᠻᠷᠧᠳᠢᠲ ᠻᠠᠷᠲ",
+      "expl": "（词组）信用卡",
+      "audio": "525.mp3",
+      "lno": "20"
+    },
+    {
+      "id": "526",
+      "word": "ноолуур(н)",
+      "oldWord": "ᠨᠣᠯᠤᠤᠷ",
+      "expl": "（名）绒毛",
+      "audio": "7ef60760f4822dadc5d15304cc94530a.mp3",
+      "lno": "20"
+    },
+    {
+      "id": "527",
+      "word": "нягт нямбай",
+      "oldWord": "ᠨᠢᠭᠲᠠ ᠨᠢᠮᠪᠠᠢ",
+      "expl": "（词组）缜密的，细致的",
+      "audio": "527.mp3",
+      "lno": "20"
+    },
+    {
+      "id": "528",
+      "word": "олонхи",
+      "oldWord": "ᠣᠯᠠᠩᠬᠢ",
+      "expl": "（形）大多数的",
+      "audio": "528.mp3",
+      "lno": "20"
+    },
+    {
+      "id": "529",
+      "word": "олох",
+      "oldWord": "ᠤᠯᠬᠤ",
+      "expl": "（动）找到",
+      "audio": "5b82616573dfc2b4ef1900103fb36769.mp3",
+      "lno": "20"
+    },
+    {
+      "id": "530",
+      "word": "өнгөрүүлэх",
+      "oldWord": "ᠥᠩᠭᠡᠷᠡᠭᠦᠯᠬᠦ",
+      "expl": "（动）使……过去，度过",
+      "audio": "83948384435bbc1ea8310c0018f01835.mp3",
+      "lno": "20"
+    },
+    {
+      "id": "531",
+      "word": "санах",
+      "oldWord": "ᠰᠡᠨᠡᠬᠤ",
+      "expl": "（动）思考，想念，想起",
+      "audio": "7be1d159cafe0907167215875774b31b.mp3",
+      "lno": "20"
+    },
+    {
+      "id": "532",
+      "word": "семестр",
+      "oldWord": "ᠰᠧᠮᠧᠰᠲ᠋ᠷ",
+      "expl": "（名）学期",
+      "audio": "e4bf983ee1fc6b8d9d109d43eabce8ea.mp3",
+      "lno": "20"
+    },
+    {
+      "id": "533",
+      "word": "тоглоом",
+      "oldWord": "ᠲᠣᠭᠯᠠᠭᠠᠮ",
+      "expl": "（名）游戏，玩具",
+      "audio": "3fb4ecaee9b9c702ae02d51c5df452df.mp3",
+      "lno": "20"
+    },
+    {
+      "id": "534",
+      "word": "тогтмол",
+      "oldWord": "ᠲᠤᠭᠳᠠᠮᠠᠯ",
+      "expl": "（形）定期的，经常的，固定的",
+      "audio": "58049352b22d3a22281ea509aa926158.mp3",
+      "lno": "20"
+    },
+    {
+      "id": "535",
+      "word": "тосгон",
+      "oldWord": "ᠲᠣᠰᠬᠣᠨ",
+      "expl": "（名）村庄",
+      "audio": "c675511f8d095672414411318131bec7.mp3",
+      "lno": "20"
+    },
+    {
+      "id": "536",
+      "word": "тосох",
+      "oldWord": "ᠲᠣᠰᠬᠤ",
+      "expl": "（动）迎接",
+      "audio": "d6573877401335fed4e27b3153dbbc24.mp3",
+      "lno": "20"
+    },
+    {
+      "id": "537",
+      "word": "төлөвлөгөө(н)",
+      "oldWord": "ᠲᠥᠯᠦᠪᠯᠡᠭᠡ",
+      "expl": "（名）计划",
+      "audio": "ec05f304b3842385b83232823851d26a.mp3",
+      "lno": "20"
+    },
+    {
+      "id": "538",
+      "word": "төлөх",
+      "oldWord": "ᠲᠥᠯᠥᠬᠦ",
+      "expl": "（名）付款",
+      "audio": "dffb8276a321301c465ab729f6aa215c.mp3",
+      "lno": "20"
+    },
+    {
+      "id": "539",
+      "word": "тун",
+      "oldWord": "ᠲᠤᠡᠭ",
+      "expl": "（副）很，甚，十分",
+      "audio": "842e1d0c0e58780bb0bbad5306b58856.mp3",
+      "lno": "20"
+    },
+    {
+      "id": "540",
+      "word": "турш",
+      "oldWord": "ᠲᠤᠷᠰᠢ",
+      "expl": "（后）……期间，整个……内",
+      "audio": "c1db39abc99f13629d03c77a3f2fe047.mp3",
+      "lno": "20"
+    },
+    {
+      "id": "541",
+      "word": "тэшүүр",
+      "oldWord": "ᠲᠡᠰᠢᠭᠦᠷ",
+      "expl": "（名）滑冰鞋",
+      "audio": "e40ebb815449138fa45d28a94b316df9.mp3",
+      "lno": "20"
+    },
+    {
+      "id": "542",
+      "word": "уламжлалт",
+      "oldWord": "ᠤᠯᠠᠮᠵᠢᠯᠠᠯᠲᠤ",
+      "expl": "（形）传统的",
+      "audio": "4ff056d25b473465374c4356e971e139.mp3",
+      "lno": "20"
+    },
+    {
+      "id": "543",
+      "word": "хайх",
+      "oldWord": "ᠬᠠᠢᠬᠤ",
+      "expl": "（动）寻找",
+      "audio": "635f74ee5d5e33dc5ee0a2417e101f2d.mp3",
+      "lno": "20"
+    },
+    {
+      "id": "544",
+      "word": "хороолол",
+      "oldWord": "ᠬᠣᠷᠢᠶᠠᠯᠠᠯ",
+      "expl": "（名）街区，居民区",
+      "audio": "9df11d44cbe8cffae4777e0e82212f3d.mp3",
+      "lno": "20"
+    },
+    {
+      "id": "545",
+      "word": "цагаан сар",
+      "oldWord": "ᠴᠠᠭᠠᠨ ᠰᠠᠷ᠎ᠠ",
+      "expl": "（名）正月",
+      "audio": "545.mp3",
+      "lno": "20"
+    },
+    {
+      "id": "546",
+      "word": "цана",
+      "oldWord": "ᠴᠠᠨ᠎ᠠ",
+      "expl": "（名）滑雪板",
+      "audio": "6950d9494597c6901b9bffcecaaf1900.mp3",
+      "lno": "20"
+    },
+    {
+      "id": "547",
+      "word": "шууд",
+      "oldWord": "ᠰᠢᠭᠤᠦᠠ",
+      "expl": "（形·副）直的，直接",
+      "audio": "b31e016e26fc65dd4c17151037adc3a0.mp3",
+      "lno": "20"
+    },
+    {
+      "id": "548",
+      "word": "эхнэр",
+      "oldWord": "ᠠ᠋ᠭᠡᠨᠡᠷ",
+      "expl": "（名）夫人，妻子",
+      "audio": "701cfaac6ba8decda6cb35a69877e03b.mp3",
+      "lno": "20"
+    }
+  ]
+}
