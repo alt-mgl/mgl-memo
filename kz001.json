@@ -1,5 +1,5 @@
 {
-  "name": "基础哈萨克语（测试）",
+  "name": "\u57fa\u7840\u54c8\u8428\u514b\u8bed\uff08\u6d4b\u8bd5\uff09",
   "id": "kz001",
   "hasOld": true,
   "oldType": "arb",
@@ -7,81 +7,81 @@
   "words": [
     {
       "id": "1",
-      "word": "алма",
-      "oldWord": "الما",
-      "expl": "苹果",
+      "word": "\u0430\u043b\u043c\u0430",
+      "oldWord": "\u0627\u0644\u0645\u0627",
+      "expl": "\u82f9\u679c",
       "audio": "1.mp3",
       "lno": "1"
     },
     {
       "id": "2",
-      "word": "қара",
-      "oldWord": "قارا",
-      "expl": "黑色",
+      "word": "\u049b\u0430\u0440\u0430",
+      "oldWord": "\u0642\u0627\u0631\u0627",
+      "expl": "\u9ed1\u8272",
       "audio": "2.mp3",
       "lno": "1"
     },
     {
       "id": "3",
-      "word": "сары",
-      "oldWord": "سارى",
-      "expl": "黄色",
+      "word": "\u0441\u0430\u0440\u044b",
+      "oldWord": "\u0633\u0627\u0631\u0649",
+      "expl": "\u9ec4\u8272",
       "audio": "3.mp3",
       "lno": "1"
     },
     {
       "id": "4",
-      "word": "ақ",
-      "oldWord": "اق",
-      "expl": "白色",
+      "word": "\u0430\u049b",
+      "oldWord": "\u0627\u0642",
+      "expl": "\u767d\u8272",
       "audio": "4.mp3",
       "lno": "1"
     },
     {
       "id": "5",
-      "word": "көк",
-      "oldWord": "كوك",
-      "expl": "蓝色",
+      "word": "\u043a\u04e9\u043a",
+      "oldWord": "\u0643\u0648\u0643",
+      "expl": "\u84dd\u8272",
       "audio": "5.mp3",
       "lno": "1"
     },
     {
       "id": "6",
-      "word": "су",
-      "oldWord": "سۋ",
-      "expl": "水",
+      "word": "\u0441\u0443",
+      "oldWord": "\u0633\u06cb",
+      "expl": "\u6c34",
       "audio": "6.mp3",
       "lno": "1"
     },
     {
       "id": "7",
-      "word": "жақсы",
-      "oldWord": "جاقسى",
-      "expl": "好",
+      "word": "\u0436\u0430\u049b\u0441\u044b",
+      "oldWord": "\u062c\u0627\u0642\u0633\u0649",
+      "expl": "\u597d",
       "audio": "7.mp3",
       "lno": "1"
     },
     {
       "id": "8",
-      "word": "төрт",
-      "oldWord": "تورت",
-      "expl": "四",
+      "word": "\u0442\u04e9\u0440\u0442",
+      "oldWord": "\u062a\u0648\u0631\u062a",
+      "expl": "\u56db",
       "audio": "8.mp3",
       "lno": "1"
     },
     {
       "id": "9",
-      "word": "бес",
-      "oldWord": "بەس",
-      "expl": "五",
+      "word": "\u0431\u0435\u0441",
+      "oldWord": "\u0628\u06d5\u0633",
+      "expl": "\u4e94",
       "audio": "9.mp3",
       "lno": "1"
     },
     {
       "id": "10",
-      "word": "алты",
-      "oldWord": "التى",
-      "expl": "六",
+      "word": "\u0430\u043b\u0442\u044b",
+      "oldWord": "\u0627\u0644\u062a\u0649",
+      "expl": "\u516d",
       "audio": "10.mp3",
       "lno": "1"
     }
