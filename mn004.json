@@ -10,7 +10,7 @@
       "word": "\u0430\u043b\u0433\u0435\u0431\u0440",
       "oldWord": "",
       "expl": "\uff08\u540d\uff09\u4ee3\u6570",
-      "audio": "1.mp3",
+      "audio": "\u0430\u043b\u0433\u0435\u0431\u0440.mp3",
       "lno": "1"
     },
     {
@@ -26,7 +26,7 @@
       "word": "\u0431\u0430\u043c\u0431\u0430\u0433\u0430\u0440",
       "oldWord": "",
       "expl": "\uff08\u5f62\uff09\u67d4\u8f6f\u7684",
-      "audio": "3.mp3",
+      "audio": "\u0431\u0430\u043c\u0431\u0430\u0433\u0430\u0440.mp3",
       "lno": "1"
     },
     {
@@ -34,7 +34,7 @@
       "word": "\u0431\u043e\u0433\u0446",
       "oldWord": "",
       "expl": "\uff08\u540d\uff09\u725b\u76ae\u888b",
-      "audio": "4.mp3",
+      "audio": "\u0431\u043e\u0433\u0446.mp3",
       "lno": "1"
     },
     {
@@ -74,7 +74,7 @@
       "word": "\u0433\u044d\u0434\u0438\u0439\u0445",
       "oldWord": "",
       "expl": "\uff08\u52a8\uff09\u540e\u4ef0\uff0c\u76ee\u4e2d\u65e0\u4eba",
-      "audio": "9.mp3",
+      "audio": "\u0433\u044d\u0434\u0438\u0439\u0445.mp3",
       "lno": "1"
     },
     {
@@ -90,7 +90,7 @@
       "word": "\u0434\u043e\u0432\u0436\u043e\u043e(\u043d)",
       "oldWord": "",
       "expl": "\uff08\u540d\uff09\u53f0\u9636",
-      "audio": "11.mp3",
+      "audio": "\u0434\u043e\u0432\u0436\u043e\u043e.mp3",
       "lno": "1"
     },
     {
@@ -98,7 +98,7 @@
       "word": "\u0434\u04e9\u043b\u04e9\u0445",
       "oldWord": "",
       "expl": "\uff08\u52a8\uff09\u8eb2\u95ea\uff0c\u9003\u907f",
-      "audio": "12.mp3",
+      "audio": "\u0434\u04e9\u043b\u04e9\u0445.mp3",
       "lno": "1"
     },
     {
@@ -106,7 +106,7 @@
       "word": "\u0434\u044d\u0432\u0440\u044d\u0445",
       "oldWord": "",
       "expl": "\uff08\u52a8\uff09\u6cb8\u51fa\uff0c\u6ea2\u51fa",
-      "audio": "13.mp3",
+      "audio": "\u0434\u044d\u0432\u0440\u044d\u0445.mp3",
       "lno": "1"
     },
     {
@@ -114,7 +114,7 @@
       "word": "\u0436\u0443\u0440\u043d\u0430\u043b",
       "oldWord": "",
       "expl": "\uff08\u540d\uff09\u503c\u73ed\u65e5\u5fd7\uff0c\u6742\u5fd7",
-      "audio": "14.mp3",
+      "audio": "\u0436\u0443\u0440\u043d\u0430\u043b.mp3",
       "lno": "1"
     },
     {
@@ -130,7 +130,7 @@
       "word": "\u0437\u0430\u0436\u043b\u0430\u0445",
       "oldWord": "",
       "expl": "\uff08\u52a8\uff09\u5480\u56bc",
-      "audio": "16.mp3",
+      "audio": "\u0437\u0430\u0436\u043b\u0430\u0445.mp3",
       "lno": "1"
     },
     {
@@ -138,7 +138,7 @@
       "word": "\u0437\u0430\u043b\u0433\u0438\u0445",
       "oldWord": "",
       "expl": "\uff08\u52a8\uff09\u54bd\u4e0b",
-      "audio": "17.mp3",
+      "audio": "\u0437\u0430\u043b\u0433\u0438\u0445.mp3",
       "lno": "1"
     },
     {
@@ -154,7 +154,7 @@
       "word": "\u0438\u043b\u0433\u044d\u044d\u043b\u0442",
       "oldWord": "",
       "expl": "\uff08\u540d\uff09\u90ae\u4ef6\uff0c\u4fe1\u4ef6",
-      "audio": "19.mp3",
+      "audio": "\u0438\u043b\u0433\u044d\u044d\u043b\u0442.mp3",
       "lno": "1"
     },
     {
@@ -170,7 +170,7 @@
       "word": "\u043c\u0430\u0440\u0437\u0430\u043d",
       "oldWord": "",
       "expl": "\uff08\u5f62\uff09\u8c03\u76ae\u7684\uff0c\u597d\u4e8b\u7684",
-      "audio": "21.mp3",
+      "audio": "\u043c\u0430\u0440\u0437\u0430\u043d.mp3",
       "lno": "1"
     },
     {
@@ -178,7 +178,7 @@
       "word": "\u043d\u0430\u0440\u0438\u0439\u0434\u0430\u0445",
       "oldWord": "",
       "expl": "\uff08\u52a8\uff09\u53d8\u5f97\u8fc7\u7ec6",
-      "audio": "22.mp3",
+      "audio": "\u043d\u0430\u0440\u0438\u0439\u0434\u0430\u0445.mp3",
       "lno": "1"
     },
     {
@@ -186,7 +186,7 @@
       "word": "\u043d\u04af\u0446\u0433\u044d\u043d",
       "oldWord": "",
       "expl": "\uff08\u5f62\uff09\u88f8\u9732\u7684",
-      "audio": "23.mp3",
+      "audio": "\u043d\u04af\u0446\u0433\u044d\u043d.mp3",
       "lno": "1"
     },
     {
@@ -194,7 +194,7 @@
       "word": "\u043e\u043b\u0438\u0433\u0442\u043e\u0439",
       "oldWord": "",
       "expl": "\uff08\u5f62\uff09\u50cf\u6837\u7684\uff0c\u4e0d\u9519\u7684",
-      "audio": "24.mp3",
+      "audio": "\u043e\u043b\u0438\u0433\u0442\u043e\u0439.mp3",
       "lno": "1"
     },
     {
@@ -202,7 +202,7 @@
       "word": "\u043e\u043d\u0433\u043e\u0440\u0445\u043e\u0439",
       "oldWord": "",
       "expl": "\uff08\u5f62\uff09\u88c2\u5f00\u53e3\u7684\uff0c\u6709\u7a9f\u7abf\u7684\uff0c\u655e\u5f00\u7684",
-      "audio": "25.mp3",
+      "audio": "\u043e\u043d\u0433\u043e\u0440\u0445\u043e\u0439.mp3",
       "lno": "1"
     },
     {
@@ -210,7 +210,7 @@
       "word": "\u04e9\u043d\u0434\u0438\u0439\u0445",
       "oldWord": "",
       "expl": "\uff08\u52a8\uff09\u5fae\u5fae\u633a\u8d77",
-      "audio": "26.mp3",
+      "audio": "\u04e9\u043d\u0434\u0438\u0439\u0445.mp3",
       "lno": "1"
     },
     {
@@ -250,7 +250,7 @@
       "word": "\u0441\u044d\u043c\u0445\u044d\u043d",
       "oldWord": "",
       "expl": "\uff08\u5f62\uff09\u8f83\u5b89\u9759\u7684\uff08\u5730\uff09\uff0c\u6084\u6084\u7684\uff08\u5730\uff09",
-      "audio": "31.mp3",
+      "audio": "\u0441\u044d\u043c\u0445\u044d\u043d.mp3",
       "lno": "1"
     },
     {
@@ -274,7 +274,7 @@
       "word": "\u0442\u043e\u0439\u0440\u043e\u0445",
       "oldWord": "",
       "expl": "\uff08\u52a8\uff09\u56f4\u7ed5\uff0c\u7f20\u7ed5",
-      "audio": "34.mp3",
+      "audio": "\u0442\u043e\u0439\u0440\u043e\u0445.mp3",
       "lno": "1"
     },
     {
@@ -290,7 +290,7 @@
       "word": "\u0442\u043e\u0445\u043e\u0445",
       "oldWord": "",
       "expl": "\uff08\u52a8\uff09\u642d\u5728\u2026\u2026\u4e0a",
-      "audio": "36.mp3",
+      "audio": "\u0442\u043e\u0445\u043e\u0445.mp3",
       "lno": "1"
     },
     {
@@ -298,7 +298,7 @@
       "word": "\u0442\u04e9\u0432\u04e9\u0433\u0448\u04e9\u04e9\u0445",
       "oldWord": "",
       "expl": "\uff08\u52a8\uff09\u8ba4\u4e3a\u662f\u7d2f\u8d58\uff0c\u611f\u5230\u9ebb\u70e6",
-      "audio": "37.mp3",
+      "audio": "\u0442\u04e9\u0432\u04e9\u0433\u0448\u04e9\u04e9\u0445.mp3",
       "lno": "1"
     },
     {
@@ -314,7 +314,7 @@
       "word": "\u0442\u04af\u0433\u0436\u0438\u0445",
       "oldWord": "",
       "expl": "\uff08\u52a8\uff09\u9501\u4e0a",
-      "audio": "39.mp3",
+      "audio": "\u0442\u04af\u0433\u0436\u0438\u0445.mp3",
       "lno": "1"
     },
     {
@@ -322,7 +322,7 @@
       "word": "\u0442\u04af\u0440\u0433\u044d\u0441\u044d\u0445",
       "oldWord": "",
       "expl": "\uff08\u52a8\uff09\u53d8\u5f97\u66f4\u5feb",
-      "audio": "40.mp3",
+      "audio": "\u0442\u04af\u0440\u0433\u044d\u0441\u044d\u0445.mp3",
       "lno": "1"
     },
     {
@@ -330,7 +330,7 @@
       "word": "\u0442\u04af\u0440\u0438\u0439",
       "oldWord": "",
       "expl": "\uff08\u540d\uff09\u9774\u7b52",
-      "audio": "41.mp3",
+      "audio": "\u0442\u04af\u0440\u0438\u0439.mp3",
       "lno": "1"
     },
     {
@@ -346,7 +346,7 @@
       "word": "\u0442\u044d\u044d\u0433\u043b\u044d\u0445",
       "oldWord": "",
       "expl": "\uff08\u52a8\uff09\u6302\u4f4f\u52fe\u4f4f",
-      "audio": "43.mp3",
+      "audio": "\u0442\u044d\u044d\u0433\u043b\u044d\u0445.mp3",
       "lno": "1"
     },
     {
@@ -354,7 +354,7 @@
       "word": "\u0443\u0433",
       "oldWord": "",
       "expl": "\uff08\u540d\uff09\u8d77\u521d\uff0c\u5f00\u7aef",
-      "audio": "44.mp3",
+      "audio": "\u0443\u0433.mp3",
       "lno": "1"
     },
     {
@@ -362,7 +362,7 @@
       "word": "\u0443\u0433\u043b\u0430\u0445",
       "oldWord": "",
       "expl": "\uff08\u52a8\uff09\u5957\u4e0a\uff0c\u585e\u8fdb",
-      "audio": "45.mp3",
+      "audio": "\u0443\u0433\u043b\u0430\u0445.mp3",
       "lno": "1"
     },
     {
@@ -386,7 +386,7 @@
       "word": "\u0443\u0446\u0430\u0430\u0440\u0442\u0430\u0439",
       "oldWord": "",
       "expl": "\uff08\u5f62\uff09\u4e0d\u8010\u70e6\u7684",
-      "audio": "48.mp3",
+      "audio": "\u0443\u0446\u0430\u0430\u0440\u0442\u0430\u0439.mp3",
       "lno": "1"
     },
     {
@@ -394,7 +394,7 @@
       "word": "\u0445\u0430\u0432\u044c\u0446\u0430\u0430",
       "oldWord": "",
       "expl": "\uff08\u540d\uff09\u9644\u8fd1",
-      "audio": "49.mp3",
+      "audio": "\u0445\u0430\u0432\u044c\u0446\u0430\u0430.mp3",
       "lno": "1"
     },
     {
@@ -402,7 +402,7 @@
       "word": "\u0445\u0430\u043b\u0430\u0430\u0434",
       "oldWord": "",
       "expl": "\uff08\u540d\uff09\u957f\u7f69\u886b\uff0c\u7761\u8863",
-      "audio": "50.mp3",
+      "audio": "\u0445\u0430\u043b\u0430\u0430\u0434.mp3",
       "lno": "1"
     },
     {
@@ -418,7 +418,7 @@
       "word": "\u0445\u0430\u043c\u0445\u0438\u0445",
       "oldWord": "",
       "expl": "\uff08\u52a8\uff09\u5408\u4e0a",
-      "audio": "52.mp3",
+      "audio": "\u0445\u0430\u043c\u0445\u0438\u0445.mp3",
       "lno": "1"
     },
     {
@@ -426,7 +426,7 @@
       "word": "\u0445\u0430\u0440\u0438\u0443\u0446\u043b\u0430\u0433\u0430",
       "oldWord": "",
       "expl": "\uff08\u540d\uff09\u8d23\u4efb\uff0c\u8d1f\u8d23",
-      "audio": "53.mp3",
+      "audio": "\u0445\u0430\u0440\u0438\u0443\u0446\u043b\u0430\u0433\u0430.mp3",
       "lno": "1"
     },
     {
@@ -434,7 +434,7 @@
       "word": "\u0445\u043e\u0440\u0445\u043e\u0439",
       "oldWord": "",
       "expl": "\uff08\u540d\uff09\u866b\u5b50",
-      "audio": "54.mp3",
+      "audio": "\u0445\u043e\u0440\u0445\u043e\u0439.mp3",
       "lno": "1"
     },
     {
@@ -442,7 +442,7 @@
       "word": "\u0445\u04e9\u0432\u04e9\u043d",
       "oldWord": "",
       "expl": "\uff08\u540d\uff09\u68c9\u82b1",
-      "audio": "55.mp3",
+      "audio": "\u0445\u04e9\u0432\u04e9\u043d.mp3",
       "lno": "1"
     },
     {
@@ -458,7 +458,7 @@
       "word": "\u0445\u04e9\u0445\u0440\u04e9\u043b\u0434\u04e9\u0445",
       "oldWord": "",
       "expl": "\uff08\u52a8\uff09\u54c4\u5802\u5927\u7b11",
-      "audio": "57.mp3",
+      "audio": "\u0445\u04e9\u0445\u0440\u04e9\u043b\u0434\u04e9\u0445.mp3",
       "lno": "1"
     },
     {
@@ -474,7 +474,7 @@
       "word": "\u0447\u0438\u043b\u0433\u044d\u0440",
       "oldWord": "",
       "expl": "\uff08\u5f62\uff09\u7ed3\u5b9e\u7684\uff0c\u58ee\u5b9e\u7684",
-      "audio": "59.mp3",
+      "audio": "\u0447\u0438\u043b\u0433\u044d\u0440.mp3",
       "lno": "1"
     },
     {
@@ -482,7 +482,7 @@
       "word": "\u0447\u0438\u0447\u0440\u044d\u0445",
       "oldWord": "",
       "expl": "\uff08\u52a8\uff09\u98a4\u6296\uff0c\u53d1\u6296",
-      "audio": "60.mp3",
+      "audio": "\u0447\u0438\u0447\u0440\u044d\u0445.mp3",
       "lno": "1"
     },
     {
@@ -490,7 +490,7 @@
       "word": "\u0448\u0430\u043b\u044c\u0433\u04af\u0439",
       "oldWord": "",
       "expl": "\uff08\u5f62\uff09\u5fae\u5c0f\u7684\uff0c\u5fae\u4e0d\u8db3\u9053\u7684",
-      "audio": "61.mp3",
+      "audio": "\u0448\u0430\u043b\u044c\u0433\u04af\u0439.mp3",
       "lno": "1"
     },
     {
@@ -498,7 +498,7 @@
       "word": "\u0448\u0430\u043d\u0442\u0440\u0430\u0445",
       "oldWord": "",
       "expl": "\uff08\u52a8\uff09\u5931\u671b\uff0c\u610f\u5fd7\u6d88\u6c89",
-      "audio": "62.mp3",
+      "audio": "\u0448\u0430\u043d\u0442\u0440\u0430\u0445.mp3",
       "lno": "1"
     },
     {
@@ -506,7 +506,7 @@
       "word": "\u0448\u0430\u0440\u043b\u0430\u043d\u0433\u0438",
       "oldWord": "",
       "expl": "\uff08\u5f62\uff09\u91d1\u9ec4\u8272\u7684\uff0c\u91d1\u707f\u707f\u7684",
-      "audio": "63.mp3",
+      "audio": "\u0448\u0430\u0440\u043b\u0430\u043d\u0433\u0438.mp3",
       "lno": "1"
     },
     {
@@ -530,7 +530,7 @@
       "word": "\u044d\u0433\u04af\u04af\u043b\u044d\u0445",
       "oldWord": "",
       "expl": "\uff08\u52a8\uff09\u4ea4\u56de\uff0c\u9000\u56de",
-      "audio": "66.mp3",
+      "audio": "\u044d\u0433\u04af\u04af\u043b\u044d\u0445.mp3",
       "lno": "1"
     },
     {
@@ -538,7 +538,7 @@
       "word": "\u044d\u043c\u0437\u044d\u0433\u0445\u044d\u043d",
       "oldWord": "",
       "expl": "\uff08\u5f62\uff09\u8f83\u8106\u5f31\u7684\uff0c\u8f83\u67d4\u5f31\u7684",
-      "audio": "67.mp3",
+      "audio": "\u044d\u043c\u0437\u044d\u0433\u0445\u044d\u043d.mp3",
       "lno": "1"
     },
     {
@@ -546,7 +546,7 @@
       "word": "\u044d\u0440\u0438\u043d",
       "oldWord": "",
       "expl": "\uff08\u540d\uff09\u7eaa\u5143\uff0c\u4e16\u7eaa",
-      "audio": "68.mp3",
+      "audio": "\u044d\u0440\u0438\u043d.mp3",
       "lno": "1"
     },
     {
@@ -554,7 +554,7 @@
       "word": "\u0430\u0440\u0430\u0433\u0448",
       "oldWord": "",
       "expl": "\uff08\u526f\uff09\u671d\u540e\uff0c\u5411\u540e",
-      "audio": "69.mp3",
+      "audio": "\u0430\u0440\u0430\u0433\u0448.mp3",
       "lno": "2"
     },
     {
@@ -570,7 +570,7 @@
       "word": "\u0431\u0430\u0430\u0433\u0438\u0443\u043b\u0430\u0445",
       "oldWord": "",
       "expl": "\uff08\u52a8\uff09\u55b7\u70df\u96fe",
-      "audio": "71.mp3",
+      "audio": "\u0431\u0430\u0430\u0433\u0438\u0443\u043b\u0430\u0445.mp3",
       "lno": "2"
     },
     {
@@ -594,7 +594,7 @@
       "word": "\u0431\u04af\u0434\u0433\u044d\u0440\u044d\u0445",
       "oldWord": "",
       "expl": "\uff08\u52a8\uff09\u53d8\u6a21\u7cca\uff0c\u53d8\u6726\u80e7",
-      "audio": "74.mp3",
+      "audio": "\u0431\u04af\u0434\u0433\u044d\u0440\u044d\u0445.mp3",
       "lno": "2"
     },
     {
@@ -610,7 +610,7 @@
       "word": "\u0433\u044d\u0433\u044d\u044d\u0432\u0447",
       "oldWord": "",
       "expl": "\uff08\u540d\uff09\u7a97\u6237",
-      "audio": "76.mp3",
+      "audio": "\u0433\u044d\u0433\u044d\u044d\u0432\u0447.mp3",
       "lno": "2"
     },
     {
@@ -650,7 +650,7 @@
       "word": "\u0436\u0430\u0432\u0445\u0430\u0430\u043b\u0430\u0433",
       "oldWord": "",
       "expl": "\uff08\u5f62\uff09\u6709\u671d\u6c14\u7684",
-      "audio": "81.mp3",
+      "audio": "\u0436\u0430\u0432\u0445\u0430\u0430\u043b\u0430\u0433.mp3",
       "lno": "2"
     },
     {
@@ -666,7 +666,7 @@
       "word": "\u0438\u043d\u0447\u0434\u044d\u0445",
       "oldWord": "",
       "expl": "\uff08\u52a8\uff09\u5f39\u6307",
-      "audio": "83.mp3",
+      "audio": "\u0438\u043d\u0447\u0434\u044d\u0445.mp3",
       "lno": "2"
     },
     {
@@ -674,7 +674,7 @@
       "word": "\u043d\u0430\u0439\u0442\u0430\u0430\u0445",
       "oldWord": "",
       "expl": "\uff08\u52a8\uff09\u6253\u55b7\u568f",
-      "audio": "84.mp3",
+      "audio": "\u043d\u0430\u0439\u0442\u0430\u0430\u0445.mp3",
       "lno": "2"
     },
     {
@@ -682,7 +682,7 @@
       "word": "\u043d\u0443\u0443\u0446\u0433\u0430\u0439\u0445\u0430\u043d",
       "oldWord": "",
       "expl": "\uff08\u5f62\uff09\u6bd4\u8f83\u79d8\u5bc6\u7684",
-      "audio": "85.mp3",
+      "audio": "\u043d\u0443\u0443\u0446\u0433\u0430\u0439\u0445\u0430\u043d.mp3",
       "lno": "2"
     },
     {
@@ -690,7 +690,7 @@
       "word": "\u043d\u044f\u043c\u0431\u0430\u0439\u043b\u0430\u0445",
       "oldWord": "",
       "expl": "\uff08\u52a8\uff09\u7ec6\u81f4\uff0c\u8ba4\u771f",
-      "audio": "86.mp3",
+      "audio": "\u043d\u044f\u043c\u0431\u0430\u0439\u043b\u0430\u0445.mp3",
       "lno": "2"
     },
     {
@@ -698,7 +698,7 @@
       "word": "\u043e\u0433\u0446\u043e\u043c",
       "oldWord": "",
       "expl": "\uff08\u5f62\uff09\u9661\u5ced\u7684\uff0c\u5267\u70c8\u7684",
-      "audio": "87.mp3",
+      "audio": "\u043e\u0433\u0446\u043e\u043c.mp3",
       "lno": "2"
     },
     {
@@ -706,7 +706,7 @@
       "word": "\u043e\u043c\u043e\u0433\u0448\u0438\u0445",
       "oldWord": "",
       "expl": "\uff08\u52a8\uff09\u9a84\u50b2",
-      "audio": "88.mp3",
+      "audio": "\u043e\u043c\u043e\u0433\u0448\u0438\u0445.mp3",
       "lno": "2"
     },
     {
@@ -714,7 +714,7 @@
       "word": "\u04e9\u043d\u0434\u04e9\u043b\u0437\u04e9\u0445",
       "oldWord": "",
       "expl": "\uff08\u52a8\uff09\u4e00\u8df3\u4e00\u8df3",
-      "audio": "89.mp3",
+      "audio": "\u04e9\u043d\u0434\u04e9\u043b\u0437\u04e9\u0445.mp3",
       "lno": "2"
     },
     {
@@ -730,7 +730,7 @@
       "word": "\u0441\u0443\u0433\u0430\u0434\u0430\u0445",
       "oldWord": "",
       "expl": "\uff08\u52a8\uff09\u633d\u81c2\uff0c\u6400\u6276",
-      "audio": "91.mp3",
+      "audio": "\u0441\u0443\u0433\u0430\u0434\u0430\u0445.mp3",
       "lno": "2"
     },
     {
@@ -746,7 +746,7 @@
       "word": "\u0441\u0443\u043d\u0433\u0430\u0445",
       "oldWord": "",
       "expl": "\uff08\u52a8\uff09\u4f38\u957f",
-      "audio": "93.mp3",
+      "audio": "\u0441\u0443\u043d\u0433\u0430\u0445.mp3",
       "lno": "2"
     },
     {
@@ -762,7 +762,7 @@
       "word": "\u0441\u044d\u0433\u0441\u0440\u044d\u0445",
       "oldWord": "",
       "expl": "\uff08\u52a8\uff09\u6296\u52a8\uff0c\u6447\u52a8",
-      "audio": "95.mp3",
+      "audio": "\u0441\u044d\u0433\u0441\u0440\u044d\u0445.mp3",
       "lno": "2"
     },
     {
@@ -778,7 +778,7 @@
       "word": "\u0442\u0430\u043c\u0445\u0438\u043b\u0430\u0445",
       "oldWord": "",
       "expl": "\uff08\u52a8\uff09\u62bd\u70df",
-      "audio": "97.mp3",
+      "audio": "\u0442\u0430\u043c\u0445\u0438\u043b\u0430\u0445.mp3",
       "lno": "2"
     },
     {
@@ -826,7 +826,7 @@
       "word": "\u0442\u0443\u0439\u043b\u0433\u04af\u0439",
       "oldWord": "",
       "expl": "\uff08\u5f62\uff09\u65e0\u9650\u7684\uff0c\u65e0\u7a77\u7684",
-      "audio": "103.mp3",
+      "audio": "\u0442\u0443\u0439\u043b\u0433\u04af\u0439.mp3",
       "lno": "2"
     },
     {
@@ -834,7 +834,7 @@
       "word": "\u0442\u0443\u0445\u043b\u0430\u0445",
       "oldWord": "",
       "expl": "\uff08\u52a8\uff09\u5e73\u9759\uff0c\u81ea\u82e5",
-      "audio": "104.mp3",
+      "audio": "\u0442\u0443\u0445\u043b\u0430\u0445.mp3",
       "lno": "2"
     },
     {
@@ -842,7 +842,7 @@
       "word": "\u0442\u04af\u0440\u0433\u044d\u043b\u044d\u0445",
       "oldWord": "",
       "expl": "\uff08\u52a8\uff09\u53d8\u5feb\uff0c\u52a0\u901f",
-      "audio": "105.mp3",
+      "audio": "\u0442\u04af\u0440\u0433\u044d\u043b\u044d\u0445.mp3",
       "lno": "2"
     },
     {
@@ -898,7 +898,7 @@
       "word": "\u0446\u044d\u043c\u0431\u0438\u0439\u0445",
       "oldWord": "",
       "expl": "\uff08\u52a8\uff09\u53d8\u6574\u6d01\uff0c\u53d8\u6f02\u4eae",
-      "audio": "112.mp3",
+      "audio": "\u0446\u044d\u043c\u0431\u0438\u0439\u0445.mp3",
       "lno": "2"
     },
     {
@@ -906,7 +906,7 @@
       "word": "\u0446\u044d\u043c\u0446\u0438\u0439\u0445",
       "oldWord": "",
       "expl": "\uff08\u52a8\uff09\u53d8\u6574\u6d01\uff0c\u53d8\u7f8e\u89c2",
-      "audio": "113.mp3",
+      "audio": "\u0446\u044d\u043c\u0446\u0438\u0439\u0445.mp3",
       "lno": "2"
     },
     {
@@ -914,7 +914,7 @@
       "word": "\u0446\u044d\u043d\u0433\u044d\u0433",
       "oldWord": "",
       "expl": "\uff08\u5f62\uff09\u7eaf\u51c0\u7684\uff0c\u65e0\u5473\u7684",
-      "audio": "114.mp3",
+      "audio": "\u0446\u044d\u043d\u0433\u044d\u0433.mp3",
       "lno": "2"
     },
     {
@@ -938,7 +938,7 @@
       "word": "\u0448\u0430\u0440\u0445\u0438\u0440\u0430\u0445",
       "oldWord": "",
       "expl": "\uff08\u52a8\uff09\u9178\u75db",
-      "audio": "117.mp3",
+      "audio": "\u0448\u0430\u0440\u0445\u0438\u0440\u0430\u0445.mp3",
       "lno": "2"
     },
     {
@@ -946,7 +946,7 @@
       "word": "\u044f\u043d\u0436\u0443\u0443\u0440",
       "oldWord": "",
       "expl": "\uff08\u540d\uff09\u70df\u5377\uff0c\u9999\u70df",
-      "audio": "118.mp3",
+      "audio": "\u044f\u043d\u0436\u0443\u0443\u0440.mp3",
       "lno": "2"
     },
     {
@@ -954,7 +954,7 @@
       "word": "\u0430\u0430\u0436\u0443\u0443\u0445\u0430\u043d",
       "oldWord": "",
       "expl": "\uff08\u5f62\uff09\u8f83\u7f13\u6162\u7684",
-      "audio": "119.mp3",
+      "audio": "\u0430\u0430\u0436\u0443\u0443\u0445\u0430\u043d.mp3",
       "lno": "3"
     },
     {
@@ -962,7 +962,7 @@
       "word": "\u0430\u0434\u0440\u0430\u0445",
       "oldWord": "",
       "expl": "\uff08\u52a8\uff09\u6267\u62d7",
-      "audio": "120.mp3",
+      "audio": "\u0430\u0434\u0440\u0430\u0445.mp3",
       "lno": "3"
     },
     {
@@ -970,7 +970,7 @@
       "word": "\u0430\u043b\u0445\u0430\u0430",
       "oldWord": "",
       "expl": "\uff08\u540d\uff09\u4e00\u6b65\uff0c\u6b65\u4f10",
-      "audio": "121.mp3",
+      "audio": "\u0430\u043b\u0445\u0430\u0430.mp3",
       "lno": "3"
     },
     {
@@ -986,7 +986,7 @@
       "word": "\u0430\u043d\u0434\u0430\u0448\u0433\u04af\u0439",
       "oldWord": "",
       "expl": "\uff08\u52a8\uff09\u4e0d\u4f1a\u5f04\u9519",
-      "audio": "123.mp3",
+      "audio": "\u0430\u043d\u0434\u0430\u0448\u0433\u04af\u0439.mp3",
       "lno": "3"
     },
     {
@@ -994,7 +994,7 @@
       "word": "\u0430\u044f\u0433\u0430\u043b\u0430\u0445",
       "oldWord": "",
       "expl": "\uff08\u52a8\uff09\u7528\u7897\u76db",
-      "audio": "124.mp3",
+      "audio": "\u0430\u044f\u0433\u0430\u043b\u0430\u0445.mp3",
       "lno": "3"
     },
     {
@@ -1002,7 +1002,7 @@
       "word": "\u0431\u0440\u0438\u0433\u0430\u0434",
       "oldWord": "",
       "expl": "\uff08\u540d\uff09\u961f\uff0c\u65c5\uff08\u519b\uff09",
-      "audio": "125.mp3",
+      "audio": "\u0431\u0440\u0438\u0433\u0430\u0434.mp3",
       "lno": "3"
     },
     {
@@ -1010,7 +1010,7 @@
       "word": "\u0431\u04af\u043b\u0445",
       "oldWord": "",
       "expl": "\uff08\u540d\uff09\u8171\u5b50\u8089",
-      "audio": "126.mp3",
+      "audio": "\u0431\u04af\u043b\u0445.mp3",
       "lno": "3"
     },
     {
@@ -1018,7 +1018,7 @@
       "word": "\u0431\u04af\u0440\u0445\u044d\u044d\u0440",
       "oldWord": "",
       "expl": "\uff08\u540d\uff09\uff08\u917f\u5236\u5976\u9152\u65f6\u7528\u7684\uff09\u5706\u6876",
-      "audio": "127.mp3",
+      "audio": "\u0431\u04af\u0440\u0445\u044d\u044d\u0440.mp3",
       "lno": "3"
     },
     {
@@ -1034,7 +1034,7 @@
       "word": "\u0433\u0430\u0430\u043d\u0441(\u0430\u043d)",
       "oldWord": "",
       "expl": "\uff08\u540d\uff09\u70df\u888b",
-      "audio": "129.mp3",
+      "audio": "\u0433\u0430\u0430\u043d\u0441.mp3",
       "lno": "3"
     },
     {
@@ -1042,7 +1042,7 @@
       "word": "\u0433\u0430\u043d\u0445\u0443\u0443\u043b\u0430\u0445",
       "oldWord": "",
       "expl": "\uff08\u52a8\uff09\u4f7f\u6446\u52a8\uff0c\u4f7f\u6447\u6643",
-      "audio": "130.mp3",
+      "audio": "\u0433\u0430\u043d\u0445\u0443\u0443\u043b\u0430\u0445.mp3",
       "lno": "3"
     },
     {
@@ -1058,7 +1058,7 @@
       "word": "\u0433\u04e9\u043b\u0438\u0439\u0445",
       "oldWord": "",
       "expl": "\uff08\u52a8\uff09\u51dd\u89c6\uff0c\u5446\u4f4f",
-      "audio": "132.mp3",
+      "audio": "\u0433\u04e9\u043b\u0438\u0439\u0445.mp3",
       "lno": "3"
     },
     {
@@ -1090,7 +1090,7 @@
       "word": "\u0434\u0430\u043d\u0445",
       "oldWord": "",
       "expl": "\uff08\u540d\uff09\u58f6",
-      "audio": "136.mp3",
+      "audio": "\u0434\u0430\u043d\u0445.mp3",
       "lno": "3"
     },
     {
@@ -1098,7 +1098,7 @@
       "word": "\u0434\u0430\u0440\u0443\u0443\u0445\u0430\u043d",
       "oldWord": "",
       "expl": "\uff08\u52a8\uff09\u8f83\u8c26\u900a\u7684\uff0c\u8f83\u6e29\u548c\u7684",
-      "audio": "137.mp3",
+      "audio": "\u0434\u0430\u0440\u0443\u0443\u0445\u0430\u043d.mp3",
       "lno": "3"
     },
     {
@@ -1122,7 +1122,7 @@
       "word": "\u0434\u044d\u043d\u0434\u044d\u0445",
       "oldWord": "",
       "expl": "\uff08\u52a8\uff09\u8fc7\u4e8e\uff0c\u8fc7\u5206",
-      "audio": "140.mp3",
+      "audio": "\u0434\u044d\u043d\u0434\u044d\u0445.mp3",
       "lno": "3"
     },
     {
@@ -1130,7 +1130,7 @@
       "word": "\u0434\u044d\u0440\u0432\u044d\u0445",
       "oldWord": "",
       "expl": "\uff08\u52a8\uff09\u98d8\u8361\uff0c\u98a4\u52a8\uff1b\u8df3\u52a8",
-      "audio": "141.mp3",
+      "audio": "\u0434\u044d\u0440\u0432\u044d\u0445.mp3",
       "lno": "3"
     },
     {
@@ -1138,7 +1138,7 @@
       "word": "\u0436\u0430\u043b\u0430\u0432\u0447",
       "oldWord": "",
       "expl": "\uff08\u540d\uff09\uff08\u917f\u5236\u5976\u9152\u65f6\u7528\u7684\uff09\u6c34\u58f6",
-      "audio": "142.mp3",
+      "audio": "\u0436\u0430\u043b\u0430\u0432\u0447.mp3",
       "lno": "3"
     },
     {
@@ -1154,7 +1154,7 @@
       "word": "\u0437\u0430\u0432\u0438\u043b\u0430\u0445",
       "oldWord": "",
       "expl": "\uff08\u52a8\uff09\u76d8\u817f\u5750",
-      "audio": "144.mp3",
+      "audio": "\u0437\u0430\u0432\u0438\u043b\u0430\u0445.mp3",
       "lno": "3"
     },
     {
@@ -1162,7 +1162,7 @@
       "word": "\u0437\u0430\u0440\u0446",
       "oldWord": "",
       "expl": "\uff08\u540d\uff09\u4ec6\u4eba",
-      "audio": "145.mp3",
+      "audio": "\u0437\u0430\u0440\u0446.mp3",
       "lno": "3"
     },
     {
@@ -1170,7 +1170,7 @@
       "word": "\u0437\u0443\u043b\u0430\u0439",
       "oldWord": "",
       "expl": "\uff08\u540d\uff09\u5934\u9876",
-      "audio": "146.mp3",
+      "audio": "\u0437\u0443\u043b\u0430\u0439.mp3",
       "lno": "3"
     },
     {
@@ -1186,7 +1186,7 @@
       "word": "\u0437\u0443\u043d\u0448\u043b\u0430\u0433\u0430",
       "oldWord": "",
       "expl": "\uff08\u540d\uff09\u590f\u666f",
-      "audio": "148.mp3",
+      "audio": "\u0437\u0443\u043d\u0448\u043b\u0430\u0433\u0430.mp3",
       "lno": "3"
     },
     {
@@ -1202,7 +1202,7 @@
       "word": "\u0437\u04af\u04af\u0434\u043b\u044d\u0445",
       "oldWord": "",
       "expl": "\uff08\u52a8\uff09\u505a\u68a6",
-      "audio": "150.mp3",
+      "audio": "\u0437\u04af\u04af\u0434\u043b\u044d\u0445.mp3",
       "lno": "3"
     },
     {
@@ -1218,7 +1218,7 @@
       "word": "\u0438\u0441\u0433\u044d\u043b\u044d\u043d",
       "oldWord": "",
       "expl": "\uff08\u5f62\uff09\u9178\u7684",
-      "audio": "152.mp3",
+      "audio": "\u0438\u0441\u0433\u044d\u043b\u044d\u043d.mp3",
       "lno": "3"
     },
     {
@@ -1226,7 +1226,7 @@
       "word": "\u043c\u0430\u0439\u0433\u0430\u0434\u0443\u0443",
       "oldWord": "",
       "expl": "\uff08\u5f62\uff09\uff08\u817f\uff09\u4e0d\u76f4\u7684\uff0c\u7f57\u5708\u7684",
-      "audio": "153.mp3",
+      "audio": "\u043c\u0430\u0439\u0433\u0430\u0434\u0443\u0443.mp3",
       "lno": "3"
     },
     {
@@ -1234,7 +1234,7 @@
       "word": "\u043c\u0438\u043a\u0440\u043e\u0441\u043a\u043e\u043f",
       "oldWord": "",
       "expl": "\uff08\u540d\uff09\u663e\u5fae\u955c",
-      "audio": "154.mp3",
+      "audio": "\u043c\u0438\u043a\u0440\u043e\u0441\u043a\u043e\u043f.mp3",
       "lno": "3"
     },
     {
@@ -1242,7 +1242,7 @@
       "word": "\u043d\u0430\u0430\u0448\u043b\u0430\u0445",
       "oldWord": "",
       "expl": "\uff08\u52a8\uff09\u4e34\u8fd1\uff0c\u6328\u8fd1",
-      "audio": "155.mp3",
+      "audio": "\u043d\u0430\u0430\u0448\u043b\u0430\u0445.mp3",
       "lno": "3"
     },
     {
@@ -1250,7 +1250,7 @@
       "word": "\u043d\u0430\u0439\u043c\u0430\u0430\u0447\u0438\u043d",
       "oldWord": "",
       "expl": "\uff08\u540d\uff09\u5546\u4eba\uff0c\u4e70\u5356\u4eba",
-      "audio": "156.mp3",
+      "audio": "\u043d\u0430\u0439\u043c\u0430\u0430\u0447\u0438\u043d.mp3",
       "lno": "3"
     },
     {
@@ -1266,7 +1266,7 @@
       "word": "\u043d\u0438\u043c\u0433\u044d\u0440\u044d\u0445",
       "oldWord": "",
       "expl": "\uff08\u52a8\uff09\u53d8\u8584",
-      "audio": "158.mp3",
+      "audio": "\u043d\u0438\u043c\u0433\u044d\u0440\u044d\u0445.mp3",
       "lno": "3"
     },
     {
@@ -1282,7 +1282,7 @@
       "word": "\u043d\u0443\u0434\u0430\u0440\u0433\u0430",
       "oldWord": "",
       "expl": "\uff08\u540d\uff09\u62f3\u5934\uff0c\u8896\u53e3",
-      "audio": "160.mp3",
+      "audio": "\u043d\u0443\u0434\u0430\u0440\u0433\u0430.mp3",
       "lno": "3"
     },
     {
@@ -1298,7 +1298,7 @@
       "word": "\u043d\u044d\u0440\u044d\u0445",
       "oldWord": "",
       "expl": "\uff08\u52a8\uff09\u84b8\u998f\uff0c\u917f\u5236",
-      "audio": "162.mp3",
+      "audio": "\u043d\u044d\u0440\u044d\u0445.mp3",
       "lno": "3"
     },
     {
@@ -1322,7 +1322,7 @@
       "word": "\u04e9\u0448\u0438\u0440\u0445\u04e9\u0445",
       "oldWord": "",
       "expl": "\uff08\u52a8\uff09\u6000\u6068",
-      "audio": "165.mp3",
+      "audio": "\u04e9\u0448\u0438\u0440\u0445\u04e9\u0445.mp3",
       "lno": "3"
     },
     {
@@ -1338,7 +1338,7 @@
       "word": "\u0441\u043e\u0432\u0438\u043d",
       "oldWord": "",
       "expl": "\uff08\u540d\uff09\u5148\u5146",
-      "audio": "167.mp3",
+      "audio": "\u0441\u043e\u0432\u0438\u043d.mp3",
       "lno": "3"
     },
     {
@@ -1346,7 +1346,7 @@
       "word": "\u0441\u044d\u043c\u0440\u044d\u0445",
       "oldWord": "",
       "expl": "\uff08\u52a8\uff09\u78e8\u635f\uff0c\u78e8\u635f",
-      "audio": "168.mp3",
+      "audio": "\u0441\u044d\u043c\u0440\u044d\u0445.mp3",
       "lno": "3"
     },
     {
@@ -1378,7 +1378,7 @@
       "word": "\u0442\u0430\u0448\u0443\u0443\u0440",
       "oldWord": "",
       "expl": "\uff08\u540d\uff09\u97ad\u5b50",
-      "audio": "172.mp3",
+      "audio": "\u0442\u0430\u0448\u0443\u0443\u0440.mp3",
       "lno": "3"
     },
     {
@@ -1386,7 +1386,7 @@
       "word": "\u0442\u044d\u0440\u043b\u044d\u0433",
       "oldWord": "",
       "expl": "\uff08\u540d\uff09\uff08\u590f\u5b63\u7a7f\u7684\uff09\u8584\u8499\u53e4\u888d",
-      "audio": "173.mp3",
+      "audio": "\u0442\u044d\u0440\u043b\u044d\u0433.mp3",
       "lno": "3"
     },
     {
@@ -1402,7 +1402,7 @@
       "word": "\u0445\u0430\u043d\u0445\u043b\u0430\u0445",
       "oldWord": "",
       "expl": "\uff08\u52a8\uff09\u6563\u53d1\u6c14\u5473",
-      "audio": "175.mp3",
+      "audio": "\u0445\u0430\u043d\u0445\u043b\u0430\u0445.mp3",
       "lno": "3"
     },
     {
@@ -1410,7 +1410,7 @@
       "word": "\u0445\u0430\u0440\u0430\u043c\u0441\u0430\u0445",
       "oldWord": "",
       "expl": "\uff08\u52a8\uff09\u60cb\u60dc\uff0c\u9057\u61be",
-      "audio": "176.mp3",
+      "audio": "\u0445\u0430\u0440\u0430\u043c\u0441\u0430\u0445.mp3",
       "lno": "3"
     },
     {
@@ -1426,7 +1426,7 @@
       "word": "\u0445\u0430\u0441\u0430\u0433\u0434\u0430\u0445",
       "oldWord": "",
       "expl": "\uff08\u52a8\uff09\u88ab\u5f00\u9664\uff0c\u88ab\u64a4\u804c\uff0c\u88ab\u88c1\u51cf",
-      "audio": "178.mp3",
+      "audio": "\u0445\u0430\u0441\u0430\u0433\u0434\u0430\u0445.mp3",
       "lno": "3"
     },
     {
@@ -1458,7 +1458,7 @@
       "word": "\u0445\u0443\u0440\u0446\u0445\u0430\u043d",
       "oldWord": "",
       "expl": "\uff08\u5f62\uff09\u7a0d\u950b\u5229\u7684\uff0c\u7a0d\u5f3a\u70c8\u7684",
-      "audio": "182.mp3",
+      "audio": "\u0445\u0443\u0440\u0446\u0445\u0430\u043d.mp3",
       "lno": "3"
     },
     {
@@ -1466,7 +1466,7 @@
       "word": "\u0445\u0443\u0442\u0433\u0430\u0445",
       "oldWord": "",
       "expl": "\uff08\u52a8\uff09\u8200\uff0c\u6405\u548c",
-      "audio": "183.mp3",
+      "audio": "\u0445\u0443\u0442\u0433\u0430\u0445.mp3",
       "lno": "3"
     },
     {
@@ -1498,7 +1498,7 @@
       "word": "\u0448\u0430\u0437\u0440\u0443\u0443\u043d",
       "oldWord": "",
       "expl": "\uff08\u5f62\uff09\u6027\u6025\u7684\uff0c\u66b4\u8e81\u7684",
-      "audio": "187.mp3",
+      "audio": "\u0448\u0430\u0437\u0440\u0443\u0443\u043d.mp3",
       "lno": "3"
     },
     {
@@ -1506,7 +1506,7 @@
       "word": "\u0448\u0438\u0432\u0448\u0438\u0433",
       "oldWord": "",
       "expl": "\uff08\u540d\uff09\u4e22\u8138\uff0c\u7f9e\u803b",
-      "audio": "188.mp3",
+      "audio": "\u0448\u0438\u0432\u0448\u0438\u0433.mp3",
       "lno": "3"
     },
     {
@@ -1514,7 +1514,7 @@
       "word": "\u0448\u0438\u0432\u044d\u0433\u043d\u044d\u0445",
       "oldWord": "",
       "expl": "\uff08\u52a8\uff09\u4f4e\u58f0\u8033\u8bed",
-      "audio": "189.mp3",
+      "audio": "\u0448\u0438\u0432\u044d\u0433\u043d\u044d\u0445.mp3",
       "lno": "3"
     },
     {
@@ -1522,7 +1522,7 @@
       "word": "\u0448\u0438\u043c\u044d\u0445",
       "oldWord": "",
       "expl": "\uff08\u52a8\uff09\u542e\u5438\uff0c\u5482",
-      "audio": "190.mp3",
+      "audio": "\u0448\u0438\u043c\u044d\u0445.mp3",
       "lno": "3"
     },
     {
@@ -1530,7 +1530,7 @@
       "word": "\u0448\u043e\u0433\u0448\u0443\u0443\u043b\u0430\u0445",
       "oldWord": "",
       "expl": "\uff08\u52a8\uff09\u4f7f\uff08\u9a6c\uff09\u5927\u98a0\uff0c\u4f7f\u5feb\u6b65\u8d70",
-      "audio": "191.mp3",
+      "audio": "\u0448\u043e\u0433\u0448\u0443\u0443\u043b\u0430\u0445.mp3",
       "lno": "3"
     },
     {
@@ -1538,7 +1538,7 @@
       "word": "\u0448\u0443\u0434\u0440\u0430\u0445",
       "oldWord": "",
       "expl": "\uff08\u52a8\uff09\u64e6\u4e86\u4e00\u4e0b",
-      "audio": "192.mp3",
+      "audio": "\u0448\u0443\u0434\u0440\u0430\u0445.mp3",
       "lno": "3"
     },
     {
@@ -1562,7 +1562,7 @@
       "word": "\u044d\u0440\u0434\u044d\u0445",
       "oldWord": "",
       "expl": "\uff08\u52a8\uff09\u81ea\u8d1f\uff0c\u501a\u4ed7",
-      "audio": "195.mp3",
+      "audio": "\u044d\u0440\u0434\u044d\u0445.mp3",
       "lno": "3"
     },
     {
@@ -1594,7 +1594,7 @@
       "word": "\u044f\u043c\u0430\u0440\u0448\u0443\u0443",
       "oldWord": "",
       "expl": "\uff08\u5f62\uff09\u4ec0\u4e48\u6837\u7684\uff0c\u5982\u4f55\u7684",
-      "audio": "199.mp3",
+      "audio": "\u044f\u043c\u0430\u0440\u0448\u0443\u0443.mp3",
       "lno": "3"
     },
     {
@@ -1602,7 +1602,7 @@
       "word": "\u044f\u0442\u0433\u0430\u0445",
       "oldWord": "",
       "expl": "\uff08\u52a8\uff09\u529d\u8bf4",
-      "audio": "200.mp3",
+      "audio": "\u044f\u0442\u0433\u0430\u0445.mp3",
       "lno": "3"
     },
     {
@@ -1610,7 +1610,7 @@
       "word": "\u0430\u0433\u0448\u0438\u043d",
       "oldWord": "",
       "expl": "\uff08\u540d\uff09\u77ac\u95f4",
-      "audio": "201.mp3",
+      "audio": "\u0430\u0433\u0448\u0438\u043d.mp3",
       "lno": "4"
     },
     {
@@ -1626,7 +1626,7 @@
       "word": "\u0430\u0436\u0440\u0430\u0445\u0433\u04af\u0439",
       "oldWord": "",
       "expl": "\uff08\u52a8\uff09\u4e0d\u987e\u53ca",
-      "audio": "203.mp3",
+      "audio": "\u0430\u0436\u0440\u0430\u0445\u0433\u04af\u0439.mp3",
       "lno": "4"
     },
     {
@@ -1642,7 +1642,7 @@
       "word": "\u0431\u0430\u0440\u0438\u043c\u0436\u0430\u0430(\u043d)",
       "oldWord": "",
       "expl": "\uff08\u540d\uff09\u65b9\u5411\uff0c\u51c6\u5219",
-      "audio": "205.mp3",
+      "audio": "\u0431\u0430\u0440\u0438\u043c\u0436\u0430\u0430.mp3",
       "lno": "4"
     },
     {
@@ -1650,7 +1650,7 @@
       "word": "\u0431\u0430\u0447\u0438\u043c\u0434\u0430\u0445",
       "oldWord": "",
       "expl": "\uff08\u52a8\uff09\u7740\u6025\uff0c\u6fc0\u52a8",
-      "audio": "206.mp3",
+      "audio": "\u0431\u0430\u0447\u0438\u043c\u0434\u0430\u0445.mp3",
       "lno": "4"
     },
     {
@@ -1674,7 +1674,7 @@
       "word": "\u0431\u04e9\u043d\u0434\u0438\u0439\u0445",
       "oldWord": "",
       "expl": "\uff08\u52a8\uff09\u5448\u5706\u5f62\uff0c\u8737\u7f29\u4e00\u56e2",
-      "audio": "209.mp3",
+      "audio": "\u0431\u04e9\u043d\u0434\u0438\u0439\u0445.mp3",
       "lno": "4"
     },
     {
@@ -1682,7 +1682,7 @@
       "word": "\u0431\u0443\u043b\u0437\u0430\u0430\u0440\u0443\u0443\u043b\u0430\u0445",
       "oldWord": "",
       "expl": "\uff08\u52a8\uff09\u4f7f\u8131\u79bb",
-      "audio": "210.mp3",
+      "audio": "\u0431\u0443\u043b\u0437\u0430\u0430\u0440\u0443\u0443\u043b\u0430\u0445.mp3",
       "lno": "4"
     },
     {
@@ -1698,7 +1698,7 @@
       "word": "\u0431\u0443\u0443\u0440\u0430\u043b\u0442\u0430\u0445",
       "oldWord": "",
       "expl": "\uff08\u52a8\uff09\u5448\u94f6\u767d\u8272",
-      "audio": "212.mp3",
+      "audio": "\u0431\u0443\u0443\u0440\u0430\u043b\u0442\u0430\u0445.mp3",
       "lno": "4"
     },
     {
@@ -1706,7 +1706,7 @@
       "word": "\u0431\u04af\u0441\u043b\u044d\u0445",
       "oldWord": "",
       "expl": "\uff08\u52a8\uff09\u5305\u56f4\uff0c\u52d2\u7d27\uff0c\u675f\u7d27",
-      "audio": "213.mp3",
+      "audio": "\u0431\u04af\u0441\u043b\u044d\u0445.mp3",
       "lno": "4"
     },
     {
@@ -1714,7 +1714,7 @@
       "word": "\u0431\u044d\u0434\u0440\u044d\u0445",
       "oldWord": "",
       "expl": "\uff08\u52a8\uff09\u5bfb\u627e",
-      "audio": "214.mp3",
+      "audio": "\u0431\u044d\u0434\u0440\u044d\u0445.mp3",
       "lno": "4"
     },
     {
@@ -1722,7 +1722,7 @@
       "word": "\u0433\u0430\u0442\u043b\u0430\u0445",
       "oldWord": "",
       "expl": "\uff08\u52a8\uff09\u6d89\u6c34\uff0c\u6e21\u8fc7",
-      "audio": "215.mp3",
+      "audio": "\u0433\u0430\u0442\u043b\u0430\u0445.mp3",
       "lno": "4"
     },
     {
@@ -1738,7 +1738,7 @@
       "word": "\u0433\u043e\u043d\u0437\u0433\u043e\u0439",
       "oldWord": "",
       "expl": "\uff08\u5f62\uff09\u692d\u5706\u5f62\u7684",
-      "audio": "217.mp3",
+      "audio": "\u0433\u043e\u043d\u0437\u0433\u043e\u0439.mp3",
       "lno": "4"
     },
     {
@@ -1754,7 +1754,7 @@
       "word": "\u0433\u0443\u043d\u0436",
       "oldWord": "",
       "expl": "\uff08\u540d\uff09\u4e09\u5c81\u6bcd\u725b\uff0c\u4e09\u5c81\u6bcd\u9a86\u9a7c",
-      "audio": "219.mp3",
+      "audio": "\u0433\u0443\u043d\u0436.mp3",
       "lno": "4"
     },
     {
@@ -1770,7 +1770,7 @@
       "word": "\u0434\u0438\u043f\u043b\u043e\u043c",
       "oldWord": "",
       "expl": "\uff08\u540d\uff09\u6bd5\u4e1a\u8bc1\u4e66",
-      "audio": "221.mp3",
+      "audio": "\u0434\u0438\u043f\u043b\u043e\u043c.mp3",
       "lno": "4"
     },
     {
@@ -1778,7 +1778,7 @@
       "word": "\u0434\u043e\u0433\u044c",
       "oldWord": "",
       "expl": "\uff08\u5f62\uff09\u8001\u7ec3\u7684\uff0c\u5706\u6ed1\u7684",
-      "audio": "222.mp3",
+      "audio": "\u0434\u043e\u0433\u044c.mp3",
       "lno": "4"
     },
     {
@@ -1794,7 +1794,7 @@
       "word": "\u0434\u043e\u043e\u0433\u043b\u043e\u0445",
       "oldWord": "",
       "expl": "\uff08\u52a8\uff09\u5632\u7b11",
-      "audio": "224.mp3",
+      "audio": "\u0434\u043e\u043e\u0433\u043b\u043e\u0445.mp3",
       "lno": "4"
     },
     {
@@ -1834,7 +1834,7 @@
       "word": "\u0437\u0430\u0430\u043b\u0433\u0443\u0443\u043b\u0430\u0445",
       "oldWord": "",
       "expl": "\uff08\u52a8\uff09\u8ba9\u2026\u2026\u6307\u6559",
-      "audio": "229.mp3",
+      "audio": "\u0437\u0430\u0430\u043b\u0433\u0443\u0443\u043b\u0430\u0445.mp3",
       "lno": "4"
     },
     {
@@ -1842,7 +1842,7 @@
       "word": "\u0437\u0430\u0432\u0430\u0430\u0440\u0430\u0445",
       "oldWord": "",
       "expl": "\uff08\u52a8\uff09\u53d8\u5f97\u6de1\u800c\u65e0\u5473\uff1b\u53d8\u5f97\u9ecf\u7cca\uff1b\u4ee4\u4eba\u751f\u538c",
-      "audio": "230.mp3",
+      "audio": "\u0437\u0430\u0432\u0430\u0430\u0440\u0430\u0445.mp3",
       "lno": "4"
     },
     {
@@ -1858,7 +1858,7 @@
       "word": "\u0438\u0441\u0433\u044d\u0440\u044d\u043b\u0442",
       "oldWord": "",
       "expl": "\uff08\u540d\uff09\uff08\u98ce\uff09\u547c\u5578",
-      "audio": "232.mp3",
+      "audio": "\u0438\u0441\u0433\u044d\u0440\u044d\u043b\u0442.mp3",
       "lno": "4"
     },
     {
@@ -1866,7 +1866,7 @@
       "word": "\u043c\u0430\u043b\u0433\u0430\u0439\u043b\u0430\u0445",
       "oldWord": "",
       "expl": "\uff08\u52a8\uff09\u4e0b\u5927\u96ea",
-      "audio": "233.mp3",
+      "audio": "\u043c\u0430\u043b\u0433\u0430\u0439\u043b\u0430\u0445.mp3",
       "lno": "4"
     },
     {
@@ -1882,7 +1882,7 @@
       "word": "\u043d\u0430\u043c\u0443\u0443\u043d",
       "oldWord": "",
       "expl": "\uff08\u540d\uff09\u5e73\u7a33\u7684\uff0c\u67d4\u548c\u7684",
-      "audio": "235.mp3",
+      "audio": "\u043d\u0430\u043c\u0443\u0443\u043d.mp3",
       "lno": "4"
     },
     {
@@ -1890,7 +1890,7 @@
       "word": "\u043d\u044d\u043c\u044d\u0440",
       "oldWord": "",
       "expl": "\uff08\u540d\uff09\u9644\u52a0\uff0c\u8865\u5145",
-      "audio": "236.mp3",
+      "audio": "\u043d\u044d\u043c\u044d\u0440.mp3",
       "lno": "4"
     },
     {
@@ -1906,7 +1906,7 @@
       "word": "\u04e9\u043c\u043d\u04af\u04af\u0440",
       "oldWord": "",
       "expl": "\uff08\u526f\uff09\u5728\u5357\u8fb9\uff0c\u5728\u524d\u9762",
-      "audio": "238.mp3",
+      "audio": "\u04e9\u043c\u043d\u04af\u04af\u0440.mp3",
       "lno": "4"
     },
     {
@@ -1914,7 +1914,7 @@
       "word": "\u04e9\u0440\u0442\u04e9\u04e9(\u043d)",
       "oldWord": "",
       "expl": "\uff08\u540d\uff09\u9a7f\u7ad9\uff0c\u8f66\u7ad9",
-      "audio": "239.mp3",
+      "audio": "\u04e9\u0440\u0442\u04e9\u04e9.mp3",
       "lno": "4"
     },
     {
@@ -1922,7 +1922,7 @@
       "word": "\u043f\u043e\u0433\u0434\u043e\u0439\u0445",
       "oldWord": "",
       "expl": "\uff08\u52a8\uff09\u53d8\u77ed",
-      "audio": "240.mp3",
+      "audio": "\u043f\u043e\u0433\u0434\u043e\u0439\u0445.mp3",
       "lno": "4"
     },
     {
@@ -1938,7 +1938,7 @@
       "word": "\u0441\u04e9\u0440\u04e9\u0445",
       "oldWord": "",
       "expl": "\uff08\u52a8\uff09\uff08\u98ce\uff09\u9006\u5439\uff0c\u62b5\u6297\uff0c\u62b5\u89e6",
-      "audio": "242.mp3",
+      "audio": "\u0441\u04e9\u0440\u04e9\u0445.mp3",
       "lno": "4"
     },
     {
@@ -1962,7 +1962,7 @@
       "word": "\u0442\u0430\u043d\u0438\u043c\u0445\u0430\u0439\u0440\u0430\u0445",
       "oldWord": "",
       "expl": "\uff08\u52a8\uff09\u5584\u4e8e\u4ea4\u9645\uff0c\u663e\u5f97\u719f\u8bc6\u7684",
-      "audio": "245.mp3",
+      "audio": "\u0442\u0430\u043d\u0438\u043c\u0445\u0430\u0439\u0440\u0430\u0445.mp3",
       "lno": "4"
     },
     {
@@ -1978,7 +1978,7 @@
       "word": "\u0443\u043b\u0438\u0445",
       "oldWord": "",
       "expl": "\uff08\u52a8\uff09\uff08\u72fc\uff09\u55e5\u53eb",
-      "audio": "247.mp3",
+      "audio": "\u0443\u043b\u0438\u0445.mp3",
       "lno": "4"
     },
     {
@@ -1986,7 +1986,7 @@
       "word": "\u0443\u043d\u0438\u0430\u0440",
       "oldWord": "",
       "expl": "\uff08\u540d\uff09\u70df\u96fe\uff0c\u972d",
-      "audio": "248.mp3",
+      "audio": "\u0443\u043d\u0438\u0430\u0440.mp3",
       "lno": "4"
     },
     {
@@ -2002,7 +2002,7 @@
       "word": "\u04af\u0440\u044d\u044d",
       "oldWord": "",
       "expl": "\uff08\u540d\uff09\u4e09\u81f3\u4e94\u5c81\u7684\u516c\u9a6c",
-      "audio": "250.mp3",
+      "audio": "\u04af\u0440\u044d\u044d.mp3",
       "lno": "4"
     },
     {
@@ -2010,7 +2010,7 @@
       "word": "\u0444\u0438\u0437\u0438\u043a",
       "oldWord": "",
       "expl": "\uff08\u540d\uff09\u7269\u7406",
-      "audio": "251.mp3",
+      "audio": "\u0444\u0438\u0437\u0438\u043a.mp3",
       "lno": "4"
     },
     {
@@ -2026,7 +2026,7 @@
       "word": "\u0445\u0430\u043b\u0445\u043b\u0430\u0433\u0434\u0430\u0445",
       "oldWord": "",
       "expl": "\uff08\u52a8\uff09\u88ab\u6321\u4f4f",
-      "audio": "253.mp3",
+      "audio": "\u0445\u0430\u043b\u0445\u043b\u0430\u0433\u0434\u0430\u0445.mp3",
       "lno": "4"
     },
     {
@@ -2042,7 +2042,7 @@
       "word": "\u0445\u0430\u0440\u043c\u0430\u0430\u043b\u0430\u0445",
       "oldWord": "",
       "expl": "\uff08\u52a8\uff09\u88c5\u5728\u53e3\u888b\u91cc",
-      "audio": "255.mp3",
+      "audio": "\u0445\u0430\u0440\u043c\u0430\u0430\u043b\u0430\u0445.mp3",
       "lno": "4"
     },
     {
@@ -2066,7 +2066,7 @@
       "word": "\u0445\u04af\u043d\u043b\u044d\u0433",
       "oldWord": "",
       "expl": "\uff08\u5f62\uff09\u4eba\u6027\u7684\uff0c\u4eba\u60c5\u7684\uff0c\u4eba\u9053\u7684",
-      "audio": "258.mp3",
+      "audio": "\u0445\u04af\u043d\u043b\u044d\u0433.mp3",
       "lno": "4"
     },
     {
@@ -2090,7 +2090,7 @@
       "word": "\u0446\u043e\u0440\u043e\u0439\u0445",
       "oldWord": "",
       "expl": "\uff08\u52a8\uff09\uff08\u9a6c\uff09\u8e7f\u8df3",
-      "audio": "261.mp3",
+      "audio": "\u0446\u043e\u0440\u043e\u0439\u0445.mp3",
       "lno": "4"
     },
     {
@@ -2106,7 +2106,7 @@
       "word": "\u0448\u0430\u043c\u0430\u0440\u0433\u0430",
       "oldWord": "",
       "expl": "\uff08\u540d\uff09\u6e7f\u96ea",
-      "audio": "263.mp3",
+      "audio": "\u0448\u0430\u043c\u0430\u0440\u0433\u0430.mp3",
       "lno": "4"
     },
     {
@@ -2114,7 +2114,7 @@
       "word": "\u0448\u0430\u0445\u0430\u043c",
       "oldWord": "",
       "expl": "\uff08\u526f\uff09\u63a5\u8fd1\uff0c\u5dee\u4e0d\u591a",
-      "audio": "264.mp3",
+      "audio": "\u0448\u0430\u0445\u0430\u043c.mp3",
       "lno": "4"
     },
     {
@@ -2122,7 +2122,7 @@
       "word": "\u0448\u0438\u0434\u043b\u044d\u0445",
       "oldWord": "",
       "expl": "\uff08\u52a8\uff09\u6254\uff0c\u63b7\uff08\u0448\u0438\u0434\u044d\u0445\u7684\u591a\u6b21\u4f53\uff09",
-      "audio": "265.mp3",
+      "audio": "\u0448\u0438\u0434\u043b\u044d\u0445.mp3",
       "lno": "4"
     },
     {
@@ -2138,7 +2138,7 @@
       "word": "\u0448\u0438\u0440\u04af\u04af\u0441\u044d\u0445",
       "oldWord": "",
       "expl": "\uff08\u52a8\uff09\u53d8\u5f97\u66f4\u731b\u70c8",
-      "audio": "267.mp3",
+      "audio": "\u0448\u0438\u0440\u04af\u04af\u0441\u044d\u0445.mp3",
       "lno": "4"
     },
     {
@@ -2170,7 +2170,7 @@
       "word": "\u044d\u0440\u044d\u0433\u0446\u044d\u0445",
       "oldWord": "",
       "expl": "\uff08\u52a8\uff09\u4e0d\u505c\u8f6c\u5708\uff0c\u53cd\u590d\u8003\u8651",
-      "audio": "271.mp3",
+      "audio": "\u044d\u0440\u044d\u0433\u0446\u044d\u0445.mp3",
       "lno": "4"
     },
     {
@@ -2178,7 +2178,7 @@
       "word": "\u0430\u0439\u043b\u0434\u0430\u0445",
       "oldWord": "",
       "expl": "\uff08\u52a8\uff09\u4e0b\u8c15\uff08\u65e7\uff09\uff0c\u8bad\u793a",
-      "audio": "272.mp3",
+      "audio": "\u0430\u0439\u043b\u0434\u0430\u0445.mp3",
       "lno": "5"
     },
     {
@@ -2194,7 +2194,7 @@
       "word": "\u0430\u043b\u0433\u0430\u0434\u0443\u0443\u043b\u0430\u0445",
       "oldWord": "",
       "expl": "\uff08\u52a8\uff09\u88ab\u638c\u63b4",
-      "audio": "274.mp3",
+      "audio": "\u0430\u043b\u0433\u0430\u0434\u0443\u0443\u043b\u0430\u0445.mp3",
       "lno": "5"
     },
     {
@@ -2202,7 +2202,7 @@
       "word": "\u0430\u043c\u0441\u0445\u0438\u0439\u0445",
       "oldWord": "",
       "expl": "\uff08\u52a8\uff09\u7565\u4f5c\u5598\u606f",
-      "audio": "275.mp3",
+      "audio": "\u0430\u043c\u0441\u0445\u0438\u0439\u0445.mp3",
       "lno": "5"
     },
     {
@@ -2218,7 +2218,7 @@
       "word": "\u0430\u0440\u0433\u0430\u0434\u0430\u0445",
       "oldWord": "",
       "expl": "\uff08\u52a8\uff09\u54c4\uff1b\u8bbe\u6cd5\uff1b\u529d\u8bf4",
-      "audio": "277.mp3",
+      "audio": "\u0430\u0440\u0433\u0430\u0434\u0430\u0445.mp3",
       "lno": "5"
     },
     {
@@ -2226,7 +2226,7 @@
       "word": "\u0430\u044f\u0434\u0430\u0445",
       "oldWord": "",
       "expl": "\uff08\u52a8\uff09\u505a\u51fa\u59ff\u6001",
-      "audio": "278.mp3",
+      "audio": "\u0430\u044f\u0434\u0430\u0445.mp3",
       "lno": "5"
     },
     {
@@ -2242,7 +2242,7 @@
       "word": "\u0431\u0430\u0440\u0434\u0430\u043c",
       "oldWord": "",
       "expl": "\uff08\u5f62\uff09\u9a84\u50b2\u7684\uff0c\u81ea\u8d1f\u7684\uff0c\u5984\u81ea\u5c0a\u5927\u7684",
-      "audio": "280.mp3",
+      "audio": "\u0431\u0430\u0440\u0434\u0430\u043c.mp3",
       "lno": "5"
     },
     {
@@ -2250,7 +2250,7 @@
       "word": "\u0431\u043e\u0433\u0442\u043b\u043e\u0445",
       "oldWord": "",
       "expl": "\uff08\u52a8\uff09\u6210\u4eb2\uff08\u5728\u5a18\u5bb6\uff09",
-      "audio": "281.mp3",
+      "audio": "\u0431\u043e\u0433\u0442\u043b\u043e\u0445.mp3",
       "lno": "5"
     },
     {
@@ -2274,7 +2274,7 @@
       "word": "\u0433\u0430\u0437\u0430\u0440\u0434\u0430\u0445",
       "oldWord": "",
       "expl": "\uff08\u52a8\uff09\u843d\u5730\uff0c\u7740\u9646\uff1b\u9677\u4eba\u7edd\u5883",
-      "audio": "284.mp3",
+      "audio": "\u0433\u0430\u0437\u0430\u0440\u0434\u0430\u0445.mp3",
       "lno": "5"
     },
     {
@@ -2290,7 +2290,7 @@
       "word": "\u0433\u043e\u043b\u0446\u0443\u0443",
       "oldWord": "",
       "expl": "\uff08\u526f\uff09\u4e3b\u8981\u662f\uff08\u540c\u0433\u043e\u043b\u0434\u0443\u0443\uff09",
-      "audio": "286.mp3",
+      "audio": "\u0433\u043e\u043b\u0446\u0443\u0443.mp3",
       "lno": "5"
     },
     {
@@ -2306,7 +2306,7 @@
       "word": "\u0434\u0430\u0430\u043b\u0438\u043c\u0431\u0430",
       "oldWord": "",
       "expl": "\uff08\u540d\uff09\u659c\u7eb9\u5e03",
-      "audio": "288.mp3",
+      "audio": "\u0434\u0430\u0430\u043b\u0438\u043c\u0431\u0430.mp3",
       "lno": "5"
     },
     {
@@ -2314,7 +2314,7 @@
       "word": "\u0434\u0430\u043b\u0434\u0440\u0443\u0443\u043b\u0430\u0445",
       "oldWord": "",
       "expl": "\uff08\u52a8\uff09\u4f7f\u9690\u533f\uff0c\u63a9\u85cf",
-      "audio": "289.mp3",
+      "audio": "\u0434\u0430\u043b\u0434\u0440\u0443\u0443\u043b\u0430\u0445.mp3",
       "lno": "5"
     },
     {
@@ -2322,7 +2322,7 @@
       "word": "\u0434\u0430\u0440\u0430\u043c\u0442\u043b\u0430\u0445",
       "oldWord": "",
       "expl": "\uff08\u52a8\uff09\u65bd\u538b\uff1b\u538b\u8feb",
-      "audio": "290.mp3",
+      "audio": "\u0434\u0430\u0440\u0430\u043c\u0442\u043b\u0430\u0445.mp3",
       "lno": "5"
     },
     {
@@ -2338,7 +2338,7 @@
       "word": "\u0434\u0440\u0430\u043c",
       "oldWord": "",
       "expl": "\uff08\u540d\uff09\u8bdd\u5267",
-      "audio": "292.mp3",
+      "audio": "\u0434\u0440\u0430\u043c.mp3",
       "lno": "5"
     },
     {
@@ -2370,7 +2370,7 @@
       "word": "\u0437\u04e9\u0440\u04af\u04af",
       "oldWord": "",
       "expl": "\uff08\u5f62\uff09\u56fa\u6267\u7684\uff0c\u522b\u626d\u7684",
-      "audio": "296.mp3",
+      "audio": "\u0437\u04e9\u0440\u04af\u04af.mp3",
       "lno": "5"
     },
     {
@@ -2386,7 +2386,7 @@
       "word": "\u0438\u043c\u0440\u044d\u0445",
       "oldWord": "",
       "expl": "\uff08\u52a8\uff09\u6413\uff0c\u637b",
-      "audio": "298.mp3",
+      "audio": "\u0438\u043c\u0440\u044d\u0445.mp3",
       "lno": "5"
     },
     {
@@ -2394,7 +2394,7 @@
       "word": "\u0438\u0445\u044d\u043c\u0441\u044d\u0433",
       "oldWord": "",
       "expl": "\uff08\u5f62\uff09\u9ad8\u50b2\u7684\uff0c\u8dbe\u9ad8\u6c14\u626c\u7684",
-      "audio": "299.mp3",
+      "audio": "\u0438\u0445\u044d\u043c\u0441\u044d\u0433.mp3",
       "lno": "5"
     },
     {
@@ -2434,7 +2434,7 @@
       "word": "\u043c\u04e9\u0440\u04e9\u0432\u0447",
       "oldWord": "",
       "expl": "\uff08\u540d\uff09\u62a4\u80a9",
-      "audio": "304.mp3",
+      "audio": "\u043c\u04e9\u0440\u04e9\u0432\u0447.mp3",
       "lno": "5"
     },
     {
@@ -2458,7 +2458,7 @@
       "word": "\u043c\u044d\u043b\u0442\u044d\u043b\u0437\u044d\u0445",
       "oldWord": "",
       "expl": "\uff08\u52a8\uff09\u5145\u76c8\uff0c\u6ee1\u6ea2",
-      "audio": "307.mp3",
+      "audio": "\u043c\u044d\u043b\u0442\u044d\u043b\u0437\u044d\u0445.mp3",
       "lno": "5"
     },
     {
@@ -2466,7 +2466,7 @@
       "word": "\u043c\u044f\u043b\u0430\u0430\u043b\u0433\u0430\u0445",
       "oldWord": "",
       "expl": "\uff08\u52a8\uff09\uff08\u8ba9\u6d82\u62b9\u9ec4\u6cb9\uff09\u4ee5\u793a\u795d\u798f",
-      "audio": "308.mp3",
+      "audio": "\u043c\u044f\u043b\u0430\u0430\u043b\u0433\u0430\u0445.mp3",
       "lno": "5"
     },
     {
@@ -2482,7 +2482,7 @@
       "word": "\u043d\u0438\u0439\u0442\u043b\u044d\u043b",
       "oldWord": "",
       "expl": "\uff08\u540d\uff09\u793e\u8bc4\uff0c\u8bc4\u8bba",
-      "audio": "310.mp3",
+      "audio": "\u043d\u0438\u0439\u0442\u043b\u044d\u043b.mp3",
       "lno": "5"
     },
     {
@@ -2530,7 +2530,7 @@
       "word": "\u0441\u04e9\u0445\u0440\u04e9\u0445",
       "oldWord": "",
       "expl": "\uff08\u52a8\uff09\u8dea\u4e0b\uff0c\u8dea\u62dc\uff0c\u8dea\u5750",
-      "audio": "316.mp3",
+      "audio": "\u0441\u04e9\u0445\u0440\u04e9\u0445.mp3",
       "lno": "5"
     },
     {
@@ -2538,7 +2538,7 @@
       "word": "\u0441\u0442\u0430\u043d\u0434\u0430\u0440\u0442",
       "oldWord": "",
       "expl": "\uff08\u540d\uff09\u6807\u51c6\uff0c\u89c4\u683c",
-      "audio": "317.mp3",
+      "audio": "\u0441\u0442\u0430\u043d\u0434\u0430\u0440\u0442.mp3",
       "lno": "5"
     },
     {
@@ -2554,7 +2554,7 @@
       "word": "\u0442\u0430\u0439\u0436",
       "oldWord": "",
       "expl": "\uff08\u540d\uff09\u53f0\u5409\uff1b\u8d35\u65cf",
-      "audio": "319.mp3",
+      "audio": "\u0442\u0430\u0439\u0436.mp3",
       "lno": "5"
     },
     {
@@ -2578,7 +2578,7 @@
       "word": "\u0442\u0430\u043d\u0433\u0430\u0440\u0430\u0433\u043b\u0430\u0445",
       "oldWord": "",
       "expl": "\uff08\u52a8\uff09\u53d1\u8a93\uff0c\u8d77\u8a93",
-      "audio": "322.mp3",
+      "audio": "\u0442\u0430\u043d\u0433\u0430\u0440\u0430\u0433\u043b\u0430\u0445.mp3",
       "lno": "5"
     },
     {
@@ -2586,7 +2586,7 @@
       "word": "\u0442\u043e\u0433\u0442\u0443\u0443\u043d",
       "oldWord": "",
       "expl": "\uff08\u5f62\uff09\u6c89\u7a33\u7684",
-      "audio": "323.mp3",
+      "audio": "\u0442\u043e\u0433\u0442\u0443\u0443\u043d.mp3",
       "lno": "5"
     },
     {
@@ -2594,7 +2594,7 @@
       "word": "\u0442\u043e\u043d\u0433\u043e\u043b\u0437\u043e\u0445",
       "oldWord": "",
       "expl": "\uff08\u52a8\uff09\u9891\u9891\u66f2\u80cc\u5f2f\u8170",
-      "audio": "324.mp3",
+      "audio": "\u0442\u043e\u043d\u0433\u043e\u043b\u0437\u043e\u0445.mp3",
       "lno": "5"
     },
     {
@@ -2602,7 +2602,7 @@
       "word": "\u0442\u043e\u0445\u0438\u0440\u043e\u0445",
       "oldWord": "",
       "expl": "\uff08\u52a8\uff09\u5546\u5b9a\uff0c\u8c08\u59a5\uff1b\u9002\u5408\u2026\u2026",
-      "audio": "325.mp3",
+      "audio": "\u0442\u043e\u0445\u0438\u0440\u043e\u0445.mp3",
       "lno": "5"
     },
     {
@@ -2610,7 +2610,7 @@
       "word": "\u0442\u04e9\u0432\u04e9\u0440\u0433\u04e9\u04e9\u043d",
       "oldWord": "",
       "expl": "\uff08\u540d\uff09\u9a6c\u8e44\u58f0",
-      "audio": "326.mp3",
+      "audio": "\u0442\u04e9\u0432\u04e9\u0440\u0433\u04e9\u04e9\u043d.mp3",
       "lno": "5"
     },
     {
@@ -2618,7 +2618,7 @@
       "word": "\u0442\u0443\u0441\u0433\u0430\u0439\u043b\u0430\u0445",
       "oldWord": "",
       "expl": "\uff08\u52a8\uff09\u4e13\u95e8\u3001\u7279\u5730",
-      "audio": "327.mp3",
+      "audio": "\u0442\u0443\u0441\u0433\u0430\u0439\u043b\u0430\u0445.mp3",
       "lno": "5"
     },
     {
@@ -2634,7 +2634,7 @@
       "word": "\u0442\u04af\u0440\u0445\u044d\u0445",
       "oldWord": "",
       "expl": "\uff08\u52a8\uff09\u6d82\uff0c\u62b9",
-      "audio": "329.mp3",
+      "audio": "\u0442\u04af\u0440\u0445\u044d\u0445.mp3",
       "lno": "5"
     },
     {
@@ -2658,7 +2658,7 @@
       "word": "\u04af\u0445\u044d\u044d\u043d\u0446",
       "oldWord": "",
       "expl": "\uff08\u5f62\uff09\u8870\u5f31\u7684\uff1b\u6b7b\u677f\u7684",
-      "audio": "332.mp3",
+      "audio": "\u04af\u0445\u044d\u044d\u043d\u0446.mp3",
       "lno": "5"
     },
     {
@@ -2666,7 +2666,7 @@
       "word": "\u0444\u0435\u043d",
       "oldWord": "",
       "expl": "\uff08\u540d\uff09\u8ffd\u661f\u8005\uff0c\u7c89\u4e1d\uff08\u8f6c\u5199\u82f1\u6587fan\uff09",
-      "audio": "333.mp3",
+      "audio": "\u0444\u0435\u043d.mp3",
       "lno": "5"
     },
     {
@@ -2674,7 +2674,7 @@
       "word": "\u0445\u04e9\u0434\u04e9\u043b\u0433\u04e9\u04e9\u043d",
       "oldWord": "",
       "expl": "\uff08\u540d\uff09\u884c\u52a8\uff0c\u52a8\u4f5c\uff0c\u8fd0\u52a8\uff1b\u884c\u4e3a\uff0c\u4e3e\u6b62",
-      "audio": "334.mp3",
+      "audio": "\u0445\u04e9\u0434\u04e9\u043b\u0433\u04e9\u04e9\u043d.mp3",
       "lno": "5"
     },
     {
@@ -2682,7 +2682,7 @@
       "word": "\u0445\u0443\u0440\u0430\u043d\u0434\u0430\u0430",
       "oldWord": "",
       "expl": "\uff08\u540d\uff09\u4e0a\u6821",
-      "audio": "335.mp3",
+      "audio": "\u0445\u0443\u0440\u0430\u043d\u0434\u0430\u0430.mp3",
       "lno": "5"
     },
     {
@@ -2690,7 +2690,7 @@
       "word": "\u0445\u0443\u0440\u0434\u043b\u0430\u0445",
       "oldWord": "",
       "expl": "\uff08\u52a8\uff09\u5feb\u901f\uff0c\u52a0\u5feb",
-      "audio": "336.mp3",
+      "audio": "\u0445\u0443\u0440\u0434\u043b\u0430\u0445.mp3",
       "lno": "5"
     },
     {
@@ -2698,7 +2698,7 @@
       "word": "\u0445\u0443\u0443\u0440\u0430\u043c\u0447",
       "oldWord": "",
       "expl": "\uff08\u5f62\uff09\u865a\u5047\u7684\uff0c\u865a\u4f2a\u7684",
-      "audio": "337.mp3",
+      "audio": "\u0445\u0443\u0443\u0440\u0430\u043c\u0447.mp3",
       "lno": "5"
     },
     {
@@ -2722,7 +2722,7 @@
       "word": "\u0445\u04af\u043b\u044d\u0445",
       "oldWord": "",
       "expl": "\uff08\u52a8\uff09\u6346\uff0c\u7ed1",
-      "audio": "340.mp3",
+      "audio": "\u0445\u04af\u043b\u044d\u0445.mp3",
       "lno": "5"
     },
     {
@@ -2738,7 +2738,7 @@
       "word": "\u0446\u0443\u043b\u0431\u0443\u0443\u0440",
       "oldWord": "",
       "expl": "\uff08\u540d\uff09\u7f30\u7ef3",
-      "audio": "342.mp3",
+      "audio": "\u0446\u0443\u043b\u0431\u0443\u0443\u0440.mp3",
       "lno": "5"
     },
     {
@@ -2746,7 +2746,7 @@
       "word": "\u0448\u0438\u0440\u0432\u044d\u044d",
       "oldWord": "",
       "expl": "\uff08\u5f62\uff09\u7ec6\u7a84\u7684",
-      "audio": "343.mp3",
+      "audio": "\u0448\u0438\u0440\u0432\u044d\u044d.mp3",
       "lno": "5"
     },
     {
@@ -2770,7 +2770,7 @@
       "word": "\u0448\u0443\u043b\u0443\u0443\u043d",
       "oldWord": "",
       "expl": "\uff08\u5f62\uff09\u76f4\u7684\uff1b\u6b63\u76f4\u7684",
-      "audio": "346.mp3",
+      "audio": "\u0448\u0443\u043b\u0443\u0443\u043d.mp3",
       "lno": "5"
     },
     {
@@ -2778,7 +2778,7 @@
       "word": "\u044d\u0434\u0433\u044d\u0445",
       "oldWord": "",
       "expl": "\uff08\u52a8\uff09\u75ca\u6108\uff0c\u5eb7\u590d",
-      "audio": "347.mp3",
+      "audio": "\u044d\u0434\u0433\u044d\u0445.mp3",
       "lno": "5"
     },
     {
@@ -2802,7 +2802,7 @@
       "word": "\u044f\u0430\u043c\u0430\u0439",
       "oldWord": "",
       "expl": "\uff08\u8bed\uff09\u4e0d\u9519\uff0c\u86ee\u597d\uff0c\u8fd8\u597d\uff08\u8868\u793a\u8d5e\u8bb8\uff09",
-      "audio": "350.mp3",
+      "audio": "\u044f\u0430\u043c\u0430\u0439.mp3",
       "lno": "5"
     },
     {
@@ -2866,7 +2866,7 @@
       "word": "\u0430\u043d\u0445\u0438\u043b\u0430\u0445",
       "oldWord": "",
       "expl": "\uff08\u52a8\uff09\u6563\u53d1\u9999\u5473\uff0c\u9999\u6c14\u56db\u6ea2",
-      "audio": "358.mp3",
+      "audio": "\u0430\u043d\u0445\u0438\u043b\u0430\u0445.mp3",
       "lno": "6"
     },
     {
@@ -2874,7 +2874,7 @@
       "word": "\u0431\u0430\u0437\u043b\u0430\u0445",
       "oldWord": "",
       "expl": "\uff08\u52a8\uff09\u0431\u0430\u0437\u0430\u0445\u7684\u591a\u6b21\u4f53\uff0c\u6525\uff0c\u62e7\uff0c\u634f",
-      "audio": "359.mp3",
+      "audio": "\u0431\u0430\u0437\u043b\u0430\u0445.mp3",
       "lno": "6"
     },
     {
@@ -2882,7 +2882,7 @@
       "word": "\u0431\u0430\u043b\u0430\u0433",
       "oldWord": "",
       "expl": "\uff08\u540d\uff09\u6076\u679c\uff1b\u7f6a\u8fc7",
-      "audio": "360.mp3",
+      "audio": "\u0431\u0430\u043b\u0430\u0433.mp3",
       "lno": "6"
     },
     {
@@ -2906,7 +2906,7 @@
       "word": "\u0431\u043e\u043b\u0437\u043e\u043e(\u043d)",
       "oldWord": "",
       "expl": "\uff08\u540d\uff09\u7ea6\u5b9a\uff0c\u7ea6\u4f1a",
-      "audio": "363.mp3",
+      "audio": "\u0431\u043e\u043b\u0437\u043e\u043e.mp3",
       "lno": "6"
     },
     {
@@ -2930,7 +2930,7 @@
       "word": "\u0431\u04e9\u0433\u043b\u04af\u04af",
       "oldWord": "",
       "expl": "\uff08\u5f62\uff09\u504f\u8fdc\u7684\uff0c\u8352\u50fb\u7684",
-      "audio": "366.mp3",
+      "audio": "\u0431\u04e9\u0433\u043b\u04af\u04af.mp3",
       "lno": "6"
     },
     {
@@ -2938,7 +2938,7 @@
       "word": "\u0431\u0443\u043b\u0433\u0438\u043b\u0430\u0445",
       "oldWord": "",
       "expl": "\uff08\u52a8\uff09\u6025\u4fc3\u8df3\u52a8",
-      "audio": "367.mp3",
+      "audio": "\u0431\u0443\u043b\u0433\u0438\u043b\u0430\u0445.mp3",
       "lno": "6"
     },
     {
@@ -2946,7 +2946,7 @@
       "word": "\u0431\u0443\u0440\u0433\u0430\u0441(\u0430\u043d)",
       "oldWord": "",
       "expl": "\uff08\u540d\uff09\u67f3\u6811",
-      "audio": "368.mp3",
+      "audio": "\u0431\u0443\u0440\u0433\u0430\u0441.mp3",
       "lno": "6"
     },
     {
@@ -2954,7 +2954,7 @@
       "word": "\u0431\u0443\u0442\u0440\u0430\u0445",
       "oldWord": "",
       "expl": "\uff08\u52a8\uff09\u788e\u5f00\uff0c\u6563\u5f00\uff1b\u98de\u626c",
-      "audio": "369.mp3",
+      "audio": "\u0431\u0443\u0442\u0440\u0430\u0445.mp3",
       "lno": "6"
     },
     {
@@ -2962,7 +2962,7 @@
       "word": "\u0431\u0443\u0445\u0438\u043c\u0434\u0430\u0445",
       "oldWord": "",
       "expl": "\uff08\u52a8\uff09\u70e6\u95f7\uff0c\u82e6\u607c\uff0c\u61ca\u607c",
-      "audio": "370.mp3",
+      "audio": "\u0431\u0443\u0445\u0438\u043c\u0434\u0430\u0445.mp3",
       "lno": "6"
     },
     {
@@ -2986,7 +2986,7 @@
       "word": "\u0431\u044d\u043b\u044d\u0432\u0441\u0440\u044d\u0445",
       "oldWord": "",
       "expl": "\uff08\u52a8\uff09\u5b88\u5be1",
-      "audio": "373.mp3",
+      "audio": "\u0431\u044d\u043b\u044d\u0432\u0441\u0440\u044d\u0445.mp3",
       "lno": "6"
     },
     {
@@ -3002,7 +3002,7 @@
       "word": "\u0433\u0430\u0440\u0430\u043d",
       "oldWord": "",
       "expl": "\uff08\u5f62\uff09\u540c\u0433\u0430\u0440\u0443\u0439\uff0c\u591a\uff0c\u4f59",
-      "audio": "375.mp3",
+      "audio": "\u0433\u0430\u0440\u0430\u043d.mp3",
       "lno": "6"
     },
     {
@@ -3018,7 +3018,7 @@
       "word": "\u0433\u043e\u043e\u043b\u0438\u0433",
       "oldWord": "",
       "expl": "\uff08\u5f62\uff09\u7f8e\u4e3d\u7684\uff1b\u4fca\u79c0\u7684",
-      "audio": "377.mp3",
+      "audio": "\u0433\u043e\u043e\u043b\u0438\u0433.mp3",
       "lno": "6"
     },
     {
@@ -3026,7 +3026,7 @@
       "word": "\u0433\u04e9\u043b\u04e9\u043c",
       "oldWord": "",
       "expl": "\uff08\u540d\uff09\u978d\u97c2",
-      "audio": "378.mp3",
+      "audio": "\u0433\u04e9\u043b\u04e9\u043c.mp3",
       "lno": "6"
     },
     {
@@ -3034,7 +3034,7 @@
       "word": "\u0433\u0443\u043d\u0438\u0433",
       "oldWord": "",
       "expl": "\uff08\u540d\uff09\u5fe7\u4f24\uff0c\u4f24\u611f",
-      "audio": "379.mp3",
+      "audio": "\u0433\u0443\u043d\u0438\u0433.mp3",
       "lno": "6"
     },
     {
@@ -3042,7 +3042,7 @@
       "word": "\u0433\u04af\u0439\u0446\u044d\u0434",
       "oldWord": "",
       "expl": "\uff08\u5f62\uff09\u5b8c\u5168\u7684\uff0c\u5f7b\u5e95\u7684",
-      "audio": "380.mp3",
+      "audio": "\u0433\u04af\u0439\u0446\u044d\u0434.mp3",
       "lno": "6"
     },
     {
@@ -3058,7 +3058,7 @@
       "word": "\u0433\u044d\u043c\u0448\u0438\u043b",
       "oldWord": "",
       "expl": "\uff08\u540d\uff09\u61ca\u6094\uff0c\u540e\u6094",
-      "audio": "382.mp3",
+      "audio": "\u0433\u044d\u043c\u0448\u0438\u043b.mp3",
       "lno": "6"
     },
     {
@@ -3082,7 +3082,7 @@
       "word": "\u0434\u0430\u044f\u043b\u0430\u0445",
       "oldWord": "",
       "expl": "\uff08\u52a8\uff09\u873f\u8712\u800c\u884c\uff0c\u9036\u8fe4\u524d\u884c",
-      "audio": "385.mp3",
+      "audio": "\u0434\u0430\u044f\u043b\u0430\u0445.mp3",
       "lno": "6"
     },
     {
@@ -3090,7 +3090,7 @@
       "word": "\u0434\u043e\u043d\u0442\u043e\u0445",
       "oldWord": "",
       "expl": "\uff08\u52a8\uff09\u4e0a\u763e\uff0c\u75f4\u8ff7\u4e8e",
-      "audio": "386.mp3",
+      "audio": "\u0434\u043e\u043d\u0442\u043e\u0445.mp3",
       "lno": "6"
     },
     {
@@ -3098,7 +3098,7 @@
       "word": "\u0434\u043e\u043e\u0433\u0442\u043e\u0439",
       "oldWord": "",
       "expl": "\uff08\u5f62\uff09\u8bbd\u523a\u7684\uff0c\u5e7d\u9ed8\u7684\uff0c\u5f00\u73a9\u7b11\u7684",
-      "audio": "387.mp3",
+      "audio": "\u0434\u043e\u043e\u0433\u0442\u043e\u0439.mp3",
       "lno": "6"
     },
     {
@@ -3106,7 +3106,7 @@
       "word": "\u0434\u04e9\u043b\u0433\u04e9\u04e9\u0445\u04e9\u043d",
       "oldWord": "",
       "expl": "\uff08\u5f62\uff09\u8f83\u5e73\u9759\u7684\uff0c\u8f83\u6e29\u548c\u7684",
-      "audio": "388.mp3",
+      "audio": "\u0434\u04e9\u043b\u0433\u04e9\u04e9\u0445\u04e9\u043d.mp3",
       "lno": "6"
     },
     {
@@ -3122,7 +3122,7 @@
       "word": "\u0434\u0443\u043b\u0434\u0443\u0439\u0434\u0430\u0445",
       "oldWord": "",
       "expl": "\uff08\u52a8\uff09\u5bc4\u5e0c\u671b\u4e8e\uff0c\u4f9d\u8d56\uff0c\u51ed\u501f",
-      "audio": "390.mp3",
+      "audio": "\u0434\u0443\u043b\u0434\u0443\u0439\u0434\u0430\u0445.mp3",
       "lno": "6"
     },
     {
@@ -3146,7 +3146,7 @@
       "word": "\u0434\u044d\u0432\u0445\u0446\u044d\u0445",
       "oldWord": "",
       "expl": "\uff08\u52a8\uff09\u8e66\u8e66\u8df3\u8df3\uff0c\u6b22\u8df3",
-      "audio": "393.mp3",
+      "audio": "\u0434\u044d\u0432\u0445\u0446\u044d\u0445.mp3",
       "lno": "6"
     },
     {
@@ -3154,7 +3154,7 @@
       "word": "\u0436\u0438\u0433\u0442\u044d\u0439",
       "oldWord": "",
       "expl": "\uff08\u5f62\uff09\u5947\u602a\u7684\uff0c\u7a00\u5947\u7684",
-      "audio": "394.mp3",
+      "audio": "\u0436\u0438\u0433\u0442\u044d\u0439.mp3",
       "lno": "6"
     },
     {
@@ -3178,7 +3178,7 @@
       "word": "\u0436\u0443\u043b\u0434\u0440\u0430\u0439",
       "oldWord": "",
       "expl": "\uff08\u5f62\uff09\u7ea8\u7ed4\u7684",
-      "audio": "397.mp3",
+      "audio": "\u0436\u0443\u043b\u0434\u0440\u0430\u0439.mp3",
       "lno": "6"
     },
     {
@@ -3186,7 +3186,7 @@
       "word": "\u0437\u0430\u0439\u0434\u0443\u0443",
       "oldWord": "",
       "expl": "\uff08\u5f62\uff09\u7565\u8fdc\u79bb\u7684",
-      "audio": "398.mp3",
+      "audio": "\u0437\u0430\u0439\u0434\u0443\u0443.mp3",
       "lno": "6"
     },
     {
@@ -3194,7 +3194,7 @@
       "word": "\u0437\u0430\u043d\u0434\u0440\u0430\u0445",
       "oldWord": "",
       "expl": "\uff08\u52a8\uff09\u5475\u65a5\uff0c\u6012\u5475",
-      "audio": "399.mp3",
+      "audio": "\u0437\u0430\u043d\u0434\u0440\u0430\u0445.mp3",
       "lno": "6"
     },
     {
@@ -3202,7 +3202,7 @@
       "word": "\u0437\u043e\u0432\u043d\u0438\u0445",
       "oldWord": "",
       "expl": "\uff08\u52a8\uff09\u75db\u5fc3\uff1b\u5fe7\u6101",
-      "audio": "400.mp3",
+      "audio": "\u0437\u043e\u0432\u043d\u0438\u0445.mp3",
       "lno": "6"
     },
     {
@@ -3210,7 +3210,7 @@
       "word": "\u043c\u043e\u0439\u043b",
       "oldWord": "",
       "expl": "\uff08\u540d\uff09\u7a20\u674e\u5b50",
-      "audio": "401.mp3",
+      "audio": "\u043c\u043e\u0439\u043b.mp3",
       "lno": "6"
     },
     {
@@ -3218,7 +3218,7 @@
       "word": "\u043c\u043e\u043d\u043e\u0441",
       "oldWord": "",
       "expl": "\uff08\u540d\uff09\u7a20\u674e\u6811",
-      "audio": "402.mp3",
+      "audio": "\u043c\u043e\u043d\u043e\u0441.mp3",
       "lno": "6"
     },
     {
@@ -3234,7 +3234,7 @@
       "word": "\u043d\u0430\u0439\u0433\u0430\u0445",
       "oldWord": "",
       "expl": "\uff08\u52a8\uff09\u6447\u6643\uff0c\u6447\u8361",
-      "audio": "404.mp3",
+      "audio": "\u043d\u0430\u0439\u0433\u0430\u0445.mp3",
       "lno": "6"
     },
     {
@@ -3242,7 +3242,7 @@
       "word": "\u043d\u0430\u0441\u0436\u0438\u0445",
       "oldWord": "",
       "expl": "\uff08\u52a8\uff09\u4e0a\u5e74\u7eaa\uff0c\u5e74\u8001",
-      "audio": "405.mp3",
+      "audio": "\u043d\u0430\u0441\u0436\u0438\u0445.mp3",
       "lno": "6"
     },
     {
@@ -3250,7 +3250,7 @@
       "word": "\u043d\u0430\u0445\u0438\u0440\u0430\u0445",
       "oldWord": "",
       "expl": "\uff08\u52a8\uff09\u6447\u66f3\uff0c\u62c2\u52a8",
-      "audio": "406.mp3",
+      "audio": "\u043d\u0430\u0445\u0438\u0440\u0430\u0445.mp3",
       "lno": "6"
     },
     {
@@ -3258,7 +3258,7 @@
       "word": "\u043d\u0443\u0433\u0430\u043b\u0430\u0430\u0441",
       "oldWord": "",
       "expl": "\uff08\u540d\uff09\u8936\u5b50\uff0c\u8936\u7eb9",
-      "audio": "407.mp3",
+      "audio": "\u043d\u0443\u0433\u0430\u043b\u0430\u0430\u0441.mp3",
       "lno": "6"
     },
     {
@@ -3274,7 +3274,7 @@
       "word": "\u043e\u0439\u0448\u043e\u043e\u0445",
       "oldWord": "",
       "expl": "\uff08\u52a8\uff09\u7406\u4f1a\uff0c\u7406\u776c\uff0c\u5173\u6ce8",
-      "audio": "409.mp3",
+      "audio": "\u043e\u0439\u0448\u043e\u043e\u0445.mp3",
       "lno": "6"
     },
     {
@@ -3290,7 +3290,7 @@
       "word": "\u04e9\u04e9\u0440\u0438\u0439\u043c\u0441\u04e9\u0445",
       "oldWord": "",
       "expl": "\uff08\u52a8\uff09\u5f53\u6210\u81ea\u5df1\u7684\uff0c\u5f53\u4f5c\u4eb2\u4eba",
-      "audio": "411.mp3",
+      "audio": "\u04e9\u04e9\u0440\u0438\u0439\u043c\u0441\u04e9\u0445.mp3",
       "lno": "6"
     },
     {
@@ -3314,7 +3314,7 @@
       "word": "\u043f\u0440\u043e\u043a\u0443\u0440\u043e\u0440",
       "oldWord": "",
       "expl": "\uff08\u540d\uff09\u68c0\u5bdf\u5b98",
-      "audio": "414.mp3",
+      "audio": "\u043f\u0440\u043e\u043a\u0443\u0440\u043e\u0440.mp3",
       "lno": "6"
     },
     {
@@ -3330,7 +3330,7 @@
       "word": "\u0441\u0430\u043d\u0430\u0433\u0430\u043b\u0437\u0430\u0445",
       "oldWord": "",
       "expl": "\uff08\u52a8\uff09\u5ff5\u5ff5\u4e0d\u5fd8\uff0c\u6302\u5ff5\uff0c\u60e6\u5ff5",
-      "audio": "416.mp3",
+      "audio": "\u0441\u0430\u043d\u0430\u0433\u0430\u043b\u0437\u0430\u0445.mp3",
       "lno": "6"
     },
     {
@@ -3338,7 +3338,7 @@
       "word": "\u0441\u0430\u043d\u0447\u0438\u0433",
       "oldWord": "",
       "expl": "\uff08\u540d\uff09\u9b13\u89d2\uff0c\u9b13",
-      "audio": "417.mp3",
+      "audio": "\u0441\u0430\u043d\u0447\u0438\u0433.mp3",
       "lno": "6"
     },
     {
@@ -3346,7 +3346,7 @@
       "word": "\u0441\u0430\u0440\u0432\u0430\u0439\u0445",
       "oldWord": "",
       "expl": "\uff08\u52a8\uff09\u5ef6\u4f38\uff0c\u4f38\u5c55",
-      "audio": "418.mp3",
+      "audio": "\u0441\u0430\u0440\u0432\u0430\u0439\u0445.mp3",
       "lno": "6"
     },
     {
@@ -3362,7 +3362,7 @@
       "word": "\u0441\u0438\u0439\u043c\u0445\u0438\u0439",
       "oldWord": "",
       "expl": "\uff08\u540d\uff09\u7a7a\u9699\uff0c\u7f1d\u9699",
-      "audio": "420.mp3",
+      "audio": "\u0441\u0438\u0439\u043c\u0445\u0438\u0439.mp3",
       "lno": "6"
     },
     {
@@ -3378,7 +3378,7 @@
       "word": "\u0441\u043e\u0440\u043e\u0445",
       "oldWord": "",
       "expl": "\uff08\u52a8\uff09\u5438\uff0c\u5438\u542e",
-      "audio": "422.mp3",
+      "audio": "\u0441\u043e\u0440\u043e\u0445.mp3",
       "lno": "6"
     },
     {
@@ -3386,7 +3386,7 @@
       "word": "\u0441\u04af\u043b\u044d\u043b\u0434\u044d\u0445",
       "oldWord": "",
       "expl": "\uff08\u52a8\uff09\u76f8\u4e92\u4ea4\u9519\uff0c\u63ba\u6742",
-      "audio": "423.mp3",
+      "audio": "\u0441\u04af\u043b\u044d\u043b\u0434\u044d\u0445.mp3",
       "lno": "6"
     },
     {
@@ -3410,7 +3410,7 @@
       "word": "\u0442\u0430\u0430\u043c\u0430\u0433",
       "oldWord": "",
       "expl": "\uff08\u540d\uff09\u63a8\u6d4b\uff0c\u731c\u6d4b\uff1b\u731c\u7591",
-      "audio": "426.mp3",
+      "audio": "\u0442\u0430\u0430\u043c\u0430\u0433.mp3",
       "lno": "6"
     },
     {
@@ -3418,7 +3418,7 @@
       "word": "\u0442\u0430\u0439\u0442\u0433\u0430\u0440\u0430\u043b",
       "oldWord": "",
       "expl": "\uff08\u540d\uff09\u5e73\u9759\uff0c\u5b89\u9759\uff1b\u5b89\u5fc3",
-      "audio": "427.mp3",
+      "audio": "\u0442\u0430\u0439\u0442\u0433\u0430\u0440\u0430\u043b.mp3",
       "lno": "6"
     },
     {
@@ -3426,7 +3426,7 @@
       "word": "\u0442\u0430\u0439\u0442\u0433\u0430\u0440\u0430\u0445",
       "oldWord": "",
       "expl": "\uff08\u52a8\uff09\u653e\u5fc3\uff0c\u6170\u85c9\uff0c\u5bbd\u5fc3",
-      "audio": "428.mp3",
+      "audio": "\u0442\u0430\u0439\u0442\u0433\u0430\u0440\u0430\u0445.mp3",
       "lno": "6"
     },
     {
@@ -3434,7 +3434,7 @@
       "word": "\u0442\u0430\u0441\u0434\u0430\u0445",
       "oldWord": "",
       "expl": "\uff08\u52a8\uff09\u5f04\u65ad\uff0c\u626f\u7834",
-      "audio": "429.mp3",
+      "audio": "\u0442\u0430\u0441\u0434\u0430\u0445.mp3",
       "lno": "6"
     },
     {
@@ -3442,7 +3442,7 @@
       "word": "\u0442\u043e\u043b\u0438\u043e",
       "oldWord": "",
       "expl": "\uff08\u540d\uff09\u6c14\u8272",
-      "audio": "430.mp3",
+      "audio": "\u0442\u043e\u043b\u0438\u043e.mp3",
       "lno": "6"
     },
     {
@@ -3450,7 +3450,7 @@
       "word": "\u0442\u043e\u0445\u043e\u043e\u0441",
       "oldWord": "",
       "expl": "\uff08\u540d\uff09\u5957\uff0c\u7f69",
-      "audio": "431.mp3",
+      "audio": "\u0442\u043e\u0445\u043e\u043e\u0441.mp3",
       "lno": "6"
     },
     {
@@ -3458,7 +3458,7 @@
       "word": "\u0442\u044d\u0433\u0448\u0440\u044d\u0445",
       "oldWord": "",
       "expl": "\uff08\u52a8\uff09\u53d8\u5e73\uff0c\u53d8\u5e73\u5766\uff1b\u53d8\u76f4",
-      "audio": "432.mp3",
+      "audio": "\u0442\u044d\u0433\u0448\u0440\u044d\u0445.mp3",
       "lno": "6"
     },
     {
@@ -3466,7 +3466,7 @@
       "word": "\u0442\u044d\u043d\u0438\u0439\u0445",
       "oldWord": "",
       "expl": "\uff08\u52a8\uff09\u4f38\u5c55\uff0c\u8212\u5c55\uff0c\u4f38\u76f4",
-      "audio": "433.mp3",
+      "audio": "\u0442\u044d\u043d\u0438\u0439\u0445.mp3",
       "lno": "6"
     },
     {
@@ -3514,7 +3514,7 @@
       "word": "\u0443\u0443\u0436\u0440\u0430\u0445",
       "oldWord": "",
       "expl": "\uff08\u52a8\uff09\u53d8\u5bbd\u9614\uff1b\u5fc3\u60c5\u8212\u5c55",
-      "audio": "439.mp3",
+      "audio": "\u0443\u0443\u0436\u0440\u0430\u0445.mp3",
       "lno": "6"
     },
     {
@@ -3522,7 +3522,7 @@
       "word": "\u0443\u044f\u043d",
       "oldWord": "",
       "expl": "\uff08\u5f62\uff09\u67d4\u8f6f\u7684\uff1b\u6709\u5f39\u6027\u7684",
-      "audio": "440.mp3",
+      "audio": "\u0443\u044f\u043d.mp3",
       "lno": "6"
     },
     {
@@ -3530,7 +3530,7 @@
       "word": "\u04af\u0433\u04af\u0439\u043b\u044d\u0445",
       "oldWord": "",
       "expl": "\uff08\u52a8\uff09\u53d1\u89c9\u5c11\u4e86\uff0c\u53d1\u89c9\u7f3a\u4e86\uff1b\u6000\u5ff5\uff0c\u601d\u5ff5",
-      "audio": "441.mp3",
+      "audio": "\u04af\u0433\u04af\u0439\u043b\u044d\u0445.mp3",
       "lno": "6"
     },
     {
@@ -3546,7 +3546,7 @@
       "word": "\u04af\u0439\u043c\u044d\u044d\u043d",
       "oldWord": "",
       "expl": "\uff08\u540d\uff09\u6df7\u4e71\uff0c\u54c4\u95f9\uff1b\u9a9a\u4e71\uff1b\u66b4\u4e71",
-      "audio": "443.mp3",
+      "audio": "\u04af\u0439\u043c\u044d\u044d\u043d.mp3",
       "lno": "6"
     },
     {
@@ -3554,7 +3554,7 @@
       "word": "\u04af\u0440\u0447\u043b\u044d\u044d\u0441",
       "oldWord": "",
       "expl": "\uff08\u540d\uff09\u8936\u76b1\uff0c\u6298\u75d5",
-      "audio": "444.mp3",
+      "audio": "\u04af\u0440\u0447\u043b\u044d\u044d\u0441.mp3",
       "lno": "6"
     },
     {
@@ -3562,7 +3562,7 @@
       "word": "\u04af\u04af\u0434\u044d\u0445",
       "oldWord": "",
       "expl": "\uff08\u52a8\uff09\u53d1\u751f\u3001\u4ea7\u751f\uff1b\u8d77\u6e90",
-      "audio": "445.mp3",
+      "audio": "\u04af\u04af\u0434\u044d\u0445.mp3",
       "lno": "6"
     },
     {
@@ -3570,7 +3570,7 @@
       "word": "\u0445\u0430\u0440\u0433\u0438\u0430(\u043d)",
       "oldWord": "",
       "expl": "\uff08\u540d\uff09\u6d45\u6ee9\uff0c\uff08\u6cb3\u6d41\uff09\u6c99\u5634",
-      "audio": "446.mp3",
+      "audio": "\u0445\u0430\u0440\u0433\u0438\u0430.mp3",
       "lno": "6"
     },
     {
@@ -3578,7 +3578,7 @@
       "word": "\u0445\u0430\u0440\u0433\u0438\u043b\u0430\u0445",
       "oldWord": "",
       "expl": "\uff08\u52a8\uff09\u6025\u6d41\uff0c\u6e4d\u6025",
-      "audio": "447.mp3",
+      "audio": "\u0445\u0430\u0440\u0433\u0438\u043b\u0430\u0445.mp3",
       "lno": "6"
     },
     {
@@ -3586,7 +3586,7 @@
       "word": "\u0445\u0430\u0440\u0443\u0443\u0441\u0430\u043b",
       "oldWord": "",
       "expl": "\uff08\u540d\uff09\u9057\u61be\uff0c\u60cb\u60dc",
-      "audio": "448.mp3",
+      "audio": "\u0445\u0430\u0440\u0443\u0443\u0441\u0430\u043b.mp3",
       "lno": "6"
     },
     {
@@ -3594,7 +3594,7 @@
       "word": "\u0445\u0438\u0447\u044d\u044d\u043d\u0433\u04af\u0439\u043b\u044d\u0445",
       "oldWord": "",
       "expl": "\uff08\u52a8\uff09\u52aa\u529b\uff0c\u52e4\u594b",
-      "audio": "449.mp3",
+      "audio": "\u0445\u0438\u0447\u044d\u044d\u043d\u0433\u04af\u0439\u043b\u044d\u0445.mp3",
       "lno": "6"
     },
     {
@@ -3602,7 +3602,7 @@
       "word": "\u0445\u043e\u043b\u0446\u0440\u043e\u0445",
       "oldWord": "",
       "expl": "\uff08\u52a8\uff09\u8131\u843d\uff0c\u5265\u843d",
-      "audio": "450.mp3",
+      "audio": "\u0445\u043e\u043b\u0446\u0440\u043e\u0445.mp3",
       "lno": "6"
     },
     {
@@ -3618,7 +3618,7 @@
       "word": "\u0445\u0443\u043c\u0438\u0445",
       "oldWord": "",
       "expl": "\uff08\u52a8\uff09\u6536\u8d77",
-      "audio": "452.mp3",
+      "audio": "\u0445\u0443\u043c\u0438\u0445.mp3",
       "lno": "6"
     },
     {
@@ -3626,7 +3626,7 @@
       "word": "\u0445\u04af\u0441\u043b\u044d\u043d",
       "oldWord": "",
       "expl": "\uff08\u540d\uff09\u7406\u60f3\uff0c\u5411\u5f80\uff0c\u613f\u671b",
-      "audio": "453.mp3",
+      "audio": "\u0445\u04af\u0441\u043b\u044d\u043d.mp3",
       "lno": "6"
     },
     {
@@ -3634,7 +3634,7 @@
       "word": "\u0445\u044d\u0432\u0438\u0439\u0445",
       "oldWord": "",
       "expl": "\uff08\u52a8\uff09\u503e\u659c\uff0c\u6b6a\u659c",
-      "audio": "454.mp3",
+      "audio": "\u0445\u044d\u0432\u0438\u0439\u0445.mp3",
       "lno": "6"
     },
     {
@@ -3642,7 +3642,7 @@
       "word": "\u0445\u044d\u0434\u0433\u044d\u043d\u044d",
       "oldWord": "",
       "expl": "\uff08\u540d\uff09\u571f\u8702",
-      "audio": "455.mp3",
+      "audio": "\u0445\u044d\u0434\u0433\u044d\u043d\u044d.mp3",
       "lno": "6"
     },
     {
@@ -3650,7 +3650,7 @@
       "word": "\u0445\u044d\u0442\u0440\u04af\u04af\u043b\u044d\u0445",
       "oldWord": "",
       "expl": "\uff08\u52a8\uff09\u8fc7\u5206\uff0c\u8fc7\u91cf",
-      "audio": "456.mp3",
+      "audio": "\u0445\u044d\u0442\u0440\u04af\u04af\u043b\u044d\u0445.mp3",
       "lno": "6"
     },
     {
@@ -3674,7 +3674,7 @@
       "word": "\u0446\u0430\u043d\u0433\u0438\u043d\u0430\u0445",
       "oldWord": "",
       "expl": "\uff08\u52a8\uff09\uff08\u4eba\uff09\u53d1\u51fa\u7684\u5c16\u53eb\u58f0\uff1b\uff08\u91d1\u5c5e\uff09\u53d1\u51fa\u7684\u649e\u58f0",
-      "audio": "459.mp3",
+      "audio": "\u0446\u0430\u043d\u0433\u0438\u043d\u0430\u0445.mp3",
       "lno": "6"
     },
     {
@@ -3682,7 +3682,7 @@
       "word": "\u0446\u043e\u043b\u0433\u0438\u0445",
       "oldWord": "",
       "expl": "\uff08\u52a8\uff09\uff08\u9c7c\uff09\u8dc3\u51fa\u6c34\u9762",
-      "audio": "460.mp3",
+      "audio": "\u0446\u043e\u043b\u0433\u0438\u0445.mp3",
       "lno": "6"
     },
     {
@@ -3714,7 +3714,7 @@
       "word": "\u0447\u0443\u0443\u043b\u0430\u0445",
       "oldWord": "",
       "expl": "\uff08\u52a8\uff09\u805a\u96c6\uff0c\u4f1a\u5408\uff1b\u5f00\u4f1a",
-      "audio": "464.mp3",
+      "audio": "\u0447\u0443\u0443\u043b\u0430\u0445.mp3",
       "lno": "6"
     },
     {
@@ -3738,7 +3738,7 @@
       "word": "\u0448\u04af\u04af\u0433\u0447",
       "oldWord": "",
       "expl": "\uff08\u540d\uff09\u6cd5\u5b98\uff1b\u88c1\u5224",
-      "audio": "467.mp3",
+      "audio": "\u0448\u04af\u04af\u0433\u0447.mp3",
       "lno": "6"
     },
     {
@@ -3770,7 +3770,7 @@
       "word": "\u044d\u043b\u044d\u044d\u0445",
       "oldWord": "",
       "expl": "\uff08\u52a8\uff09\u78e8\u635f\uff0c\u7528\u574f",
-      "audio": "471.mp3",
+      "audio": "\u044d\u043b\u044d\u044d\u0445.mp3",
       "lno": "6"
     },
     {
@@ -3794,7 +3794,7 @@
       "word": "\u0430\u043c\u0438\u043d\u0447\u043b\u0430\u0445",
       "oldWord": "",
       "expl": "\uff08\u52a8\uff09\u5355\u72ec\u4ea4\u5f80\uff0c\u79c1\u4e0b\u4ea4\u5f80",
-      "audio": "474.mp3",
+      "audio": "\u0430\u043c\u0438\u043d\u0447\u043b\u0430\u0445.mp3",
       "lno": "7"
     },
     {
@@ -3810,7 +3810,7 @@
       "word": "\u0431\u0430\u0439\u043b\u0434\u0430\u0430\u043d",
       "oldWord": "",
       "expl": "\uff08\u540d\uff09\u6218\u6597",
-      "audio": "476.mp3",
+      "audio": "\u0431\u0430\u0439\u043b\u0434\u0430\u0430\u043d.mp3",
       "lno": "7"
     },
     {
@@ -3818,7 +3818,7 @@
       "word": "\u0431\u0430\u0439\u0440\u043b\u0443\u0443\u043b\u0430\u0445",
       "oldWord": "",
       "expl": "\uff08\u52a8\uff09\u90e8\u7f72\uff1b\u5b89\u7f6e",
-      "audio": "477.mp3",
+      "audio": "\u0431\u0430\u0439\u0440\u043b\u0443\u0443\u043b\u0430\u0445.mp3",
       "lno": "7"
     },
     {
@@ -3834,7 +3834,7 @@
       "word": "\u0431\u043e\u043b\u044c\u0448\u0435\u0432\u0438\u043a",
       "oldWord": "",
       "expl": "\uff08\u540d\uff09\u5e03\u5c14\u4ec0\u7ef4\u514b",
-      "audio": "479.mp3",
+      "audio": "\u0431\u043e\u043b\u044c\u0448\u0435\u0432\u0438\u043a.mp3",
       "lno": "7"
     },
     {
@@ -3842,7 +3842,7 @@
       "word": "\u0431\u04e9\u0445\u04e9\u043b\u0437\u04e9\u0445",
       "oldWord": "",
       "expl": "\uff08\u52a8\uff09\u8fde\u8fde\u70b9\u5934\uff1b\u5949\u627f",
-      "audio": "480.mp3",
+      "audio": "\u0431\u04e9\u0445\u04e9\u043b\u0437\u04e9\u0445.mp3",
       "lno": "7"
     },
     {
@@ -3858,7 +3858,7 @@
       "word": "\u0432\u043e\u043b\u044c\u0444\u0440\u0430\u043c",
       "oldWord": "",
       "expl": "\uff08\u540d\uff09\u94a8",
-      "audio": "482.mp3",
+      "audio": "\u0432\u043e\u043b\u044c\u0444\u0440\u0430\u043c.mp3",
       "lno": "7"
     },
     {
@@ -3866,7 +3866,7 @@
       "word": "\u0433\u0430\u0432\u043b\u0430\u0445",
       "oldWord": "",
       "expl": "\uff08\u52a8\uff09\u6234\u624b\u94d0",
-      "audio": "483.mp3",
+      "audio": "\u0433\u0430\u0432\u043b\u0430\u0445.mp3",
       "lno": "7"
     },
     {
@@ -3874,7 +3874,7 @@
       "word": "\u0433\u0430\u0432\u043b\u0443\u0443\u043b\u0430\u0445",
       "oldWord": "",
       "expl": "\uff08\u52a8\uff09\u7ed9\u2026\u2026\u6234\u624b\u94d0",
-      "audio": "484.mp3",
+      "audio": "\u0433\u0430\u0432\u043b\u0443\u0443\u043b\u0430\u0445.mp3",
       "lno": "7"
     },
     {
@@ -3882,7 +3882,7 @@
       "word": "\u0433\u0430\u0439\u0445\u0430\u043b\u0442\u0430\u0439",
       "oldWord": "",
       "expl": "\uff08\u5f62\uff09\u4ee4\u4eba\u60ca\u53f9\u7684",
-      "audio": "485.mp3",
+      "audio": "\u0433\u0430\u0439\u0445\u0430\u043b\u0442\u0430\u0439.mp3",
       "lno": "7"
     },
     {
@@ -3914,7 +3914,7 @@
       "word": "\u0434\u0438\u0432\u0438\u0437",
       "oldWord": "",
       "expl": "\uff08\u540d\uff09\u5e08",
-      "audio": "489.mp3",
+      "audio": "\u0434\u0438\u0432\u0438\u0437.mp3",
       "lno": "7"
     },
     {
@@ -3922,7 +3922,7 @@
       "word": "\u0434\u043e\u0432\u0442\u043e\u043b\u0433\u043e\u043e\u043d",
       "oldWord": "",
       "expl": "\uff08\u540d\uff09\u8fdb\u653b",
-      "audio": "490.mp3",
+      "audio": "\u0434\u043e\u0432\u0442\u043e\u043b\u0433\u043e\u043e\u043d.mp3",
       "lno": "7"
     },
     {
@@ -3938,7 +3938,7 @@
       "word": "\u0437\u044d\u044d\u0440",
       "oldWord": "",
       "expl": "\uff08\u540d\uff09\u9ec4\u7f8a",
-      "audio": "492.mp3",
+      "audio": "\u0437\u044d\u044d\u0440.mp3",
       "lno": "7"
     },
     {
@@ -3970,7 +3970,7 @@
       "word": "\u043c\u043e\u0442\u043e\u0440",
       "oldWord": "",
       "expl": "\uff08\u540d\uff09\u53d1\u52a8\u673a\uff1b\u6469\u6258\uff1b\u9a6c\u8fbe",
-      "audio": "496.mp3",
+      "audio": "\u043c\u043e\u0442\u043e\u0440.mp3",
       "lno": "7"
     },
     {
@@ -3978,7 +3978,7 @@
       "word": "\u043c\u04e9\u0440\u0434\u04e9\u043d",
       "oldWord": "",
       "expl": "\uff08\u540d\uff09\u4fa6\u67e5\u5904\uff0c\u7a3d\u67e5\u5904",
-      "audio": "497.mp3",
+      "audio": "\u043c\u04e9\u0440\u0434\u04e9\u043d.mp3",
       "lno": "7"
     },
     {
@@ -3994,7 +3994,7 @@
       "word": "\u043d\u0443\u0440\u0430\u0445",
       "oldWord": "",
       "expl": "\uff08\u52a8\uff09\u5012\u584c\u3001\u5d29\u584c",
-      "audio": "499.mp3",
+      "audio": "\u043d\u0443\u0440\u0430\u0445.mp3",
       "lno": "7"
     },
     {
@@ -4002,7 +4002,7 @@
       "word": "\u043d\u0443\u0443\u0432\u0447",
       "oldWord": "",
       "expl": "\uff08\u540d\uff09\u63a9\u4f53",
-      "audio": "500.mp3",
+      "audio": "\u043d\u0443\u0443\u0432\u0447.mp3",
       "lno": "7"
     },
     {
@@ -4018,7 +4018,7 @@
       "word": "\u043d\u04af\u04af\u0434\u044d\u043b\u0447\u0438\u043d",
       "oldWord": "",
       "expl": "\uff08\u540d\uff09\u6e38\u7267\u4eba",
-      "audio": "502.mp3",
+      "audio": "\u043d\u04af\u04af\u0434\u044d\u043b\u0447\u0438\u043d.mp3",
       "lno": "7"
     },
     {
@@ -4026,7 +4026,7 @@
       "word": "\u043d\u044d\u0433\u0436\u0438\u0445",
       "oldWord": "",
       "expl": "\uff08\u52a8\uff09\u641c\u7d22\uff0c\u641c\u67e5",
-      "audio": "503.mp3",
+      "audio": "\u043d\u044d\u0433\u0436\u0438\u0445.mp3",
       "lno": "7"
     },
     {
@@ -4034,7 +4034,7 @@
       "word": "\u043d\u044d\u0433\u0442\u0433\u044d\u043b",
       "oldWord": "",
       "expl": "\uff08\u540d\uff09\u5175\u56e2",
-      "audio": "504.mp3",
+      "audio": "\u043d\u044d\u0433\u0442\u0433\u044d\u043b.mp3",
       "lno": "7"
     },
     {
@@ -4042,7 +4042,7 @@
       "word": "\u043e\u043b\u0431\u043e\u0440\u043b\u043e\u0445",
       "oldWord": "",
       "expl": "\uff08\u52a8\uff09\u5f00\u91c7",
-      "audio": "505.mp3",
+      "audio": "\u043e\u043b\u0431\u043e\u0440\u043b\u043e\u0445.mp3",
       "lno": "7"
     },
     {
@@ -4058,7 +4058,7 @@
       "word": "\u04e9\u043d\u0447\u0440\u04e9\u0445",
       "oldWord": "",
       "expl": "\uff08\u52a8\uff09\u53d8\u5b64\u72ec",
-      "audio": "507.mp3",
+      "audio": "\u04e9\u043d\u0447\u0440\u04e9\u0445.mp3",
       "lno": "7"
     },
     {
@@ -4082,7 +4082,7 @@
       "word": "\u0441\u04e9\u0440\u04e9\u0445",
       "oldWord": "",
       "expl": "\uff08\u52a8\uff09\u9006\uff0c\u53cd",
-      "audio": "510.mp3",
+      "audio": "\u0441\u04e9\u0440\u04e9\u0445.mp3",
       "lno": "7"
     },
     {
@@ -4090,7 +4090,7 @@
       "word": "\u0441\u04af\u0439\u0440\u044d\u0445",
       "oldWord": "",
       "expl": "\uff08\u52a8\uff09\u6bc1\u574f",
-      "audio": "511.mp3",
+      "audio": "\u0441\u04af\u0439\u0440\u044d\u0445.mp3",
       "lno": "7"
     },
     {
@@ -4114,7 +4114,7 @@
       "word": "\u0442\u04e9\u0441\u04e9\u0432",
       "oldWord": "",
       "expl": "\uff08\u540d\uff09\u9884\u7b97",
-      "audio": "514.mp3",
+      "audio": "\u0442\u04e9\u0441\u04e9\u0432.mp3",
       "lno": "7"
     },
     {
@@ -4122,7 +4122,7 @@
       "word": "\u0442\u0443\u043b\u0430\u043b\u0434\u0430\u0445",
       "oldWord": "",
       "expl": "\uff08\u52a8\uff09\u6218\u6597\uff0c\u4f5c\u6218",
-      "audio": "515.mp3",
+      "audio": "\u0442\u0443\u043b\u0430\u043b\u0434\u0430\u0445.mp3",
       "lno": "7"
     },
     {
@@ -4162,7 +4162,7 @@
       "word": "\u04af\u0440\u0436\u04af\u04af\u043b\u044d\u0445",
       "oldWord": "",
       "expl": "\uff08\u52a8\uff09\u4f7f\u7e41\u6b96",
-      "audio": "520.mp3",
+      "audio": "\u04af\u0440\u0436\u04af\u04af\u043b\u044d\u0445.mp3",
       "lno": "7"
     },
     {
@@ -4170,7 +4170,7 @@
       "word": "\u0445\u0430\u0440\u044c\u0446\u0443\u0443\u043b\u0430\u0445",
       "oldWord": "",
       "expl": "\uff08\u52a8\uff09\u6bd4\u8f83\uff0c\u76f8\u6bd4",
-      "audio": "521.mp3",
+      "audio": "\u0445\u0430\u0440\u044c\u0446\u0443\u0443\u043b\u0430\u0445.mp3",
       "lno": "7"
     },
     {
@@ -4178,7 +4178,7 @@
       "word": "\u0445\u0430\u0445\u0443\u0443\u043b\u044c\u0434\u0430\u0445",
       "oldWord": "",
       "expl": "\uff08\u52a8\uff09\u884c\u8d3f\u3001\u8d3f\u8d42",
-      "audio": "522.mp3",
+      "audio": "\u0445\u0430\u0445\u0443\u0443\u043b\u044c\u0434\u0430\u0445.mp3",
       "lno": "7"
     },
     {
@@ -4186,7 +4186,7 @@
       "word": "\u0445\u043e\u0445\u0438\u0440\u043e\u043b",
       "oldWord": "",
       "expl": "\uff08\u540d\uff09\u635f\u5931",
-      "audio": "523.mp3",
+      "audio": "\u0445\u043e\u0445\u0438\u0440\u043e\u043b.mp3",
       "lno": "7"
     },
     {
@@ -4202,7 +4202,7 @@
       "word": "\u0445\u0443\u0432\u0438\u043b\u0431\u0430\u0440",
       "oldWord": "",
       "expl": "\uff08\u540d\uff09\u53d8\u4f53\uff1b\u53d8\u5f02\u5f62\u5f0f",
-      "audio": "525.mp3",
+      "audio": "\u0445\u0443\u0432\u0438\u043b\u0431\u0430\u0440.mp3",
       "lno": "7"
     },
     {
@@ -4210,7 +4210,7 @@
       "word": "\u0445\u0443\u0439\u0432\u0430\u043b\u0434\u0430\u0445",
       "oldWord": "",
       "expl": "\uff08\u52a8\uff09\u5bc6\u8c0b\uff1b\u4e32\u901a",
-      "audio": "526.mp3",
+      "audio": "\u0445\u0443\u0439\u0432\u0430\u043b\u0434\u0430\u0445.mp3",
       "lno": "7"
     },
     {
@@ -4274,7 +4274,7 @@
       "word": "\u0448\u0438\u043d\u0435\u043b\u044c",
       "oldWord": "",
       "expl": "\uff08\u540d\uff09\u519b\u5927\u8863",
-      "audio": "534.mp3",
+      "audio": "\u0448\u0438\u043d\u0435\u043b\u044c.mp3",
       "lno": "7"
     },
     {
@@ -4322,7 +4322,7 @@
       "word": "\u0430\u043b\u0434\u0440\u0430\u0445",
       "oldWord": "",
       "expl": "\uff08\u52a8\uff09\u677e\u5f1b\uff1b\u865a\u5f31",
-      "audio": "540.mp3",
+      "audio": "\u0430\u043b\u0434\u0440\u0430\u0445.mp3",
       "lno": "8"
     },
     {
@@ -4346,7 +4346,7 @@
       "word": "\u0430\u0442\u0438\u0440\u0430\u0445",
       "oldWord": "",
       "expl": "\uff08\u52a8\uff09\u8737\u7f29\uff1b\u8d77\u76b1\u7eb9",
-      "audio": "543.mp3",
+      "audio": "\u0430\u0442\u0438\u0440\u0430\u0445.mp3",
       "lno": "8"
     },
     {
@@ -4354,7 +4354,7 @@
       "word": "\u0431\u04af\u04af\u0434\u0433\u044d\u0440",
       "oldWord": "",
       "expl": "\uff08\u5f62\uff09\u9634\u6697\u7684\uff0c\u6697\u6de1\u7684\uff0c\u6666\u6697\u7684",
-      "audio": "544.mp3",
+      "audio": "\u0431\u04af\u04af\u0434\u0433\u044d\u0440.mp3",
       "lno": "8"
     },
     {
@@ -4370,7 +4370,7 @@
       "word": "\u0433\u043e\u043c\u043e\u0440\u0445\u043e\u0445",
       "oldWord": "",
       "expl": "\uff08\u52a8\uff09\u62b1\u6028\uff0c\u57cb\u6028",
-      "audio": "546.mp3",
+      "audio": "\u0433\u043e\u043c\u043e\u0440\u0445\u043e\u0445.mp3",
       "lno": "8"
     },
     {
@@ -4378,7 +4378,7 @@
       "word": "\u0433\u044d\u0434\u0438\u0439\u0445",
       "oldWord": "",
       "expl": "\uff08\u52a8\uff09\u633a\u76f4\uff1b\u6602\u5934\u4e0d\u987e\u4e86",
-      "audio": "547.mp3",
+      "audio": "\u0433\u044d\u0434\u0438\u0439\u0445.mp3",
       "lno": "8"
     },
     {
@@ -4386,7 +4386,7 @@
       "word": "\u0433\u044d\u0442\u044d\u0445",
       "oldWord": "",
       "expl": "\uff08\u52a8\uff09\u6084\u6084\u63a5\u8fd1\uff1b\u76ef\u68a2\u3001\u8ddf\u8e2a\u3001\u7aa5\u89c6\uff0c\u5077\u770b",
-      "audio": "548.mp3",
+      "audio": "\u0433\u044d\u0442\u044d\u0445.mp3",
       "lno": "8"
     },
     {
@@ -4426,7 +4426,7 @@
       "word": "\u0434\u044d\u0432\u0440\u044d\u044d\u0445",
       "oldWord": "",
       "expl": "\uff08\u52a8\uff09\u4f7f\u8fc7\u91cf\uff1b\u5938\u5927\uff0c\u5938\u5f20",
-      "audio": "553.mp3",
+      "audio": "\u0434\u044d\u0432\u0440\u044d\u044d\u0445.mp3",
       "lno": "8"
     },
     {
@@ -4442,7 +4442,7 @@
       "word": "\u0435\u043d\u0433\u044d\u043d\u044d\u0445",
       "oldWord": "",
       "expl": "\uff08\u52a8\uff09\u555c\u6ce3",
-      "audio": "555.mp3",
+      "audio": "\u0435\u043d\u0433\u044d\u043d\u044d\u0445.mp3",
       "lno": "8"
     },
     {
@@ -4458,7 +4458,7 @@
       "word": "\u0437\u0430\u0430\u043b\u0434\u0430\u0445",
       "oldWord": "",
       "expl": "\uff08\u52a8\uff09\u8d77\u8bc9\u3001\u63a7\u8bc9",
-      "audio": "557.mp3",
+      "audio": "\u0437\u0430\u0430\u043b\u0434\u0430\u0445.mp3",
       "lno": "8"
     },
     {
@@ -4466,7 +4466,7 @@
       "word": "\u0437\u0430\u0432\u0434\u0430\u043b",
       "oldWord": "",
       "expl": "\uff08\u540d\uff09\u7a7a\u95f2\uff1b\u6253\u7b97",
-      "audio": "558.mp3",
+      "audio": "\u0437\u0430\u0432\u0434\u0430\u043b.mp3",
       "lno": "8"
     },
     {
@@ -4474,7 +4474,7 @@
       "word": "\u0437\u0430\u0433\u0441\u0430\u0445",
       "oldWord": "",
       "expl": "\uff08\u52a8\uff09\u51dd\u56fa",
-      "audio": "559.mp3",
+      "audio": "\u0437\u0430\u0433\u0441\u0430\u0445.mp3",
       "lno": "8"
     },
     {
@@ -4482,7 +4482,7 @@
       "word": "\u0437\u0430\u043c\u0445\u0440\u0430\u0445",
       "oldWord": "",
       "expl": "\uff08\u52a8\uff09\u6563\u5f00\uff0c\u6d88\u5931",
-      "audio": "560.mp3",
+      "audio": "\u0437\u0430\u043c\u0445\u0440\u0430\u0445.mp3",
       "lno": "8"
     },
     {
@@ -4490,7 +4490,7 @@
       "word": "\u0437\u04af\u0439\u0440\u043b\u04af\u04af\u043b\u044d\u0445",
       "oldWord": "",
       "expl": "\uff08\u52a8\uff09\u4f5c\u6bd4\u8f83",
-      "audio": "561.mp3",
+      "audio": "\u0437\u04af\u0439\u0440\u043b\u04af\u04af\u043b\u044d\u0445.mp3",
       "lno": "8"
     },
     {
@@ -4506,7 +4506,7 @@
       "word": "\u043b\u0430\u043d\u0442\u0433\u0430\u0440",
       "oldWord": "",
       "expl": "\uff08\u5f62\uff09\u5934\u5927\u7684\uff1b\u7b28\u91cd\u7684",
-      "audio": "563.mp3",
+      "audio": "\u043b\u0430\u043d\u0442\u0433\u0430\u0440.mp3",
       "lno": "8"
     },
     {
@@ -4514,7 +4514,7 @@
       "word": "\u043b\u043e\u0439\u043c\u043e\u043b",
       "oldWord": "",
       "expl": "\uff08\u5f62\uff0c\u53e3\uff09\u8f6f\u5f31\u7684\uff0c\u5dee\u52b2\u7684",
-      "audio": "564.mp3",
+      "audio": "\u043b\u043e\u0439\u043c\u043e\u043b.mp3",
       "lno": "8"
     },
     {
@@ -4522,7 +4522,7 @@
       "word": "\u043c\u0438\u043d\u0447\u0433\u044d\u0440",
       "oldWord": "",
       "expl": "\uff08\u5f62\uff09\u7eef\u7ea2\u7684\uff0c\u7d2b\u7ea2\u7684",
-      "audio": "565.mp3",
+      "audio": "\u043c\u0438\u043d\u0447\u0433\u044d\u0440.mp3",
       "lno": "8"
     },
     {
@@ -4530,7 +4530,7 @@
       "word": "\u043c\u0443\u0443\u0436\u0440\u0430\u0445",
       "oldWord": "",
       "expl": "\uff08\u52a8\uff09\u660f\u5012\uff1b\u53d8\u5dee",
-      "audio": "566.mp3",
+      "audio": "\u043c\u0443\u0443\u0436\u0440\u0430\u0445.mp3",
       "lno": "8"
     },
     {
@@ -4578,7 +4578,7 @@
       "word": "\u04e9\u043d\u0433\u0438\u0439\u0445",
       "oldWord": "",
       "expl": "\uff08\u52a8\uff09\u4fef\u89c6",
-      "audio": "572.mp3",
+      "audio": "\u04e9\u043d\u0433\u0438\u0439\u0445.mp3",
       "lno": "8"
     },
     {
@@ -4586,7 +4586,7 @@
       "word": "\u04e9\u043d\u0447\u0440\u04af\u04af\u043b\u044d\u0445",
       "oldWord": "",
       "expl": "\uff08\u52a8\uff09\u4f7f\u2026\u2026\u6210\u4e3a\u5b64\u513f\uff0c\u4f7f\u2026\u2026\u5b64\u82e6\u4f36\u4ec3",
-      "audio": "573.mp3",
+      "audio": "\u04e9\u043d\u0447\u0440\u04af\u04af\u043b\u044d\u0445.mp3",
       "lno": "8"
     },
     {
@@ -4594,7 +4594,7 @@
       "word": "\u04e9\u04e9\u0440\u0446\u0433\u04af\u0439",
       "oldWord": "",
       "expl": "\uff08\u5f62\uff09\u65e0\u5dee\u522b\uff0c\u65e0\u5f02\u6837\u7684",
-      "audio": "574.mp3",
+      "audio": "\u04e9\u04e9\u0440\u0446\u0433\u04af\u0439.mp3",
       "lno": "8"
     },
     {
@@ -4618,7 +4618,7 @@
       "word": "\u0441\u043e\u043d\u0436\u0438\u0445",
       "oldWord": "",
       "expl": "\uff08\u52a8\uff09\u8bd5\u63a2",
-      "audio": "577.mp3",
+      "audio": "\u0441\u043e\u043d\u0436\u0438\u0445.mp3",
       "lno": "8"
     },
     {
@@ -4626,7 +4626,7 @@
       "word": "\u0442\u0430\u0439\u0442\u0433\u0430\u0440\u0443\u0443\u043b\u0430\u0445",
       "oldWord": "",
       "expl": "\uff08\u52a8\uff09\u5b89\u6170\uff0c\u6170\u85c9\uff0c\u4f7f\u5b89\u5fc3",
-      "audio": "578.mp3",
+      "audio": "\u0442\u0430\u0439\u0442\u0433\u0430\u0440\u0443\u0443\u043b\u0430\u0445.mp3",
       "lno": "8"
     },
     {
@@ -4642,7 +4642,7 @@
       "word": "\u0442\u0430\u0440\u0445\u0430\u0445",
       "oldWord": "",
       "expl": "\uff08\u52a8\uff09\u4f20\u64ad\uff0c\u6269\u6563",
-      "audio": "580.mp3",
+      "audio": "\u0442\u0430\u0440\u0445\u0430\u0445.mp3",
       "lno": "8"
     },
     {
@@ -4650,7 +4650,7 @@
       "word": "\u0442\u04e9\u04e9\u0440\u04e9\u0433",
       "oldWord": "",
       "expl": "\uff08\u540d\uff09\u5bbf\u547d\u3001\u547d\u8fd0",
-      "audio": "581.mp3",
+      "audio": "\u0442\u04e9\u04e9\u0440\u04e9\u0433.mp3",
       "lno": "8"
     },
     {
@@ -4658,7 +4658,7 @@
       "word": "\u0442\u0443\u043b\u0430\u0445",
       "oldWord": "",
       "expl": "\uff08\u52a8\uff09\u9760\u4f4f\uff0c\u501a\u4f4f\uff0c\u652f\u6491\uff0c\u62d6\u4f4f",
-      "audio": "582.mp3",
+      "audio": "\u0442\u0443\u043b\u0430\u0445.mp3",
       "lno": "8"
     },
     {
@@ -4666,7 +4666,7 @@
       "word": "\u0442\u0443\u043d\u0438\u0440\u0445\u0430\u0445",
       "oldWord": "",
       "expl": "\uff08\u52a8\uff09\u6545\u4f5c\u59ff\u6001\uff0c\u88c5\u6a21\u4f5c\u6837",
-      "audio": "583.mp3",
+      "audio": "\u0442\u0443\u043d\u0438\u0440\u0445\u0430\u0445.mp3",
       "lno": "8"
     },
     {
@@ -4674,7 +4674,7 @@
       "word": "\u0442\u044d\u043c\u0442\u0447\u0438\u0445",
       "oldWord": "",
       "expl": "\uff08\u52a8\uff09\u4e0d\u505c\u5730\u6478\u627e",
-      "audio": "584.mp3",
+      "audio": "\u0442\u044d\u043c\u0442\u0447\u0438\u0445.mp3",
       "lno": "8"
     },
     {
@@ -4682,7 +4682,7 @@
       "word": "\u0442\u044d\u043d\u0445\u044d\u043b",
       "oldWord": "",
       "expl": "\uff08\u540d\uff09\u6c14\u529b\uff0c\u4f53\u529b",
-      "audio": "585.mp3",
+      "audio": "\u0442\u044d\u043d\u0445\u044d\u043b.mp3",
       "lno": "8"
     },
     {
@@ -4690,7 +4690,7 @@
       "word": "\u0443\u0445\u0440\u0430\u0445",
       "oldWord": "",
       "expl": "\uff08\u52a8\uff09\u540e\u9000\uff0c\u5012\u9000",
-      "audio": "586.mp3",
+      "audio": "\u0443\u0445\u0440\u0430\u0445.mp3",
       "lno": "8"
     },
     {
@@ -4698,7 +4698,7 @@
       "word": "\u04af\u043b\u0434\u044d\u0446",
       "oldWord": "",
       "expl": "\uff08\u540d\uff09\u5269\u4f59\u7269\uff1b\u8fb9\u89d2\u6599",
-      "audio": "587.mp3",
+      "audio": "\u04af\u043b\u0434\u044d\u0446.mp3",
       "lno": "8"
     },
     {
@@ -4706,7 +4706,7 @@
       "word": "\u04af\u043d\u044d\u043d\u0445\u04af\u04af",
       "oldWord": "",
       "expl": "\uff08\u5f62\uff09\u771f\u6b63\u7684",
-      "audio": "588.mp3",
+      "audio": "\u04af\u043d\u044d\u043d\u0445\u04af\u04af.mp3",
       "lno": "8"
     },
     {
@@ -4714,7 +4714,7 @@
       "word": "\u0445\u0430\u043b\u0430\u0433\u043b\u0430\u0445",
       "oldWord": "",
       "expl": "\uff08\u52a8\uff09\u53f9\u606f\uff0c\u55df\u53f9\uff1b\u4f24\u5fc3",
-      "audio": "589.mp3",
+      "audio": "\u0445\u0430\u043b\u0430\u0433\u043b\u0430\u0445.mp3",
       "lno": "8"
     },
     {
@@ -4746,7 +4746,7 @@
       "word": "\u0445\u043e\u0440\u0433\u043e\u0434\u043e\u0445",
       "oldWord": "",
       "expl": "\uff08\u52a8\uff09\u7559\u604b\uff0c\u4f9d\u604b\uff1b\u8eb2\u907f\uff1b\u7275\u6302",
-      "audio": "593.mp3",
+      "audio": "\u0445\u043e\u0440\u0433\u043e\u0434\u043e\u0445.mp3",
       "lno": "8"
     },
     {
@@ -4754,7 +4754,7 @@
       "word": "\u0445\u04e9\u043c\u0440\u04e9\u0445",
       "oldWord": "",
       "expl": "\uff08\u52a8\uff09\u5012\u6263\uff0c\u7ffb\u5012",
-      "audio": "594.mp3",
+      "audio": "\u0445\u04e9\u043c\u0440\u04e9\u0445.mp3",
       "lno": "8"
     },
     {
@@ -4762,7 +4762,7 @@
       "word": "\u0445\u0443\u0446\u0430\u0445",
       "oldWord": "",
       "expl": "\uff08\u52a8\uff09\u5420\uff0c\u55e5\u53eb",
-      "audio": "595.mp3",
+      "audio": "\u0445\u0443\u0446\u0430\u0445.mp3",
       "lno": "8"
     },
     {
@@ -4770,7 +4770,7 @@
       "word": "\u0448\u0430\u0433\u0430\u0439\u0445",
       "oldWord": "",
       "expl": "\uff08\u52a8\uff09\uff08\u901a\u8fc7\u5c0f\u5b54\u3001\u7f1d\u9699\uff09\u5077\u770b\u3001\u7aa5\u89c6\uff0c\u63a2\u89c6\uff0c\u63a2\u5934\u63a2\u8111\u5730\u770b",
-      "audio": "596.mp3",
+      "audio": "\u0448\u0430\u0433\u0430\u0439\u0445.mp3",
       "lno": "8"
     },
     {
@@ -4778,7 +4778,7 @@
       "word": "\u0448\u0430\u043d\u0430\u043b\u0430\u0445",
       "oldWord": "",
       "expl": "\uff08\u52a8\uff09\u60b2\u75db\uff0c\u5fe7\u6101\uff0c\u60b2\u54c0\uff0c\u53d7\u96be",
-      "audio": "597.mp3",
+      "audio": "\u0448\u0430\u043d\u0430\u043b\u0430\u0445.mp3",
       "lno": "8"
     },
     {
@@ -4794,7 +4794,7 @@
       "word": "\u044d\u0432\u0438\u0439",
       "oldWord": "",
       "expl": "\uff08\u611f\uff09\u54ce\u54df\uff08\u8868\u793a\u601c\u60af\u3001\u53f9\u606f\u3001\u9057\u61be\uff09",
-      "audio": "599.mp3",
+      "audio": "\u044d\u0432\u0438\u0439.mp3",
       "lno": "8"
     },
     {
@@ -4818,7 +4818,7 @@
       "word": "\u044d\u0440\u0442\u0441\u044d\u0445",
       "oldWord": "",
       "expl": "\uff08\u52a8\uff09\u53d8\u5f97\u65e9",
-      "audio": "602.mp3",
+      "audio": "\u044d\u0440\u0442\u0441\u044d\u0445.mp3",
       "lno": "8"
     },
     {
@@ -4834,7 +4834,7 @@
       "word": "\u044f\u043d\u0445\u0438\u0433\u0430\u0440",
       "oldWord": "",
       "expl": "\uff08\u5f62\uff09\u5e72\u7626\u7684",
-      "audio": "604.mp3",
+      "audio": "\u044f\u043d\u0445\u0438\u0433\u0430\u0440.mp3",
       "lno": "8"
     },
     {
@@ -4842,7 +4842,7 @@
       "word": "\u0430\u0432\u0433\u0430\u0439\u043b\u0443\u0443\u043b\u0430\u0445",
       "oldWord": "",
       "expl": "\uff08\u52a8\uff09\u8ba9\u5c0a\u79f0",
-      "audio": "605.mp3",
+      "audio": "\u0430\u0432\u0433\u0430\u0439\u043b\u0443\u0443\u043b\u0430\u0445.mp3",
       "lno": "9"
     },
     {
@@ -4858,7 +4858,7 @@
       "word": "\u0430\u043b\u0434\u0443\u0443\u043b",
       "oldWord": "",
       "expl": "\uff08\u540d\uff09\u5931\u6563\u7684\uff0c\u4e22\u5931\u7684\uff08\u4eba\u6216\u52a8\u7269\uff09",
-      "audio": "607.mp3",
+      "audio": "\u0430\u043b\u0434\u0443\u0443\u043b.mp3",
       "lno": "9"
     },
     {
@@ -4866,7 +4866,7 @@
       "word": "\u0430\u043b\u0443\u0443\u0440\u0447\u0438\u043d",
       "oldWord": "",
       "expl": "\uff08\u540d\uff09\u523d\u5b50\u624b\uff0c\u5c60\u592b\uff0c\u6740\u624b",
-      "audio": "608.mp3",
+      "audio": "\u0430\u043b\u0443\u0443\u0440\u0447\u0438\u043d.mp3",
       "lno": "9"
     },
     {
@@ -4874,7 +4874,7 @@
       "word": "\u0430\u043c\u0433\u0430\u0439\u0432\u0447\u043b\u0430\u0445",
       "oldWord": "",
       "expl": "\uff08\u52a8\uff09\u53bb\u6389\u9a6c\u56bc\u5b50",
-      "audio": "609.mp3",
+      "audio": "\u0430\u043c\u0433\u0430\u0439\u0432\u0447\u043b\u0430\u0445.mp3",
       "lno": "9"
     },
     {
@@ -4882,7 +4882,7 @@
       "word": "\u0430\u0440\u0438\u0443\u0442\u0433\u0430\u0445",
       "oldWord": "",
       "expl": "\uff08\u52a8\uff09\u6d88\u6bd2\uff0c\u6e05\u9664\uff0c\u6e05\u6d01",
-      "audio": "610.mp3",
+      "audio": "\u0430\u0440\u0438\u0443\u0442\u0433\u0430\u0445.mp3",
       "lno": "9"
     },
     {
@@ -4890,7 +4890,7 @@
       "word": "\u0430\u0440\u0447\u0438\u0445",
       "oldWord": "",
       "expl": "\uff08\u52a8\uff09\u64e6\u62ed\uff0c\u62b9",
-      "audio": "611.mp3",
+      "audio": "\u0430\u0440\u0447\u0438\u0445.mp3",
       "lno": "9"
     },
     {
@@ -4946,7 +4946,7 @@
       "word": "\u0431\u04e9\u0445\u04e9\u0445",
       "oldWord": "",
       "expl": "\uff08\u52a8\uff09\u7184\u706d",
-      "audio": "618.mp3",
+      "audio": "\u0431\u04e9\u0445\u04e9\u0445.mp3",
       "lno": "9"
     },
     {
@@ -4954,7 +4954,7 @@
       "word": "\u0431\u0443\u0432\u0442\u043d\u0430\u0445",
       "oldWord": "",
       "expl": "\uff08\u52a8\uff09\u561f\u56d4",
-      "audio": "619.mp3",
+      "audio": "\u0431\u0443\u0432\u0442\u043d\u0430\u0445.mp3",
       "lno": "9"
     },
     {
@@ -4962,7 +4962,7 @@
       "word": "\u0431\u0443\u0437\u0430\u0440\u0442\u0430\u0439",
       "oldWord": "",
       "expl": "\uff08\u5f62\uff09\u6c61\u79fd\u7684\uff0c\u822a\u810f\u7684\uff1b\u4e94\u964b\u7684\uff0c\u5351\u52a3\u7684\uff0c\u4e0b\u6d41\u7684",
-      "audio": "620.mp3",
+      "audio": "\u0431\u0443\u0437\u0430\u0440\u0442\u0430\u0439.mp3",
       "lno": "9"
     },
     {
@@ -4978,7 +4978,7 @@
       "word": "\u0433\u0430\u0430\u043d\u0441",
       "oldWord": "",
       "expl": "\uff08\u540d\uff09\u70df\u888b\uff0c\u70df\u7ba1",
-      "audio": "622.mp3",
+      "audio": "\u0433\u0430\u0430\u043d\u0441.mp3",
       "lno": "9"
     },
     {
@@ -4986,7 +4986,7 @@
       "word": "\u0433\u0430\u0432\u0430\u043b",
       "oldWord": "",
       "expl": "\uff08\u540d\uff09\u9885\uff0c\u5934\u76d6\u9aa8",
-      "audio": "623.mp3",
+      "audio": "\u0433\u0430\u0432\u0430\u043b.mp3",
       "lno": "9"
     },
     {
@@ -5002,7 +5002,7 @@
       "word": "\u0433\u043e\u043e\u0447\u043b\u043e\u0445",
       "oldWord": "",
       "expl": "\uff08\u52a8\uff09\u6d45\u5c1d",
-      "audio": "625.mp3",
+      "audio": "\u0433\u043e\u043e\u0447\u043b\u043e\u0445.mp3",
       "lno": "9"
     },
     {
@@ -5010,7 +5010,7 @@
       "word": "\u0433\u044d\u043c\u0448\u0438\u0445",
       "oldWord": "",
       "expl": "\uff08\u52a8\uff09\u540e\u6094\uff0c\u5fcf\u6094\uff1b\u60cb\u60dc",
-      "audio": "626.mp3",
+      "audio": "\u0433\u044d\u043c\u0448\u0438\u0445.mp3",
       "lno": "9"
     },
     {
@@ -5018,7 +5018,7 @@
       "word": "\u0434\u0430\u0432\u044c\u0447\u0438\u0445",
       "oldWord": "",
       "expl": "\uff08\u52a8\uff09\u7528\u817f\u5939\u51fb\uff08\u9a6c\uff09",
-      "audio": "627.mp3",
+      "audio": "\u0434\u0430\u0432\u044c\u0447\u0438\u0445.mp3",
       "lno": "9"
     },
     {
@@ -5026,7 +5026,7 @@
       "word": "\u0434\u044d\u044d\u0440\u044d\u043b\u0445\u044d\u0445",
       "oldWord": "",
       "expl": "\uff08\u52a8\uff09\u81ea\u9ad8\u81ea\u5927\uff0c\u98de\u626c\u8dcb\u6248\uff0c\u6446\u67b6\u5b50",
-      "audio": "628.mp3",
+      "audio": "\u0434\u044d\u044d\u0440\u044d\u043b\u0445\u044d\u0445.mp3",
       "lno": "9"
     },
     {
@@ -5034,7 +5034,7 @@
       "word": "\u0437\u043e\u0434\u043e\u0445",
       "oldWord": "",
       "expl": "\uff08\u52a8\uff09\u63cd\uff0c\u6bb4\u6253",
-      "audio": "629.mp3",
+      "audio": "\u0437\u043e\u0434\u043e\u0445.mp3",
       "lno": "9"
     },
     {
@@ -5058,7 +5058,7 @@
       "word": "\u043c\u0430\u0430\u043d\u044c",
       "oldWord": "",
       "expl": "\uff08\u540d\uff09\u5492\u8bed",
-      "audio": "632.mp3",
+      "audio": "\u043c\u0430\u0430\u043d\u044c.mp3",
       "lno": "9"
     },
     {
@@ -5082,7 +5082,7 @@
       "word": "\u043c\u0443\u043b\u0442\u043b\u0430\u0445",
       "oldWord": "",
       "expl": "\uff08\u52a8\uff09\u6446\u8131\uff0c\u6323\u8131\uff1b\u5378\u4e0b",
-      "audio": "635.mp3",
+      "audio": "\u043c\u0443\u043b\u0442\u043b\u0430\u0445.mp3",
       "lno": "9"
     },
     {
@@ -5090,7 +5090,7 @@
       "word": "\u043d\u043e\u0451\u043b\u043e\u0433",
       "oldWord": "",
       "expl": "\uff08\u5f62\uff09\u9ad8\u8038\u7684",
-      "audio": "636.mp3",
+      "audio": "\u043d\u043e\u0451\u043b\u043e\u0433.mp3",
       "lno": "9"
     },
     {
@@ -5106,7 +5106,7 @@
       "word": "\u043e\u0440\u0438\u043b\u043e\u0445",
       "oldWord": "",
       "expl": "\uff08\u52a8\uff09\u54ed\u53f7\uff0c\u5927\u558a\uff0c\u543c\u53eb",
-      "audio": "638.mp3",
+      "audio": "\u043e\u0440\u0438\u043b\u043e\u0445.mp3",
       "lno": "9"
     },
     {
@@ -5122,7 +5122,7 @@
       "word": "\u043f\u0430\u044f\u043d",
       "oldWord": "",
       "expl": "\uff08\u540d\uff09\u4e11\u4e8b",
-      "audio": "640.mp3",
+      "audio": "\u043f\u0430\u044f\u043d.mp3",
       "lno": "9"
     },
     {
@@ -5130,7 +5130,7 @@
       "word": "\u0441\u0430\u0432\u0441\u0430\u0445",
       "oldWord": "",
       "expl": "\uff08\u52a8\uff09\u5192\u70df",
-      "audio": "641.mp3",
+      "audio": "\u0441\u0430\u0432\u0441\u0430\u0445.mp3",
       "lno": "9"
     },
     {
@@ -5138,7 +5138,7 @@
       "word": "\u0441\u0430\u043b\u0433\u0430\u043b\u0430\u0445",
       "oldWord": "",
       "expl": "\uff08\u52a8\uff09\u6218\u6817\uff0c\u98a4\u6296\uff0c\u53d1\u6296",
-      "audio": "642.mp3",
+      "audio": "\u0441\u0430\u043b\u0433\u0430\u043b\u0430\u0445.mp3",
       "lno": "9"
     },
     {
@@ -5162,7 +5162,7 @@
       "word": "\u0441\u043e\u0440\u0443\u0443\u043b",
       "oldWord": "",
       "expl": "\uff08\u540d\uff09\u70df\u888b\u5634\uff1b\u5438\u5634",
-      "audio": "645.mp3",
+      "audio": "\u0441\u043e\u0440\u0443\u0443\u043b.mp3",
       "lno": "9"
     },
     {
@@ -5194,7 +5194,7 @@
       "word": "\u0441\u04af\u0436\u0438\u0433\u043b\u044d\u043d\u0433\u04af\u0439",
       "oldWord": "",
       "expl": "\uff08\u5f62\uff09\u5d07\u656c\u7684\uff0c\u666f\u4ef0\u7684",
-      "audio": "649.mp3",
+      "audio": "\u0441\u04af\u0436\u0438\u0433\u043b\u044d\u043d\u0433\u04af\u0439.mp3",
       "lno": "9"
     },
     {
@@ -5202,7 +5202,7 @@
       "word": "\u0441\u044d\u0436\u0438\u0445",
       "oldWord": "",
       "expl": "\uff08\u52a8\uff09\u6447\u5934",
-      "audio": "650.mp3",
+      "audio": "\u0441\u044d\u0436\u0438\u0445.mp3",
       "lno": "9"
     },
     {
@@ -5210,7 +5210,7 @@
       "word": "\u0441\u044d\u043b\u0431\u044d\u043b\u0437\u044d\u0445",
       "oldWord": "",
       "expl": "\uff08\u52a8\uff09\u4e1c\u5f20\u897f\u671b",
-      "audio": "651.mp3",
+      "audio": "\u0441\u044d\u043b\u0431\u044d\u043b\u0437\u044d\u0445.mp3",
       "lno": "9"
     },
     {
@@ -5234,7 +5234,7 @@
       "word": "\u0442\u0430\u0439\u043b\u0430\u0433",
       "oldWord": "",
       "expl": "\uff08\u540d\uff09\u516c\u9a86\u9a7c\uff083-5\u5c81\uff09",
-      "audio": "654.mp3",
+      "audio": "\u0442\u0430\u0439\u043b\u0430\u0433.mp3",
       "lno": "9"
     },
     {
@@ -5258,7 +5258,7 @@
       "word": "\u0442\u04e9\u0432\u04e9\u043d\u0445",
       "oldWord": "",
       "expl": "\uff08\u540d\uff09\u5589\u7ed3\uff0c\u5589\u5934",
-      "audio": "657.mp3",
+      "audio": "\u0442\u04e9\u0432\u04e9\u043d\u0445.mp3",
       "lno": "9"
     },
     {
@@ -5274,7 +5274,7 @@
       "word": "\u0442\u0443\u0440\u0433\u0438\u043b\u0430\u0445",
       "oldWord": "",
       "expl": "\uff08\u52a8\uff09\u9a6c\u6253\u54cd\u9f3b",
-      "audio": "659.mp3",
+      "audio": "\u0442\u0443\u0440\u0433\u0438\u043b\u0430\u0445.mp3",
       "lno": "9"
     },
     {
@@ -5282,7 +5282,7 @@
       "word": "\u0442\u04af\u0433\u0434\u0438\u0439\u0445",
       "oldWord": "",
       "expl": "\uff08\u52a8\uff09\u9686\u8d77",
-      "audio": "660.mp3",
+      "audio": "\u0442\u04af\u0433\u0434\u0438\u0439\u0445.mp3",
       "lno": "9"
     },
     {
@@ -5290,7 +5290,7 @@
       "word": "\u0442\u04af\u043b\u044d\u0445",
       "oldWord": "",
       "expl": "\uff08\u52a8\uff09\u70e7\uff0c\u70e4\uff0c\u70eb",
-      "audio": "661.mp3",
+      "audio": "\u0442\u04af\u043b\u044d\u0445.mp3",
       "lno": "9"
     },
     {
@@ -5298,7 +5298,7 @@
       "word": "\u0442\u044d\u043d\u044d\u0433\u0442\u044d\u0445",
       "oldWord": "",
       "expl": "\uff08\u52a8\uff09\u53d8\u50bb\uff0c\u53d8\u611a\u8822",
-      "audio": "662.mp3",
+      "audio": "\u0442\u044d\u043d\u044d\u0433\u0442\u044d\u0445.mp3",
       "lno": "9"
     },
     {
@@ -5330,7 +5330,7 @@
       "word": "\u0443\u0443\u0433\u0443\u0443\u043b",
       "oldWord": "",
       "expl": "\uff08\u5f62\uff09\u571f\u8457\u7684\uff0c\u672c\u5730\u7684",
-      "audio": "666.mp3",
+      "audio": "\u0443\u0443\u0433\u0443\u0443\u043b.mp3",
       "lno": "9"
     },
     {
@@ -5338,7 +5338,7 @@
       "word": "\u04af\u0439\u043b\u0441(\u043d)",
       "oldWord": "",
       "expl": "\uff08\u540d\uff09\u6866\u76ae",
-      "audio": "667.mp3",
+      "audio": "\u04af\u0439\u043b\u0441.mp3",
       "lno": "9"
     },
     {
@@ -5378,7 +5378,7 @@
       "word": "\u0445\u043e\u0448\u043c\u043e\u0433",
       "oldWord": "",
       "expl": "\uff08\u540d\uff09\u9970\u8fb9\uff0c\u9970\u7eb9",
-      "audio": "672.mp3",
+      "audio": "\u0445\u043e\u0448\u043c\u043e\u0433.mp3",
       "lno": "9"
     },
     {
@@ -5386,7 +5386,7 @@
       "word": "\u0445\u04e9\u04e9\u0440\u04e9\u0433\u0434\u04e9\u0445",
       "oldWord": "",
       "expl": "\uff08\u52a8\uff09\u9f13\u98ce\uff0c\u5439\u52a8",
-      "audio": "673.mp3",
+      "audio": "\u0445\u04e9\u04e9\u0440\u04e9\u0433\u0434\u04e9\u0445.mp3",
       "lno": "9"
     },
     {
@@ -5394,7 +5394,7 @@
       "word": "\u0445\u044d\u0432\u0433\u0438\u0439",
       "oldWord": "",
       "expl": "\uff08\u540d\uff09\u7565\u5fae\u503e\u659c\u7684\u5761",
-      "audio": "674.mp3",
+      "audio": "\u0445\u044d\u0432\u0433\u0438\u0439.mp3",
       "lno": "9"
     },
     {
@@ -5402,7 +5402,7 @@
       "word": "\u0446\u043e\u0433\u0438\u0445",
       "oldWord": "",
       "expl": "\uff08\u52a8\uff09\u5411\u4e0a\u8dc3\u8d77\uff1b\u5347\u817e",
-      "audio": "675.mp3",
+      "audio": "\u0446\u043e\u0433\u0438\u0445.mp3",
       "lno": "9"
     },
     {
@@ -5410,7 +5410,7 @@
       "word": "\u0446\u043e\u0445\u0438\u0443\u043b\u0430\u0445",
       "oldWord": "",
       "expl": "\uff08\u52a8\uff09\u8ba9\u2026\u2026\u6253\u51fb\uff0c\u8ba9\u2026\u2026\u6bb4\u6253",
-      "audio": "676.mp3",
+      "audio": "\u0446\u043e\u0445\u0438\u0443\u043b\u0430\u0445.mp3",
       "lno": "9"
     },
     {
@@ -5418,7 +5418,7 @@
       "word": "\u0446\u0443\u0440\u0445\u0438\u0440\u0430\u0445",
       "oldWord": "",
       "expl": "\uff08\u52a8\uff09\u5435\u56b7\uff0c\u55a7\u54d7\uff1b\u53f7\u5555\u5927\u54ed",
-      "audio": "677.mp3",
+      "audio": "\u0446\u0443\u0440\u0445\u0438\u0440\u0430\u0445.mp3",
       "lno": "9"
     },
     {
@@ -5426,7 +5426,7 @@
       "word": "\u0446\u044d\u0432\u044d\u0440\u0448\u04af\u04af\u043b\u044d\u0445",
       "oldWord": "",
       "expl": "\uff08\u52a8\uff09\u4f7f\u2026\u2026\u53d8\u5e72\u51c0\uff0c\u4f7f\u2026\u2026\u53d8\u6574\u6d01",
-      "audio": "678.mp3",
+      "audio": "\u0446\u044d\u0432\u044d\u0440\u0448\u04af\u04af\u043b\u044d\u0445.mp3",
       "lno": "9"
     },
     {
@@ -5434,7 +5434,7 @@
       "word": "\u0446\u044d\u0445\u043b\u044d\u0445",
       "oldWord": "",
       "expl": "\uff08\u52a8\uff09\u633a\u76f4",
-      "audio": "679.mp3",
+      "audio": "\u0446\u044d\u0445\u043b\u044d\u0445.mp3",
       "lno": "9"
     },
     {
@@ -5442,7 +5442,7 @@
       "word": "\u0447\u0438\u0445\u044d\u0433\u0434\u044d\u0445",
       "oldWord": "",
       "expl": "\uff08\u52a8\uff09\u88ab\u6324\uff0c\u88ab\u585e",
-      "audio": "680.mp3",
+      "audio": "\u0447\u0438\u0445\u044d\u0433\u0434\u044d\u0445.mp3",
       "lno": "9"
     },
     {
@@ -5458,7 +5458,7 @@
       "word": "\u0448\u0438\u0439\u0442\u0433\u044d\u0445",
       "oldWord": "",
       "expl": "\uff08\u52a8\uff09\u5904\u7f5a\uff0c\u6cbb\u7f6a",
-      "audio": "682.mp3",
+      "audio": "\u0448\u0438\u0439\u0442\u0433\u044d\u0445.mp3",
       "lno": "9"
     },
     {
@@ -5474,7 +5474,7 @@
       "word": "\u0448\u043e\u0433\u0448\u0440\u043e\u0445",
       "oldWord": "",
       "expl": "\uff08\u52a8\uff09\u5567\u5567\uff08\u8868\u793a\u9057\u61be\u60ca\u5947\u3001\u8d5e\u53f9\uff09",
-      "audio": "684.mp3",
+      "audio": "\u0448\u043e\u0433\u0448\u0440\u043e\u0445.mp3",
       "lno": "9"
     },
     {
@@ -5482,7 +5482,7 @@
       "word": "\u0448\u043e\u043e\u0432\u0434\u043e\u0440\u043b\u043e\u0445",
       "oldWord": "",
       "expl": "\uff08\u52a8\uff09\u5acc\u5f03\uff0c\u8ba8\u538c\uff0c\u618e\u6076",
-      "audio": "685.mp3",
+      "audio": "\u0448\u043e\u043e\u0432\u0434\u043e\u0440\u043b\u043e\u0445.mp3",
       "lno": "9"
     },
     {
@@ -5498,7 +5498,7 @@
       "word": "\u0448\u04af\u0442\u043b\u044d\u0433\u0442\u044d\u043d",
       "oldWord": "",
       "expl": "\uff08\u540d\uff09\u4fe1\u5f92\uff0c\u6559\u5f92",
-      "audio": "687.mp3",
+      "audio": "\u0448\u04af\u0442\u043b\u044d\u0433\u0442\u044d\u043d.mp3",
       "lno": "9"
     },
     {
@@ -5506,7 +5506,7 @@
       "word": "\u044d\u0432\u0445\u0440\u044d\u0445",
       "oldWord": "",
       "expl": "\uff08\u52a8\uff09\u8737\u7f29\uff0c\u8737\u8eab",
-      "audio": "688.mp3",
+      "audio": "\u044d\u0432\u0445\u0440\u044d\u0445.mp3",
       "lno": "9"
     },
     {
@@ -5514,7 +5514,7 @@
       "word": "\u044d\u0432\u044d\u0440\u0448\u0438\u0445",
       "oldWord": "",
       "expl": "\uff08\u52a8\uff09\u5f62\u6210\u7284\u89d2\u72b6",
-      "audio": "689.mp3",
+      "audio": "\u044d\u0432\u044d\u0440\u0448\u0438\u0445.mp3",
       "lno": "9"
     },
     {
@@ -5530,7 +5530,7 @@
       "word": "\u044d\u0440\u0433\u044d\u0446\u044d\u0445",
       "oldWord": "",
       "expl": "\uff08\u52a8\uff09\u6253\u8f6c\uff08\u591a\u6b21\uff09",
-      "audio": "691.mp3",
+      "audio": "\u044d\u0440\u0433\u044d\u0446\u044d\u0445.mp3",
       "lno": "9"
     },
     {
@@ -5538,7 +5538,7 @@
       "word": "\u044d\u044d\u0445",
       "oldWord": "",
       "expl": "\uff08\u52a8\uff09\u6652",
-      "audio": "692.mp3",
+      "audio": "\u044d\u044d\u0445.mp3",
       "lno": "9"
     },
     {
@@ -5546,7 +5546,7 @@
       "word": "\u0430\u0430\u0445\u0438\u043b\u0430\u0445",
       "oldWord": "",
       "expl": "\uff08\u52a8\uff09\u6025\u5598\uff0c\u6c14\u5598\u5401\u5401",
-      "audio": "693.mp3",
+      "audio": "\u0430\u0430\u0445\u0438\u043b\u0430\u0445.mp3",
       "lno": "10"
     },
     {
@@ -5602,7 +5602,7 @@
       "word": "\u0430\u0440\u0445\u0438\u0440\u0430\u0445",
       "oldWord": "",
       "expl": "\uff08\u52a8\uff09\u55e5\u53eb\uff0c\u543c\u53eb",
-      "audio": "700.mp3",
+      "audio": "\u0430\u0440\u0445\u0438\u0440\u0430\u0445.mp3",
       "lno": "10"
     },
     {
@@ -5642,7 +5642,7 @@
       "word": "\u0431\u044d\u043b\u0442\u0440\u044d\u0433(\u043d)",
       "oldWord": "",
       "expl": "\uff08\u540d\uff09\u72fc\u5d3d",
-      "audio": "705.mp3",
+      "audio": "\u0431\u044d\u043b\u0442\u0440\u044d\u0433.mp3",
       "lno": "10"
     },
     {
@@ -5666,7 +5666,7 @@
       "word": "\u0433\u0430\u0441\u043b\u0430\u0445",
       "oldWord": "",
       "expl": "\uff08\u52a8\uff09\u53d1\u51fa\u5c16\u53eb\uff0c\u568e\u53eb",
-      "audio": "708.mp3",
+      "audio": "\u0433\u0430\u0441\u043b\u0430\u0445.mp3",
       "lno": "10"
     },
     {
@@ -5674,7 +5674,7 @@
       "word": "\u0433\u0438\u0447\u0438\u0439",
       "oldWord": "",
       "expl": "\uff08\u540d\uff09\u6bcd\u72d7",
-      "audio": "709.mp3",
+      "audio": "\u0433\u0438\u0447\u0438\u0439.mp3",
       "lno": "10"
     },
     {
@@ -5682,7 +5682,7 @@
       "word": "\u0433\u04e9\u0440\u04e9\u04e9",
       "oldWord": "",
       "expl": "\uff08\u540d\uff09\u72e9\u730e\uff0c\u6253\u730e\uff1b\u730e\u7269",
-      "audio": "710.mp3",
+      "audio": "\u0433\u04e9\u0440\u04e9\u04e9.mp3",
       "lno": "10"
     },
     {
@@ -5690,7 +5690,7 @@
       "word": "\u0433\u0443\u0440\u0438\u0430\u0442\u0430\u0445",
       "oldWord": "",
       "expl": "\uff08\u540d\uff09\uff08\u52a8\uff09\uff08\u72d7\u3001\u72fc\u7b49\uff09\u997f\u7626\uff0c\u997f\u6241",
-      "audio": "711.mp3",
+      "audio": "\u0433\u0443\u0440\u0438\u0430\u0442\u0430\u0445.mp3",
       "lno": "10"
     },
     {
@@ -5714,7 +5714,7 @@
       "word": "\u0435\u0433\u04af\u04af\u0442\u0433\u044d\u0445",
       "oldWord": "",
       "expl": "\uff08\u52a8\uff09\u6bc1\u706d\uff0c\u6363\u6bc1",
-      "audio": "714.mp3",
+      "audio": "\u0435\u0433\u04af\u04af\u0442\u0433\u044d\u0445.mp3",
       "lno": "10"
     },
     {
@@ -5770,7 +5770,7 @@
       "word": "\u0438\u0439\u043d",
       "oldWord": "",
       "expl": "\uff08\u4ee3\uff09\u8fd9\u6837",
-      "audio": "721.mp3",
+      "audio": "\u0438\u0439\u043d.mp3",
       "lno": "10"
     },
     {
@@ -5802,7 +5802,7 @@
       "word": "\u043d\u0430\u0432\u0441\u0440\u0430\u0445",
       "oldWord": "",
       "expl": "\uff08\u52a8\uff09\u4f4e\u5782\uff0c\u4e0b\u5782",
-      "audio": "725.mp3",
+      "audio": "\u043d\u0430\u0432\u0441\u0440\u0430\u0445.mp3",
       "lno": "10"
     },
     {
@@ -5818,7 +5818,7 @@
       "word": "\u043d\u0443\u0434\u0447\u0438\u0445",
       "oldWord": "",
       "expl": "\uff08\u52a8\uff09\u043d\u0443\u0434\u0440\u0430\u0445\u7684\u591a\u6b21\u4f53\uff0c\u6740\uff0c\u5bb0\uff08\u5fcc\u8bb3\u7528\u8bed\uff09",
-      "audio": "727.mp3",
+      "audio": "\u043d\u0443\u0434\u0447\u0438\u0445.mp3",
       "lno": "10"
     },
     {
@@ -5858,7 +5858,7 @@
       "word": "\u04e9\u043b\u04e9\u0433\u0447\u0438\u043d",
       "oldWord": "",
       "expl": "\uff08\u540d\uff09\u98df\u8089\u7c7b\u96cc\u6027\u52a8\u7269",
-      "audio": "732.mp3",
+      "audio": "\u04e9\u043b\u04e9\u0433\u0447\u0438\u043d.mp3",
       "lno": "10"
     },
     {
@@ -5866,7 +5866,7 @@
       "word": "\u04e9\u0442(\u043d)",
       "oldWord": "",
       "expl": "\uff08\u540d\uff09\u86c6\uff0c\u8815\u866b",
-      "audio": "733.mp3",
+      "audio": "\u04e9\u0442.mp3",
       "lno": "10"
     },
     {
@@ -5874,7 +5874,7 @@
       "word": "\u04e9\u0448\u0438\u0445",
       "oldWord": "",
       "expl": "\uff08\u52a8\uff09\u4ec7\u6068\uff0c\u75db\u6068",
-      "audio": "734.mp3",
+      "audio": "\u04e9\u0448\u0438\u0445.mp3",
       "lno": "10"
     },
     {
@@ -5890,7 +5890,7 @@
       "word": "\u0441\u0438\u0439\u043c\u0445\u0438\u0439",
       "oldWord": "",
       "expl": "\uff08\u5f62\u3001\u540d\uff09\u7a00\u8584\u7684\uff0c\u7a00\u758f\u7684\uff1b\u7a7a\u9699\uff0c\u95f4\u9699",
-      "audio": "736.mp3",
+      "audio": "\u0441\u0438\u0439\u043c\u0445\u0438\u0439.mp3",
       "lno": "10"
     },
     {
@@ -5906,7 +5906,7 @@
       "word": "\u0441\u0443\u043b\u0440\u0430\u0445",
       "oldWord": "",
       "expl": "\uff08\u52a8\uff09\u7a7a\u51fa\uff0c\u95f2\u7f6e\uff1b\u677e\u5f00\uff0c\u89e3\u8131",
-      "audio": "738.mp3",
+      "audio": "\u0441\u0443\u043b\u0440\u0430\u0445.mp3",
       "lno": "10"
     },
     {
@@ -5914,7 +5914,7 @@
       "word": "\u0441\u04af\u04af\u043b\u0440\u044d\u0445",
       "oldWord": "",
       "expl": "\uff08\u52a8\uff09\u51fa\u8f68\uff0c\u80cc\u53db\u7231\u4eba",
-      "audio": "739.mp3",
+      "audio": "\u0441\u04af\u04af\u043b\u0440\u044d\u0445.mp3",
       "lno": "10"
     },
     {
@@ -5930,7 +5930,7 @@
       "word": "\u0441\u044d\u0440\u0432\u044d\u044d",
       "oldWord": "",
       "expl": "\uff08\u540d\uff09\u9888\u4e0a\u9686\u8d77\u90e8\u5206",
-      "audio": "741.mp3",
+      "audio": "\u0441\u044d\u0440\u0432\u044d\u044d.mp3",
       "lno": "10"
     },
     {
@@ -5938,7 +5938,7 @@
       "word": "\u0441\u044d\u0440\u0436\u0438\u0433\u043d\u044d\u0445",
       "oldWord": "",
       "expl": "\uff08\u52a8\uff09\u98d5\u98d5\u4f5c\u54cd\uff1b\u5fae\u98ce\u8f7b\u62c2",
-      "audio": "742.mp3",
+      "audio": "\u0441\u044d\u0440\u0436\u0438\u0433\u043d\u044d\u0445.mp3",
       "lno": "10"
     },
     {
@@ -5962,7 +5962,7 @@
       "word": "\u0442\u0430\u0430\u0448\u0430\u0430\u043b",
       "oldWord": "",
       "expl": "\uff08\u540d\uff09\u8d5e\u8d4f\uff0c\u6b23\u8d4f",
-      "audio": "745.mp3",
+      "audio": "\u0442\u0430\u0430\u0448\u0430\u0430\u043b.mp3",
       "lno": "10"
     },
     {
@@ -5994,7 +5994,7 @@
       "word": "\u0442\u0430\u0439\u0432\u0448\u0440\u0430\u0445",
       "oldWord": "",
       "expl": "\uff08\u52a8\uff09\u5b89\u5fc3\uff0c\u5bbd\u5fc3\uff0c\u5e73\u9759\uff0c\u5b89\u5b81",
-      "audio": "749.mp3",
+      "audio": "\u0442\u0430\u0439\u0432\u0448\u0440\u0430\u0445.mp3",
       "lno": "10"
     },
     {
@@ -6010,7 +6010,7 @@
       "word": "\u0442\u0430\u0447\u0438\u0433\u043d\u0430\u0445",
       "oldWord": "",
       "expl": "\uff08\u52a8\uff09\u567c\u91cc\u556a\u5566\uff0c\u7830\u7830\u54cd\uff1b\u66b4\u8df3\u5982\u96f7\uff0c\u5927\u58f0\u5475\u65a5",
-      "audio": "751.mp3",
+      "audio": "\u0442\u0430\u0447\u0438\u0433\u043d\u0430\u0445.mp3",
       "lno": "10"
     },
     {
@@ -6026,7 +6026,7 @@
       "word": "\u0442\u0438\u0439\u0447\u043b\u044d\u0445",
       "oldWord": "",
       "expl": "\uff08\u52a8\uff09\u4e71\u8e22\uff0c\u4e71\u8e39\uff0c\u4e71\u8e6c",
-      "audio": "753.mp3",
+      "audio": "\u0442\u0438\u0439\u0447\u043b\u044d\u0445.mp3",
       "lno": "10"
     },
     {
@@ -6034,7 +6034,7 @@
       "word": "\u0442\u043e\u043d\u0433\u043e\u0439\u0445",
       "oldWord": "",
       "expl": "\uff08\u52a8\uff09\u503e\u659c\uff0c\u66f2\u80cc\u5f2f\u8eab",
-      "audio": "754.mp3",
+      "audio": "\u0442\u043e\u043d\u0433\u043e\u0439\u0445.mp3",
       "lno": "10"
     },
     {
@@ -6042,7 +6042,7 @@
       "word": "\u0442\u043e\u043d\u0433\u043e\u0447\u0438\u0445",
       "oldWord": "",
       "expl": "\uff08\u52a8\uff09\u6253\u6eda\uff0c\u6eda\u52a8",
-      "audio": "755.mp3",
+      "audio": "\u0442\u043e\u043d\u0433\u043e\u0447\u0438\u0445.mp3",
       "lno": "10"
     },
     {
@@ -6058,7 +6058,7 @@
       "word": "\u0442\u043e\u0441\u0434\u043e\u0445",
       "oldWord": "",
       "expl": "\uff08\u52a8\uff09\u62b9\u6cb9",
-      "audio": "757.mp3",
+      "audio": "\u0442\u043e\u0441\u0434\u043e\u0445.mp3",
       "lno": "10"
     },
     {
@@ -6066,7 +6066,7 @@
       "word": "\u0442\u04e9\u043b\u04e9\u0433",
       "oldWord": "",
       "expl": "\uff08\u540d\uff09\u4e24\u5c81\u7ef5\u7f8a",
-      "audio": "758.mp3",
+      "audio": "\u0442\u04e9\u043b\u04e9\u0433.mp3",
       "lno": "10"
     },
     {
@@ -6082,7 +6082,7 @@
       "word": "\u0442\u0443\u043d\u0430\u0440\u0430\u0445",
       "oldWord": "",
       "expl": "\uff08\u52a8\uff09\u6c89\u6dc0\uff1b\u5269\u4e0b",
-      "audio": "760.mp3",
+      "audio": "\u0442\u0443\u043d\u0430\u0440\u0430\u0445.mp3",
       "lno": "10"
     },
     {
@@ -6090,7 +6090,7 @@
       "word": "\u0442\u044d\u043d\u044d\u0433\u043b\u044d\u0445",
       "oldWord": "",
       "expl": "\uff08\u52a8\uff09\u8822\u7b28\uff0c\u611a\u7b28",
-      "audio": "761.mp3",
+      "audio": "\u0442\u044d\u043d\u044d\u0433\u043b\u044d\u0445.mp3",
       "lno": "10"
     },
     {
@@ -6098,7 +6098,7 @@
       "word": "\u04af\u0433\u0442\u044d\u044d\u0445",
       "oldWord": "",
       "expl": "\uff08\u52a8\uff09\u62c9\u7d27\uff0c\u62c9\u51fa\uff0c\u63ea\u51fa",
-      "audio": "762.mp3",
+      "audio": "\u04af\u0433\u0442\u044d\u044d\u0445.mp3",
       "lno": "10"
     },
     {
@@ -6106,7 +6106,7 @@
       "word": "\u04af\u0440\u0433\u044d\u0445",
       "oldWord": "",
       "expl": "\uff08\u52a8\uff09\u60ca\u6050\uff0c\u60ca\u5413\uff1b\u60ca\u8dd1\uff08\u6307\u755c\u3001\u517d\uff09",
-      "audio": "763.mp3",
+      "audio": "\u04af\u0440\u0433\u044d\u0445.mp3",
       "lno": "10"
     },
     {
@@ -6122,7 +6122,7 @@
       "word": "\u0445\u0430\u043d\u0445\u043b\u0430\u0445",
       "oldWord": "",
       "expl": "\uff08\u52a8\uff09\u6563\u53d1\u6c14\u5473\uff0c\u6c14\u5473\u6251\u9f3b",
-      "audio": "765.mp3",
+      "audio": "\u0445\u0430\u043d\u0445\u043b\u0430\u0445.mp3",
       "lno": "10"
     },
     {
@@ -6130,7 +6130,7 @@
       "word": "\u0445\u0430\u0440\u0430\u0430\u0445",
       "oldWord": "",
       "expl": "\uff08\u52a8\uff09\u9a82\uff0c\u5492\u9a82",
-      "audio": "766.mp3",
+      "audio": "\u0445\u0430\u0440\u0430\u0430\u0445.mp3",
       "lno": "10"
     },
     {
@@ -6138,7 +6138,7 @@
       "word": "\u0445\u0430\u0440\u0443\u0443\u0441\u0430\u043b\u0442\u0430\u0439",
       "oldWord": "",
       "expl": "\uff08\u5f62\uff09\u76f8\u5f53\u4e8e\u0445\u0430\u0440\u0430\u043c\u0441\u0430\u043b\u0442\u0430\u0439",
-      "audio": "767.mp3",
+      "audio": "\u0445\u0430\u0440\u0443\u0443\u0441\u0430\u043b\u0442\u0430\u0439.mp3",
       "lno": "10"
     },
     {
@@ -6146,7 +6146,7 @@
       "word": "\u0445\u043e\u0432\u0434\u043e\u0433\u043b\u043e\u0445",
       "oldWord": "",
       "expl": "\uff08\u52a8\uff09\u8d2a\u5634\uff0c\u8d2a\u98df\uff1b\u8d2a\u5a6a",
-      "audio": "768.mp3",
+      "audio": "\u0445\u043e\u0432\u0434\u043e\u0433\u043b\u043e\u0445.mp3",
       "lno": "10"
     },
     {
@@ -6154,7 +6154,7 @@
       "word": "\u0445\u043e\u043d\u0433\u043e(\u043d)",
       "oldWord": "",
       "expl": "\uff08\u540d\uff09\u4eba\u7684\u80ef\u90e8\u8089\uff1b\u7272\u755c\u7684\u5927\u817f\u540e\u90e8\u8089",
-      "audio": "769.mp3",
+      "audio": "\u0445\u043e\u043d\u0433\u043e.mp3",
       "lno": "10"
     },
     {
@@ -6162,7 +6162,7 @@
       "word": "\u0445\u043e\u043d\u0437\u043e\u0433\u043d\u043e\u0445",
       "oldWord": "",
       "expl": "\uff08\u52a8\uff09\u590d\u4ec7\uff0c\u62a5\u4ec7",
-      "audio": "770.mp3",
+      "audio": "\u0445\u043e\u043d\u0437\u043e\u0433\u043d\u043e\u0445.mp3",
       "lno": "10"
     },
     {
@@ -6178,7 +6178,7 @@
       "word": "\u0445\u043e\u043d\u0448\u043e\u043e\u0440",
       "oldWord": "",
       "expl": "\uff08\u540d\uff09\u9f3b\u9762\uff0c\u5634\u8138",
-      "audio": "772.mp3",
+      "audio": "\u0445\u043e\u043d\u0448\u043e\u043e\u0440.mp3",
       "lno": "10"
     },
     {
@@ -6186,7 +6186,7 @@
       "word": "\u0445\u043e\u0440\u0438\u0433\u0434\u043e\u0433\u0447",
       "oldWord": "",
       "expl": "\uff08\u540d\uff09\u56da\u72af\u3001\u72af\u4eba",
-      "audio": "773.mp3",
+      "audio": "\u0445\u043e\u0440\u0438\u0433\u0434\u043e\u0433\u0447.mp3",
       "lno": "10"
     },
     {
@@ -6226,7 +6226,7 @@
       "word": "\u0446\u0430\u0432\u044c(\u043d)",
       "oldWord": "",
       "expl": "\uff08\u540d\uff09\u8179\u80a1\u6c9f",
-      "audio": "778.mp3",
+      "audio": "\u0446\u0430\u0432\u044c.mp3",
       "lno": "10"
     },
     {
@@ -6234,7 +6234,7 @@
       "word": "\u0446\u0435\u043c\u0435\u043d\u0442",
       "oldWord": "",
       "expl": "\uff08\u540d\uff09\u6c34\u6ce5",
-      "audio": "779.mp3",
+      "audio": "\u0446\u0435\u043c\u0435\u043d\u0442.mp3",
       "lno": "10"
     },
     {
@@ -6242,7 +6242,7 @@
       "word": "\u0447\u0438\u0445\u0446\u044d\u043b\u0434\u044d\u0445",
       "oldWord": "",
       "expl": "\uff08\u52a8\uff09\u62e5\u6324\u3001\u6324\u6210\u4e00\u56e2",
-      "audio": "780.mp3",
+      "audio": "\u0447\u0438\u0445\u0446\u044d\u043b\u0434\u044d\u0445.mp3",
       "lno": "10"
     },
     {
@@ -6258,7 +6258,7 @@
       "word": "\u0448\u0430\u0432\u0445\u0440\u0443\u0443",
       "oldWord": "",
       "expl": "\uff08\u540d\uff09\u6b8b\u6e23\uff0c\u7cdf\u7c95",
-      "audio": "782.mp3",
+      "audio": "\u0448\u0430\u0432\u0445\u0440\u0443\u0443.mp3",
       "lno": "10"
     },
     {
@@ -6266,7 +6266,7 @@
       "word": "\u0448\u0430\u0432\u0448\u0438\u0445",
       "oldWord": "",
       "expl": "\uff08\u52a8\uff09\u6dcb\uff0c\u6d47\uff0c\u6d12",
-      "audio": "783.mp3",
+      "audio": "\u0448\u0430\u0432\u0448\u0438\u0445.mp3",
       "lno": "10"
     },
     {
@@ -6274,7 +6274,7 @@
       "word": "\u0448\u0430\u0437\u0430\u043b\u0437\u0430\u0445",
       "oldWord": "",
       "expl": "\uff08\u52a8\uff09\u9f5c\u7259\u54a7\u5634\uff08\u663e\u793a\u51f6\u72e0\uff09",
-      "audio": "784.mp3",
+      "audio": "\u0448\u0430\u0437\u0430\u043b\u0437\u0430\u0445.mp3",
       "lno": "10"
     },
     {
@@ -6282,7 +6282,7 @@
       "word": "\u0448\u0430\u043d\u0430\u0430(\u043d)",
       "oldWord": "",
       "expl": "\uff08\u540d\uff09\u988a",
-      "audio": "785.mp3",
+      "audio": "\u0448\u0430\u043d\u0430\u0430.mp3",
       "lno": "10"
     },
     {
@@ -6314,7 +6314,7 @@
       "word": "\u0448\u0443\u043b\u0430\u043c",
       "oldWord": "",
       "expl": "\uff08\u540d\uff09\u540c\u0448\u0443\u043b\u043c\u0430\u0441\uff0c\u9b3c\u602a\uff0c\u5996\u9b54",
-      "audio": "789.mp3",
+      "audio": "\u0448\u0443\u043b\u0430\u043c.mp3",
       "lno": "10"
     },
     {
@@ -6322,7 +6322,7 @@
       "word": "\u044d\u0433\u0434\u04af\u04af\u0446\u044d\u043b",
       "oldWord": "",
       "expl": "\uff08\u52a8\uff09\u538c\u6076\uff0c\u53cd\u611f",
-      "audio": "790.mp3",
+      "audio": "\u044d\u0433\u0434\u04af\u04af\u0446\u044d\u043b.mp3",
       "lno": "10"
     },
     {
@@ -6330,7 +6330,7 @@
       "word": "\u044d\u0433\u0434\u04af\u04af\u0446\u044d\u0445",
       "oldWord": "",
       "expl": "\uff08\u540d\uff09\u538c\u6076\uff0c\u53cd\u611f",
-      "audio": "791.mp3",
+      "audio": "\u044d\u0433\u0434\u04af\u04af\u0446\u044d\u0445.mp3",
       "lno": "10"
     },
     {
@@ -6354,7 +6354,7 @@
       "word": "\u044f\u043b\u044c\u0433\u04af\u0439",
       "oldWord": "",
       "expl": "\uff08\u5f62\uff09\u4e0d\u600e\u4e48\u6837\u7684\uff0c\u65e0\u5173\u7d27\u8981\u7684\uff0c\u5fae\u4e0d\u8db3\u9053\u7684",
-      "audio": "794.mp3",
+      "audio": "\u044f\u043b\u044c\u0433\u04af\u0439.mp3",
       "lno": "10"
     },
     {
@@ -6362,7 +6362,7 @@
       "word": "\u0430\u0432\u043b\u0430\u0445",
       "oldWord": "",
       "expl": "\uff08\u52a8\uff09\u56f4\u730e\uff0c\u6253\u56f4",
-      "audio": "795.mp3",
+      "audio": "\u0430\u0432\u043b\u0430\u0445.mp3",
       "lno": "11"
     },
     {
@@ -6386,7 +6386,7 @@
       "word": "\u0430\u043c\u0442\u0430\u0440\u0445\u0430\u0445",
       "oldWord": "",
       "expl": "\uff08\u52a8\uff09\u5473\u9053\u9999\u9187\uff0c\u6d25\u6d25\u6709\u5473",
-      "audio": "798.mp3",
+      "audio": "\u0430\u043c\u0442\u0430\u0440\u0445\u0430\u0445.mp3",
       "lno": "11"
     },
     {
@@ -6394,7 +6394,7 @@
       "word": "\u0430\u043c\u044c\u0441\u0433\u0430\u0430\u0434\u0430\u0445",
       "oldWord": "",
       "expl": "\uff08\u52a8\uff09\u5598\u6c14\uff0c\u547c\u5438\uff1b\u6c14\u5598\uff0c\u6c14\u6025",
-      "audio": "799.mp3",
+      "audio": "\u0430\u043c\u044c\u0441\u0433\u0430\u0430\u0434\u0430\u0445.mp3",
       "lno": "11"
     },
     {
@@ -6418,7 +6418,7 @@
       "word": "\u0431\u0430\u0437\u043b\u0430\u0445",
       "oldWord": "",
       "expl": "\uff08\u52a8\uff09\uff08\u809a\u5b50\uff09\u7ede\u75db",
-      "audio": "802.mp3",
+      "audio": "\u0431\u0430\u0437\u043b\u0430\u0445.mp3",
       "lno": "11"
     },
     {
@@ -6434,7 +6434,7 @@
       "word": "\u0431\u0443\u0440\u0443\u0443\u0442\u0433\u0430\u0445",
       "oldWord": "",
       "expl": "\uff08\u52a8\uff09\u5f52\u661d\uff0c\u602a\u7f6a",
-      "audio": "804.mp3",
+      "audio": "\u0431\u0443\u0440\u0443\u0443\u0442\u0433\u0430\u0445.mp3",
       "lno": "11"
     },
     {
@@ -6442,7 +6442,7 @@
       "word": "\u0431\u0443\u0443\u0434\u0430\u043b\u0442",
       "oldWord": "",
       "expl": "\uff08\u540d\uff09\u5c04\u51fb\uff0c\u53d1\u5c04",
-      "audio": "805.mp3",
+      "audio": "\u0431\u0443\u0443\u0434\u0430\u043b\u0442.mp3",
       "lno": "11"
     },
     {
@@ -6450,7 +6450,7 @@
       "word": "\u0431\u04af\u0440\u044d\u043d\u0445\u0438\u0439",
       "oldWord": "",
       "expl": "\uff08\u540d\uff09\u9ec4\u660f\uff0c\u508d\u665a",
-      "audio": "806.mp3",
+      "audio": "\u0431\u04af\u0440\u044d\u043d\u0445\u0438\u0439.mp3",
       "lno": "11"
     },
     {
@@ -6482,7 +6482,7 @@
       "word": "\u0433\u0443\u0434\u0430\u0439\u0445",
       "oldWord": "",
       "expl": "\uff08\u52a8\uff09\u4f4e\u5782\u3001\u5f2f\u66f2",
-      "audio": "810.mp3",
+      "audio": "\u0433\u0443\u0434\u0430\u0439\u0445.mp3",
       "lno": "11"
     },
     {
@@ -6490,7 +6490,7 @@
       "word": "\u0433\u0443\u043d\u0438\u0433\u043b\u0430\u0445",
       "oldWord": "",
       "expl": "\uff08\u52a8\uff09\u60b2\u53f9\uff0c\u55df\u53f9\uff0c\u5fe7\u4f24\uff0c\u6291\u90c1",
-      "audio": "811.mp3",
+      "audio": "\u0433\u0443\u043d\u0438\u0433\u043b\u0430\u0445.mp3",
       "lno": "11"
     },
     {
@@ -6498,7 +6498,7 @@
       "word": "\u0433\u044d\u043b\u0434\u0440\u044d\u0445",
       "oldWord": "",
       "expl": "\uff08\u52a8\uff09\u6162\u8d70\uff0c\u6e9c\u8fbe",
-      "audio": "812.mp3",
+      "audio": "\u0433\u044d\u043b\u0434\u0440\u044d\u0445.mp3",
       "lno": "11"
     },
     {
@@ -6530,7 +6530,7 @@
       "word": "\u0434\u044d\u0433\u0441\u0434\u04af\u04af\u043b\u044d\u0445",
       "oldWord": "",
       "expl": "\uff08\u52a8\uff09\u4f7f\u6492\u8c0e\uff0c\u4f7f\u9a97\u4eba\uff0c\u4f7f\u6b6a\u66f2",
-      "audio": "816.mp3",
+      "audio": "\u0434\u044d\u0433\u0441\u0434\u04af\u04af\u043b\u044d\u0445.mp3",
       "lno": "11"
     },
     {
@@ -6538,7 +6538,7 @@
       "word": "\u0451\u0436\u043b\u043e\u0445",
       "oldWord": "",
       "expl": "\uff08\u52a8\uff09\u5632\u8bbd\uff0c\u620f\u8c11\uff0c\u6316\u82e6\uff0c\u595a\u843d",
-      "audio": "817.mp3",
+      "audio": "\u0451\u0436\u043b\u043e\u0445.mp3",
       "lno": "11"
     },
     {
@@ -6554,7 +6554,7 @@
       "word": "\u0437\u0443\u043b\u0433\u0430\u0430\u0445",
       "oldWord": "",
       "expl": "\uff08\u52a8\uff09\uff08\u7528\u7259\uff09\u6495\u626f\uff0c\u6495\u5543",
-      "audio": "819.mp3",
+      "audio": "\u0437\u0443\u043b\u0433\u0430\u0430\u0445.mp3",
       "lno": "11"
     },
     {
@@ -6570,7 +6570,7 @@
       "word": "\u043c\u0430\u0430\u0436\u0438\u0445",
       "oldWord": "",
       "expl": "\uff08\u52a8\uff09\u6320\uff0c\u6414",
-      "audio": "821.mp3",
+      "audio": "\u043c\u0430\u0430\u0436\u0438\u0445.mp3",
       "lno": "11"
     },
     {
@@ -6594,7 +6594,7 @@
       "word": "\u043c\u0430\u043d\u0441\u0443\u0443\u0440\u0430\u0445",
       "oldWord": "",
       "expl": "\uff08\u52a8\uff09\u660f\u6c89\uff0c\u8ff7\u7cca\uff0c\u660f\u7761",
-      "audio": "824.mp3",
+      "audio": "\u043c\u0430\u043d\u0441\u0443\u0443\u0440\u0430\u0445.mp3",
       "lno": "11"
     },
     {
@@ -6602,7 +6602,7 @@
       "word": "\u043c\u0430\u0446\u0430\u0445",
       "oldWord": "",
       "expl": "\uff08\u52a8\uff09\u5f80\u4e0a\u722c\uff0c\u6500\u767b",
-      "audio": "825.mp3",
+      "audio": "\u043c\u0430\u0446\u0430\u0445.mp3",
       "lno": "11"
     },
     {
@@ -6618,7 +6618,7 @@
       "word": "\u043c\u04e9\u043b\u0445\u04e9\u0445",
       "oldWord": "",
       "expl": "\uff08\u52a8\uff09\u722c\u884c\uff0c\u530d\u5310",
-      "audio": "827.mp3",
+      "audio": "\u043c\u04e9\u043b\u0445\u04e9\u0445.mp3",
       "lno": "11"
     },
     {
@@ -6626,7 +6626,7 @@
       "word": "\u043c\u0443\u043d\u0433\u0438\u043d\u0430\u0445",
       "oldWord": "",
       "expl": "\uff08\u52a8\uff09\u778e\u5fd9",
-      "audio": "828.mp3",
+      "audio": "\u043c\u0443\u043d\u0433\u0438\u043d\u0430\u0445.mp3",
       "lno": "11"
     },
     {
@@ -6634,7 +6634,7 @@
       "word": "\u043c\u0443\u0443\u0440\u0430\u0445",
       "oldWord": "",
       "expl": "\uff08\u52a8\uff09\u660f\u53a5\uff0c\u4e27\u5931\u77e5\u89c9",
-      "audio": "829.mp3",
+      "audio": "\u043c\u0443\u0443\u0440\u0430\u0445.mp3",
       "lno": "11"
     },
     {
@@ -6642,7 +6642,7 @@
       "word": "\u043c\u044d\u0433\u0434\u044d\u0445",
       "oldWord": "",
       "expl": "\uff08\u52a8\uff09\u60ca\u614c\u5931\u63aa\uff0c\u614c\u5f20\u65e0\u63aa",
-      "audio": "830.mp3",
+      "audio": "\u043c\u044d\u0433\u0434\u044d\u0445.mp3",
       "lno": "11"
     },
     {
@@ -6650,7 +6650,7 @@
       "word": "\u043c\u044d\u0434\u0440\u044d\u043b",
       "oldWord": "",
       "expl": "\uff08\u540d\uff09\u795e\u7ecf\uff1b\u611f\u89c9\uff0c\u611f\u77e5",
-      "audio": "831.mp3",
+      "audio": "\u043c\u044d\u0434\u0440\u044d\u043b.mp3",
       "lno": "11"
     },
     {
@@ -6658,7 +6658,7 @@
       "word": "\u043c\u044d\u0440\u044d\u0445",
       "oldWord": "",
       "expl": "\uff08\u52a8\uff09\u5480\u56bc\uff08\u786c\u7269\uff09\uff0c\u54ac\u56bc",
-      "audio": "832.mp3",
+      "audio": "\u043c\u044d\u0440\u044d\u0445.mp3",
       "lno": "11"
     },
     {
@@ -6682,7 +6682,7 @@
       "word": "\u043d\u0430\u0445\u0438\u0430",
       "oldWord": "",
       "expl": "\uff08\u540d\uff09\u82bd\uff0c\u5ae9\u53f6",
-      "audio": "835.mp3",
+      "audio": "\u043d\u0430\u0445\u0438\u0430.mp3",
       "lno": "11"
     },
     {
@@ -6698,7 +6698,7 @@
       "word": "\u043d\u04af\u0440\u0433\u044d\u0445",
       "oldWord": "",
       "expl": "\uff08\u52a8\uff09\u8f70\u54cd\uff0c\u8f70\u9e23\uff1b\u55a7\u95f9\uff0c\u55a7\u54d7",
-      "audio": "837.mp3",
+      "audio": "\u043d\u04af\u0440\u0433\u044d\u0445.mp3",
       "lno": "11"
     },
     {
@@ -6722,7 +6722,7 @@
       "word": "\u043d\u044d\u0433\u043c\u04e9\u0441\u04e9\u043d",
       "oldWord": "",
       "expl": "\uff08\u526f\uff09\u5b8c\u5168\u5730\uff0c\u5168\u90e8\u5730\uff1b\u4e00\u4e0b\u5b50\uff0c\u4e00\u9f50",
-      "audio": "840.mp3",
+      "audio": "\u043d\u044d\u0433\u043c\u04e9\u0441\u04e9\u043d.mp3",
       "lno": "11"
     },
     {
@@ -6746,7 +6746,7 @@
       "word": "\u043e\u0442\u043e\u0445",
       "oldWord": "",
       "expl": "\uff08\u52a8\uff09\u6697\u4e2d\u7aa5\u89c6\uff0c\u63a2\u5bdf\u8e2a\u8ff9\uff0c\u9632\u5b88\u5bf9\u624b",
-      "audio": "843.mp3",
+      "audio": "\u043e\u0442\u043e\u0445.mp3",
       "lno": "11"
     },
     {
@@ -6762,7 +6762,7 @@
       "word": "\u04e9\u0440\u0441\u04e9\u0445",
       "oldWord": "",
       "expl": "\uff08\u52a8\uff09\u7ade\u4e89\uff0c\u89d2\u9010\uff1b\u8ffd\u8fc7\uff0c\u62a2\u5148",
-      "audio": "845.mp3",
+      "audio": "\u04e9\u0440\u0441\u04e9\u0445.mp3",
       "lno": "11"
     },
     {
@@ -6794,7 +6794,7 @@
       "word": "\u0441\u043e\u0439\u0433\u0434\u043e\u0445",
       "oldWord": "",
       "expl": "\uff08\u52a8\uff09\u88ab\u52d2\u4f4f\uff0c\u88ab\u7d27\u7d27\u626f\u4f4f",
-      "audio": "849.mp3",
+      "audio": "\u0441\u043e\u0439\u0433\u0434\u043e\u0445.mp3",
       "lno": "11"
     },
     {
@@ -6802,7 +6802,7 @@
       "word": "\u0441\u04e9\u0433\u043d\u04e9\u0445",
       "oldWord": "",
       "expl": "\uff08\u52a8\uff09\u656c\u9152\uff0c\u732e\u9152",
-      "audio": "850.mp3",
+      "audio": "\u0441\u04e9\u0433\u043d\u04e9\u0445.mp3",
       "lno": "11"
     },
     {
@@ -6810,7 +6810,7 @@
       "word": "\u0441\u04e9\u043d\u04e9\u04e9\u0433\u0447",
       "oldWord": "",
       "expl": "\uff08\u540d\uff09\u6b7c\u706d\u8005\uff0c\u6b7c\u51fb\u8005",
-      "audio": "851.mp3",
+      "audio": "\u0441\u04e9\u043d\u04e9\u04e9\u0433\u0447.mp3",
       "lno": "11"
     },
     {
@@ -6818,7 +6818,7 @@
       "word": "\u0441\u04af\u0439\u0442\u0433\u044d\u0445",
       "oldWord": "",
       "expl": "\uff08\u52a8\uff09\u4f7f\u53d7\u635f\u5931\uff0c\u4f7f\u906d\u707e\uff1b\u6bc1\u574f\uff0c\u7834\u574f",
-      "audio": "852.mp3",
+      "audio": "\u0441\u04af\u0439\u0442\u0433\u044d\u0445.mp3",
       "lno": "11"
     },
     {
@@ -6842,7 +6842,7 @@
       "word": "\u0441\u044d\u0440\u0432\u0438\u0439\u0445",
       "oldWord": "",
       "expl": "\uff08\u52a8\uff09\u7ad6\u8d77\uff0c\u5411\u4e0a\u9732\uff0c\u8038\u8d77",
-      "audio": "855.mp3",
+      "audio": "\u0441\u044d\u0440\u0432\u0438\u0439\u0445.mp3",
       "lno": "11"
     },
     {
@@ -6858,7 +6858,7 @@
       "word": "\u0442\u0430\u0433\u0436\u0440\u0430\u0445",
       "oldWord": "",
       "expl": "\uff08\u52a8\uff09\u5835\u585e\uff0c\u5835\u4f4f",
-      "audio": "857.mp3",
+      "audio": "\u0442\u0430\u0433\u0436\u0440\u0430\u0445.mp3",
       "lno": "11"
     },
     {
@@ -6866,7 +6866,7 @@
       "word": "\u0442\u0430\u0433\u043b\u0430\u0445",
       "oldWord": "",
       "expl": "\uff08\u52a8\uff09\u95ed\u4e0a\uff0c\u585e\u4e0a\uff0c\u5835\u4e0a",
-      "audio": "858.mp3",
+      "audio": "\u0442\u0430\u0433\u043b\u0430\u0445.mp3",
       "lno": "11"
     },
     {
@@ -6922,7 +6922,7 @@
       "word": "\u0442\u04e9\u0441\u04e9\u04e9\u043b\u04e9\u0445",
       "oldWord": "",
       "expl": "\uff08\u52a8\uff09\u60f3\u8c61\uff0c\u9884\u60f3",
-      "audio": "865.mp3",
+      "audio": "\u0442\u04e9\u0441\u04e9\u04e9\u043b\u04e9\u0445.mp3",
       "lno": "11"
     },
     {
@@ -6938,7 +6938,7 @@
       "word": "\u0443\u0433\u0437\u0440\u0430\u0445",
       "oldWord": "",
       "expl": "\uff08\u52a8\uff09\uff08\u7a81\u7136\u5730\uff09\u62bd\u51fa\uff0c\u6025\u626f\uff1b\uff08\u8eab\u4f53\uff09\u6025\u5267\u5730\u62c9\u7d27\uff0c\u7a81\u7136\u62bd\u7d27",
-      "audio": "867.mp3",
+      "audio": "\u0443\u0433\u0437\u0440\u0430\u0445.mp3",
       "lno": "11"
     },
     {
@@ -6946,7 +6946,7 @@
       "word": "\u0443\u043b\u0430\u043b\u0437\u0430\u0445",
       "oldWord": "",
       "expl": "\uff08\u52a8\uff09\u7ea2\u5149\u95ea\u95ea",
-      "audio": "868.mp3",
+      "audio": "\u0443\u043b\u0430\u043b\u0437\u0430\u0445.mp3",
       "lno": "11"
     },
     {
@@ -6962,7 +6962,7 @@
       "word": "\u04af\u0440\u0433\u044d\u044d\u0445",
       "oldWord": "",
       "expl": "\uff08\u52a8\uff09\u4f7f\u60ca\u6050\uff0c\u4f7f\u60ca\u8dd1",
-      "audio": "870.mp3",
+      "audio": "\u04af\u0440\u0433\u044d\u044d\u0445.mp3",
       "lno": "11"
     },
     {
@@ -6970,7 +6970,7 @@
       "word": "\u0445\u0430\u043b\u0430\u0433\u043b\u0430\u043b",
       "oldWord": "",
       "expl": "\uff08\u540d\uff09\u53f9\u606f\uff0c\u611f\u53f9\uff0c\u550f\u5618\uff1b\u4f24\u5fc3\uff0c\u96be\u8fc7",
-      "audio": "871.mp3",
+      "audio": "\u0445\u0430\u043b\u0430\u0433\u043b\u0430\u043b.mp3",
       "lno": "11"
     },
     {
@@ -6978,7 +6978,7 @@
       "word": "\u0445\u0430\u0440\u0430\u043c",
       "oldWord": "",
       "expl": "\uff08\u540d\uff09\u60cb\u60dc\uff0c\u9057\u61be",
-      "audio": "872.mp3",
+      "audio": "\u0445\u0430\u0440\u0430\u043c.mp3",
       "lno": "11"
     },
     {
@@ -6986,7 +6986,7 @@
       "word": "\u0445\u0430\u0440\u0438\u0443\u0433\u04af\u0439",
       "oldWord": "",
       "expl": "\uff08\u5f62\uff09\u8870\u9893\u7684\uff0c\u865a\u5f31\u7684\uff1b\u65e0\u7b54\u590d\u7684\uff1b\u65e0\u62a5\u916c\u7684",
-      "audio": "873.mp3",
+      "audio": "\u0445\u0430\u0440\u0438\u0443\u0433\u04af\u0439.mp3",
       "lno": "11"
     },
     {
@@ -6994,7 +6994,7 @@
       "word": "\u0445\u0430\u0442\u0442\u0430\u0439",
       "oldWord": "",
       "expl": "\uff08\u5f62\uff09\u575a\u97e7\u7684\uff0c\u6709\u786c\u5ea6\u7684",
-      "audio": "874.mp3",
+      "audio": "\u0445\u0430\u0442\u0442\u0430\u0439.mp3",
       "lno": "11"
     },
     {
@@ -7034,7 +7034,7 @@
       "word": "\u0445\u04e9\u04e9\u0440\u04e9\u043b\u0434\u04e9\u0445",
       "oldWord": "",
       "expl": "\uff08\u52a8\uff09\u53d9\u8c08\uff0c\u7545\u8c08",
-      "audio": "879.mp3",
+      "audio": "\u0445\u04e9\u04e9\u0440\u04e9\u043b\u0434\u04e9\u0445.mp3",
       "lno": "11"
     },
     {
@@ -7042,7 +7042,7 @@
       "word": "\u0445\u044f\u0434\u0430\u0445",
       "oldWord": "",
       "expl": "\uff08\u52a8\uff09\u5c60\u6740\uff0c\u6b8b\u6740",
-      "audio": "880.mp3",
+      "audio": "\u0445\u044f\u0434\u0430\u0445.mp3",
       "lno": "11"
     },
     {
@@ -7050,7 +7050,7 @@
       "word": "\u0446\u0430\u0432\u0447\u0438\u043c",
       "oldWord": "",
       "expl": "\uff08\u5f62\uff09\u5200\u5288\u4f3c\u7684\uff0c\u5200\u780d\u4f3c\u7684",
-      "audio": "881.mp3",
+      "audio": "\u0446\u0430\u0432\u0447\u0438\u043c.mp3",
       "lno": "11"
     },
     {
@@ -7074,7 +7074,7 @@
       "word": "\u0446\u0430\u0442\u0433\u0430\u0445",
       "oldWord": "",
       "expl": "\uff08\u52a8\uff09\u4f7f\u5403\u9971\uff0c\u8ba9\u5403\u9971",
-      "audio": "884.mp3",
+      "audio": "\u0446\u0430\u0442\u0433\u0430\u0445.mp3",
       "lno": "11"
     },
     {
@@ -7098,7 +7098,7 @@
       "word": "\u0446\u043e\u0433\u0438\u0445",
       "oldWord": "",
       "expl": "\uff08\u52a8\uff09\u8dc3\u8dd1\uff0c\u8dc3\u9a70",
-      "audio": "887.mp3",
+      "audio": "\u0446\u043e\u0433\u0438\u0445.mp3",
       "lno": "11"
     },
     {
@@ -7106,7 +7106,7 @@
       "word": "\u0446\u043e\u0447\u043e\u043e\u0445",
       "oldWord": "",
       "expl": "\uff08\u52a8\uff09\u4f7f\u53d7\u60ca\uff0c\u4f7f\u60ca\u6050",
-      "audio": "888.mp3",
+      "audio": "\u0446\u043e\u0447\u043e\u043e\u0445.mp3",
       "lno": "11"
     },
     {
@@ -7122,7 +7122,7 @@
       "word": "\u0446\u0443\u0443\u0440\u0430\u0439\u0442\u0430\u0445",
       "oldWord": "",
       "expl": "\uff08\u52a8\uff09\u56de\u54cd\uff0c\u5176\u9e23\uff0c\u56de\u8361",
-      "audio": "890.mp3",
+      "audio": "\u0446\u0443\u0443\u0440\u0430\u0439\u0442\u0430\u0445.mp3",
       "lno": "11"
     },
     {
@@ -7130,7 +7130,7 @@
       "word": "\u0446\u044d\u043d\u044d\u0433\u0442",
       "oldWord": "",
       "expl": "\uff08\u5f62\uff09\u88c5\u4e0a\u5f39\u836f\u7684\uff0c\u88c5\u4e0a\u706b\u836f\u7684",
-      "audio": "891.mp3",
+      "audio": "\u0446\u044d\u043d\u044d\u0433\u0442.mp3",
       "lno": "11"
     },
     {
@@ -7138,7 +7138,7 @@
       "word": "\u0447\u0430\u0434\u043c\u0430\u0433",
       "oldWord": "",
       "expl": "\uff08\u5f62\uff09\u80fd\u529b\u5f3a\u7684\uff0c\u80fd\u5e72\u7684",
-      "audio": "892.mp3",
+      "audio": "\u0447\u0430\u0434\u043c\u0430\u0433.mp3",
       "lno": "11"
     },
     {
@@ -7162,7 +7162,7 @@
       "word": "\u0448\u0430\u0440\u0445\u0438\u0440\u0443\u0443\u043b\u0430\u0445",
       "oldWord": "",
       "expl": "\uff08\u52a8\uff09\u4f7f\u9178\u75db\uff1b\u4f7f\u5173\u8282\u9178\u75db",
-      "audio": "895.mp3",
+      "audio": "\u0448\u0430\u0440\u0445\u0438\u0440\u0443\u0443\u043b\u0430\u0445.mp3",
       "lno": "11"
     },
     {
@@ -7170,7 +7170,7 @@
       "word": "\u0448\u043e\u043c\u0431\u043e\u0434\u043e\u0445",
       "oldWord": "",
       "expl": "\uff08\u52a8\uff09\u652b\u53d6",
-      "audio": "896.mp3",
+      "audio": "\u0448\u043e\u043c\u0431\u043e\u0434\u043e\u0445.mp3",
       "lno": "11"
     },
     {
@@ -7186,7 +7186,7 @@
       "word": "\u044d\u043d\u04af\u04af\u0445\u044d\u043d",
       "oldWord": "",
       "expl": "\uff08\u5f62\uff09\u773c\u524d\u7684\uff0c\u8ddf\u524d\u7684\uff0c\u5c31\u8fd1\u7684",
-      "audio": "898.mp3",
+      "audio": "\u044d\u043d\u04af\u04af\u0445\u044d\u043d.mp3",
       "lno": "11"
     },
     {
@@ -7194,7 +7194,7 @@
       "word": "\u044d\u044d\u0434\u044d\u043c",
       "oldWord": "",
       "expl": "\uff08\u540d\uff09\u4e73\u916a\uff0c\u51dd\u4e73",
-      "audio": "899.mp3",
+      "audio": "\u044d\u044d\u0434\u044d\u043c.mp3",
       "lno": "11"
     },
     {
@@ -7202,7 +7202,7 @@
       "word": "\u044f\u0432\u0443\u0443\u043b",
       "oldWord": "",
       "expl": "\uff08\u540d\uff09\u8def\u8fc7\u7684\u4eba\u6216\u52a8\u7269",
-      "audio": "900.mp3",
+      "audio": "\u044f\u0432\u0443\u0443\u043b.mp3",
       "lno": "11"
     },
     {
@@ -7242,7 +7242,7 @@
       "word": "\u0430\u043b\u043c\u0430\u0439\u0440\u0430\u0445",
       "oldWord": "",
       "expl": "\uff08\u52a8\uff09\u6f2b\u4e0d\u7ecf\u5fc3\uff0c\u65b0\u4e0d\u5728\u610f\uff1b\u75f4\u5446\uff0c\u7cbe\u795e\u604d\u60da",
-      "audio": "905.mp3",
+      "audio": "\u0430\u043b\u043c\u0430\u0439\u0440\u0430\u0445.mp3",
       "lno": "12"
     },
     {
@@ -7266,7 +7266,7 @@
       "word": "\u0430\u0441\u0433\u0430\u0440\u0430\u0445",
       "oldWord": "",
       "expl": "\uff08\u52a8\uff09\u6d41\u51fa\uff0c\u6ea2\u51fa\uff0c\u6f2b\u51fa",
-      "audio": "908.mp3",
+      "audio": "\u0430\u0441\u0433\u0430\u0440\u0430\u0445.mp3",
       "lno": "12"
     },
     {
@@ -7290,7 +7290,7 @@
       "word": "\u0431\u0430\u043b\u0430\u0439",
       "oldWord": "",
       "expl": "\uff08\u5f62\uff09\u660f\u6697\u7684\uff1b\u611a\u6627\u7684\uff0c\u611a\u8822\u7684",
-      "audio": "911.mp3",
+      "audio": "\u0431\u0430\u043b\u0430\u0439.mp3",
       "lno": "12"
     },
     {
@@ -7298,7 +7298,7 @@
       "word": "\u0431\u0430\u043b\u0440\u0430\u0445",
       "oldWord": "",
       "expl": "\uff08\u52a8\uff09\u78e8\u706d\uff0c\u6d88\u5931\uff1b\u892a\u8272\uff1b\u6bc1\u706d\uff1b\u5b8c\u86cb",
-      "audio": "912.mp3",
+      "audio": "\u0431\u0430\u043b\u0440\u0430\u0445.mp3",
       "lno": "12"
     },
     {
@@ -7306,7 +7306,7 @@
       "word": "\u0431\u0430\u0440\u0438\u043b",
       "oldWord": "",
       "expl": "\uff08\u540d\uff09\u98ce\u683c\uff0c\u65b9\u6cd5",
-      "audio": "913.mp3",
+      "audio": "\u0431\u0430\u0440\u0438\u043b.mp3",
       "lno": "12"
     },
     {
@@ -7314,7 +7314,7 @@
       "word": "\u0431\u0430\u044f\u0436\u0438\u0445",
       "oldWord": "",
       "expl": "\uff08\u52a8\uff09\u4e30\u5bcc\u8d77\u6765",
-      "audio": "914.mp3",
+      "audio": "\u0431\u0430\u044f\u0436\u0438\u0445.mp3",
       "lno": "12"
     },
     {
@@ -7330,7 +7330,7 @@
       "word": "\u0431\u043e\u0434\u0433\u0430\u043b\u044c",
       "oldWord": "",
       "expl": "\uff08\u540d\uff09\u4e2a\u4f53\uff0c\u4e2a\u4eba",
-      "audio": "916.mp3",
+      "audio": "\u0431\u043e\u0434\u0433\u0430\u043b\u044c.mp3",
       "lno": "12"
     },
     {
@@ -7354,7 +7354,7 @@
       "word": "\u0431\u04e9\u04e9\u0441",
       "oldWord": "",
       "expl": "\uff08\u540d\uff09\u8671\u5b50",
-      "audio": "919.mp3",
+      "audio": "\u0431\u04e9\u04e9\u0441.mp3",
       "lno": "12"
     },
     {
@@ -7378,7 +7378,7 @@
       "word": "\u0431\u0443\u0440\u0445\u0438\u0440\u0430\u0445",
       "oldWord": "",
       "expl": "\uff08\u52a8\uff09\u8d77\u70df\u96fe\uff0c\u70df\u96fe\u7f2d\u7ed5\uff1b\u9f3b\u5b50\u53d1\u9178\u800c\u54ed",
-      "audio": "922.mp3",
+      "audio": "\u0431\u0443\u0440\u0445\u0438\u0440\u0430\u0445.mp3",
       "lno": "12"
     },
     {
@@ -7410,7 +7410,7 @@
       "word": "\u0433\u0438\u0448\u04af\u04af\u043d\u0442",
       "oldWord": "",
       "expl": "\uff08\u5f62\uff09\u6709\u5206\u652f\u7684\uff0c\u6709\u2026\u2026\u6210\u5458\u7684",
-      "audio": "926.mp3",
+      "audio": "\u0433\u0438\u0448\u04af\u04af\u043d\u0442.mp3",
       "lno": "12"
     },
     {
@@ -7434,7 +7434,7 @@
       "word": "\u0434\u0430\u0430\u0436\u0438\u0433\u043d\u0430\u0445",
       "oldWord": "",
       "expl": "\uff08\u52a8\uff09\u620f\u5f04\uff0c\u8ba5\u7b11\uff0c\u5632\u5f04",
-      "audio": "929.mp3",
+      "audio": "\u0434\u0430\u0430\u0436\u0438\u0433\u043d\u0430\u0445.mp3",
       "lno": "12"
     },
     {
@@ -7458,7 +7458,7 @@
       "word": "\u0434\u043e\u0440\u0432\u0438\u0442\u043e\u0439\u0445\u043e\u043d",
       "oldWord": "",
       "expl": "\uff08\u5f62\uff09\u8f83\u5f3a\u7684\uff0c\u8d28\u91cf\u8f83\u597d\u7684",
-      "audio": "932.mp3",
+      "audio": "\u0434\u043e\u0440\u0432\u0438\u0442\u043e\u0439\u0445\u043e\u043d.mp3",
       "lno": "12"
     },
     {
@@ -7466,7 +7466,7 @@
       "word": "\u0434\u04e9\u0432\u0438\u0439\u043b\u0433\u04e9\u0445",
       "oldWord": "",
       "expl": "\uff08\u52a8\uff09\u4f7f\u7a81\u51fa\uff0c\u4f7f\u51f8\u8d77",
-      "audio": "933.mp3",
+      "audio": "\u0434\u04e9\u0432\u0438\u0439\u043b\u0433\u04e9\u0445.mp3",
       "lno": "12"
     },
     {
@@ -7474,7 +7474,7 @@
       "word": "\u0434\u044d\u043c\u0438\u0439\u0440\u044d\u0445",
       "oldWord": "",
       "expl": "\uff08\u52a8\uff09\u7a7a\u8c08\uff0c\u80e1\u8bf4\u516b\u9053\uff0c\u8bf4\u80e1\u8bdd",
-      "audio": "934.mp3",
+      "audio": "\u0434\u044d\u043c\u0438\u0439\u0440\u044d\u0445.mp3",
       "lno": "12"
     },
     {
@@ -7506,7 +7506,7 @@
       "word": "\u0437\u043e\u0445\u0438\u0446\u043e\u0445",
       "oldWord": "",
       "expl": "\uff08\u52a8\uff09\u548c\u8c10\uff0c\u534f\u8c03",
-      "audio": "938.mp3",
+      "audio": "\u0437\u043e\u0445\u0438\u0446\u043e\u0445.mp3",
       "lno": "12"
     },
     {
@@ -7570,7 +7570,7 @@
       "word": "\u043c\u043e\u043d\u0433\u043e\u043b\u0436\u0438\u0445",
       "oldWord": "",
       "expl": "\uff08\u52a8\uff09\u8499\u53e4\u5316",
-      "audio": "946.mp3",
+      "audio": "\u043c\u043e\u043d\u0433\u043e\u043b\u0436\u0438\u0445.mp3",
       "lno": "12"
     },
     {
@@ -7578,7 +7578,7 @@
       "word": "\u043c\u04e9\u0445\u04e9\u043b",
       "oldWord": "",
       "expl": "\uff08\u540d\uff09\u706d\u4ea1\uff0c\u8986\u706d",
-      "audio": "947.mp3",
+      "audio": "\u043c\u04e9\u0445\u04e9\u043b.mp3",
       "lno": "12"
     },
     {
@@ -7602,7 +7602,7 @@
       "word": "\u043d\u0438\u0439\u0442\u043b\u044d\u0433",
       "oldWord": "",
       "expl": "\uff08\u5f62\uff09\u5171\u540c\u7684\uff0c\u793e\u4f1a\u7684",
-      "audio": "950.mp3",
+      "audio": "\u043d\u0438\u0439\u0442\u043b\u044d\u0433.mp3",
       "lno": "12"
     },
     {
@@ -7618,7 +7618,7 @@
       "word": "\u043d\u04e9\u0445\u04e9\u0445",
       "oldWord": "",
       "expl": "\uff08\u52a8\uff09\u6dfb\u8865\uff0c\u8865\u5145",
-      "audio": "952.mp3",
+      "audio": "\u043d\u04e9\u0445\u04e9\u0445.mp3",
       "lno": "12"
     },
     {
@@ -7626,7 +7626,7 @@
       "word": "\u043d\u0443\u0445\u0430\u0445",
       "oldWord": "",
       "expl": "\uff08\u52a8\uff09\u63c9\uff0c\u6413\uff1b\u62cc\u548c\uff0c\u6405\u548c",
-      "audio": "953.mp3",
+      "audio": "\u043d\u0443\u0445\u0430\u0445.mp3",
       "lno": "12"
     },
     {
@@ -7634,7 +7634,7 @@
       "word": "\u043d\u04af\u04af\u0434\u044d\u043b\u043b\u044d\u0445",
       "oldWord": "",
       "expl": "\uff08\u52a8\uff09\u6e38\u7267\uff0c\u6d41\u52a8",
-      "audio": "954.mp3",
+      "audio": "\u043d\u04af\u04af\u0434\u044d\u043b\u043b\u044d\u0445.mp3",
       "lno": "12"
     },
     {
@@ -7642,7 +7642,7 @@
       "word": "\u043e\u0439\u0448\u043e\u043e\u0445",
       "oldWord": "",
       "expl": "\uff08\u52a8\uff09\u5173\u6ce8\uff1b\u8d5e\u540c\uff0c\u8ba4\u53ef",
-      "audio": "955.mp3",
+      "audio": "\u043e\u0439\u0448\u043e\u043e\u0445.mp3",
       "lno": "12"
     },
     {
@@ -7658,7 +7658,7 @@
       "word": "\u043e\u0440\u043e\u043b\u0434\u043b\u043e\u0433\u043e",
       "oldWord": "",
       "expl": "\uff08\u540d\uff09\u5c1d\u8bd5\uff0c\u6d3b\u52a8",
-      "audio": "957.mp3",
+      "audio": "\u043e\u0440\u043e\u043b\u0434\u043b\u043e\u0433\u043e.mp3",
       "lno": "12"
     },
     {
@@ -7674,7 +7674,7 @@
       "word": "\u04e9\u0432\u043b\u04e9\u0445",
       "oldWord": "",
       "expl": "\uff08\u52a8\uff09\u7ee7\u627f\u9057\u4ea7",
-      "audio": "959.mp3",
+      "audio": "\u04e9\u0432\u043b\u04e9\u0445.mp3",
       "lno": "12"
     },
     {
@@ -7682,7 +7682,7 @@
       "word": "\u04e9\u0432\u04e9\u0440\u043c\u04e9\u0446",
       "oldWord": "",
       "expl": "\uff08\u5f62\uff09\u72ec\u7279\u7684",
-      "audio": "960.mp3",
+      "audio": "\u04e9\u0432\u04e9\u0440\u043c\u04e9\u0446.mp3",
       "lno": "12"
     },
     {
@@ -7698,7 +7698,7 @@
       "word": "\u04e9\u0440\u043d\u04e9\u0434",
       "oldWord": "",
       "expl": "\uff08\u5f62\uff09\u897f\u65b9\u7684",
-      "audio": "962.mp3",
+      "audio": "\u04e9\u0440\u043d\u04e9\u0434.mp3",
       "lno": "12"
     },
     {
@@ -7706,7 +7706,7 @@
       "word": "\u04e9\u0440\u04e9\u04e9\u0441\u0433\u04e9\u043b",
       "oldWord": "",
       "expl": "\uff08\u5f62\uff09\u5355\u4e00\u7684\uff0c\u5355\u4e2a\u7684\uff0c\u7247\u9762\u7684",
-      "audio": "963.mp3",
+      "audio": "\u04e9\u0440\u04e9\u04e9\u0441\u0433\u04e9\u043b.mp3",
       "lno": "12"
     },
     {
@@ -7746,7 +7746,7 @@
       "word": "\u0441\u043e\u043b\u0438\u043e\u0440\u043e\u0445",
       "oldWord": "",
       "expl": "\uff08\u52a8\uff09\u53d1\u75af\uff0c\u53d1\u72c2\uff0c\u795e\u7ecf\u9519\u4e71",
-      "audio": "968.mp3",
+      "audio": "\u0441\u043e\u043b\u0438\u043e\u0440\u043e\u0445.mp3",
       "lno": "12"
     },
     {
@@ -7754,7 +7754,7 @@
       "word": "\u0441\u04e9\u0440\u0433\u04af\u04af\u043b\u044d\u0445",
       "oldWord": "",
       "expl": "\uff08\u52a8\uff09\u4f7f\u5bf9\u6297\uff0c\u4f7f\u53cd\u5bf9\uff0c\u4f7f\u62b5\u89e6",
-      "audio": "969.mp3",
+      "audio": "\u0441\u04e9\u0440\u0433\u04af\u04af\u043b\u044d\u0445.mp3",
       "lno": "12"
     },
     {
@@ -7770,7 +7770,7 @@
       "word": "\u0441\u0443\u0434\u043b\u0430\u0430\u0447",
       "oldWord": "",
       "expl": "\uff08\u540d\uff09\u5b66\u8005\uff0c\u7814\u7a76\u4eba\u5458",
-      "audio": "971.mp3",
+      "audio": "\u0441\u0443\u0434\u043b\u0430\u0430\u0447.mp3",
       "lno": "12"
     },
     {
@@ -7778,7 +7778,7 @@
       "word": "\u0441\u0443\u043b\u044c\u0434\u0430\u0445",
       "oldWord": "",
       "expl": "\uff08\u52a8\uff09\u8870\u5f31\uff0c\u75b2\u5026",
-      "audio": "972.mp3",
+      "audio": "\u0441\u0443\u043b\u044c\u0434\u0430\u0445.mp3",
       "lno": "12"
     },
     {
@@ -7786,7 +7786,7 @@
       "word": "\u0441\u0443\u0440\u0432\u0430\u043b\u0436",
       "oldWord": "",
       "expl": "\uff08\u540d\uff09\u539f\u59cb\u8d44\u6599\uff0c\u7d20\u6750",
-      "audio": "973.mp3",
+      "audio": "\u0441\u0443\u0440\u0432\u0430\u043b\u0436.mp3",
       "lno": "12"
     },
     {
@@ -7810,7 +7810,7 @@
       "word": "\u0441\u044d\u0442\u0433\u044d\u043b\u0433\u044d\u044d",
       "oldWord": "",
       "expl": "\uff08\u540d\uff09\u601d\u60f3\uff0c\u601d\u7ef4\uff0c\u5fc3\u91cc",
-      "audio": "976.mp3",
+      "audio": "\u0441\u044d\u0442\u0433\u044d\u043b\u0433\u044d\u044d.mp3",
       "lno": "12"
     },
     {
@@ -7818,7 +7818,7 @@
       "word": "\u0441\u044d\u0442\u0433\u044d\u0446",
       "oldWord": "",
       "expl": "\uff08\u540d\uff09\u601d\u60f3\uff0c\u7cbe\u795e\uff0c\u5fc3\u7406",
-      "audio": "977.mp3",
+      "audio": "\u0441\u044d\u0442\u0433\u044d\u0446.mp3",
       "lno": "12"
     },
     {
@@ -7834,7 +7834,7 @@
       "word": "\u0442\u0435\u0445\u043d\u0438\u043a\u0436\u0438\u0445",
       "oldWord": "",
       "expl": "\uff08\u52a8\uff09\u673a\u68b0\u5316\uff0c\u6280\u672f\u5316",
-      "audio": "979.mp3",
+      "audio": "\u0442\u0435\u0445\u043d\u0438\u043a\u0436\u0438\u0445.mp3",
       "lno": "12"
     },
     {
@@ -7842,7 +7842,7 @@
       "word": "\u0442\u04e9\u043b\u04e9\u0432\u0448\u0438\u0445",
       "oldWord": "",
       "expl": "\uff08\u52a8\uff09\u5b9a\u578b\uff0c\u5f00\u59cb\u6210\u578b",
-      "audio": "980.mp3",
+      "audio": "\u0442\u04e9\u043b\u04e9\u0432\u0448\u0438\u0445.mp3",
       "lno": "12"
     },
     {
@@ -7858,7 +7858,7 @@
       "word": "\u0442\u04e9\u0441\u04e9\u04e9\u043b\u04e9\u043b",
       "oldWord": "",
       "expl": "\uff08\u540d\uff09\u63a8\u60f3\uff0c\u8bbe\u60f3",
-      "audio": "982.mp3",
+      "audio": "\u0442\u04e9\u0441\u04e9\u04e9\u043b\u04e9\u043b.mp3",
       "lno": "12"
     },
     {
@@ -7866,7 +7866,7 @@
       "word": "\u0442\u0443\u0439\u043b\u0448\u0440\u0430\u043b",
       "oldWord": "",
       "expl": "\uff08\u540d\uff09\u6781\u7aef\u5316\uff0c\u4e24\u6781\u5206\u5316",
-      "audio": "983.mp3",
+      "audio": "\u0442\u0443\u0439\u043b\u0448\u0440\u0430\u043b.mp3",
       "lno": "12"
     },
     {
@@ -7874,7 +7874,7 @@
       "word": "\u0442\u0443\u0443\u043b\u044c\u0441",
       "oldWord": "",
       "expl": "\uff08\u540d\uff09\u0442\u0443\u0443\u043b\u044c\u7684\u590d\u6570\uff0c\u53f2\u8bd7\uff0c\u53d9\u4e8b\u8bd7",
-      "audio": "984.mp3",
+      "audio": "\u0442\u0443\u0443\u043b\u044c\u0441.mp3",
       "lno": "12"
     },
     {
@@ -7898,7 +7898,7 @@
       "word": "\u0442\u044d\u044d\u0445",
       "oldWord": "",
       "expl": "\uff08\u52a8\uff09\u627f\u8f7d\uff0c\u8fd0\u8f7d",
-      "audio": "987.mp3",
+      "audio": "\u0442\u044d\u044d\u0445.mp3",
       "lno": "12"
     },
     {
@@ -7986,7 +7986,7 @@
       "word": "\u04af\u0433\u04af\u0439\u0441\u0433\u044d\u0445",
       "oldWord": "",
       "expl": "\uff08\u52a8\uff09\u5426\u5b9a\uff0c\u62b9\u6740",
-      "audio": "998.mp3",
+      "audio": "\u04af\u0433\u04af\u0439\u0441\u0433\u044d\u0445.mp3",
       "lno": "12"
     },
     {
@@ -8010,7 +8010,7 @@
       "word": "\u04af\u0439\u043b\u0434\u0432\u044d\u0440\u0436\u0438\u0445",
       "oldWord": "",
       "expl": "\uff08\u52a8\uff09\u5de5\u4e1a\u5316",
-      "audio": "1001.mp3",
+      "audio": "\u04af\u0439\u043b\u0434\u0432\u044d\u0440\u0436\u0438\u0445.mp3",
       "lno": "12"
     },
     {
@@ -8042,7 +8042,7 @@
       "word": "\u0445\u0430\u0440\u0430\u0430\u0445\u0430\u043d",
       "oldWord": "",
       "expl": "\uff08\u526f\uff09\u5c1a\u672a\uff0c\u8fd8\u4e0d\uff1b\u521a\u521a",
-      "audio": "1005.mp3",
+      "audio": "\u0445\u0430\u0440\u0430\u0430\u0445\u0430\u043d.mp3",
       "lno": "12"
     },
     {
@@ -8082,7 +8082,7 @@
       "word": "\u0445\u043e\u0436\u0443\u0443",
       "oldWord": "",
       "expl": "\uff08\u526f\uff09\u8fdf\u5730\uff0c\u843d\u540e\u5730",
-      "audio": "1010.mp3",
+      "audio": "\u0445\u043e\u0436\u0443\u0443.mp3",
       "lno": "12"
     },
     {
@@ -8090,7 +8090,7 @@
       "word": "\u0445\u043e\u0442\u0436\u0438\u0445",
       "oldWord": "",
       "expl": "\uff08\u52a8\uff09\u57ce\u5e02\u5316\uff0c\u57ce\u9547\u5316",
-      "audio": "1011.mp3",
+      "audio": "\u0445\u043e\u0442\u0436\u0438\u0445.mp3",
       "lno": "12"
     },
     {
@@ -8130,7 +8130,7 @@
       "word": "\u0445\u0443\u0432\u044c\u0441\u0430\u0445",
       "oldWord": "",
       "expl": "\uff08\u52a8\uff09\u53d8\u5316\uff0c\u6f14\u5316",
-      "audio": "1016.mp3",
+      "audio": "\u0445\u0443\u0432\u044c\u0441\u0430\u0445.mp3",
       "lno": "12"
     },
     {
@@ -8138,7 +8138,7 @@
       "word": "\u0445\u0443\u0439\u0445",
       "oldWord": "",
       "expl": "\uff08\u540d\uff09\u76ae\uff0c\u5934\u76ae",
-      "audio": "1017.mp3",
+      "audio": "\u0445\u0443\u0439\u0445.mp3",
       "lno": "12"
     },
     {
@@ -8154,7 +8154,7 @@
       "word": "\u0445\u0443\u0440\u0438\u043c\u0442\u043b\u0430\u0433\u0434\u0430\u0445",
       "oldWord": "",
       "expl": "\uff08\u52a8\uff09\u88ab\u79ef\u7d2f\uff0c\u88ab\u6536\u96c6",
-      "audio": "1019.mp3",
+      "audio": "\u0445\u0443\u0440\u0438\u043c\u0442\u043b\u0430\u0433\u0434\u0430\u0445.mp3",
       "lno": "12"
     },
     {
@@ -8170,7 +8170,7 @@
       "word": "\u0445\u04af\u0447\u0438\u043d\u0434\u044d\u0445",
       "oldWord": "",
       "expl": "\uff08\u52a8\uff09\u4fb5\u72af\uff0c\u4fb5\u5bb3\uff1b\u5f3a\u5978",
-      "audio": "1021.mp3",
+      "audio": "\u0445\u04af\u0447\u0438\u043d\u0434\u044d\u0445.mp3",
       "lno": "12"
     },
     {
@@ -8178,7 +8178,7 @@
       "word": "\u0445\u04af\u0447\u0438\u0440\u0445\u044d\u0433\u0436\u0438\u0445",
       "oldWord": "",
       "expl": "\uff08\u52a8\uff09\u5f3a\u5927\u8d77\u6765\uff0c\u53d8\u5f97\u5f3a\u6709\u529b",
-      "audio": "1022.mp3",
+      "audio": "\u0445\u04af\u0447\u0438\u0440\u0445\u044d\u0433\u0436\u0438\u0445.mp3",
       "lno": "12"
     },
     {
@@ -8202,7 +8202,7 @@
       "word": "\u0445\u044d\u0440\u044d\u0433\u043b\u044d\u0433\u0434\u044d\u0445\u04af\u04af\u043d",
       "oldWord": "",
       "expl": "\uff08\u540d\uff09\u6750\u6599\uff0c\u8d44\u6599",
-      "audio": "1025.mp3",
+      "audio": "\u0445\u044d\u0440\u044d\u0433\u043b\u044d\u0433\u0434\u044d\u0445\u04af\u04af\u043d.mp3",
       "lno": "12"
     },
     {
@@ -8210,7 +8210,7 @@
       "word": "\u0447\u0438\u0440\u044d\u0445",
       "oldWord": "",
       "expl": "\uff08\u52a8\uff09\u62d6\uff0c\u62fd\uff0c\u66f3",
-      "audio": "1026.mp3",
+      "audio": "\u0447\u0438\u0440\u044d\u0445.mp3",
       "lno": "12"
     },
     {
@@ -8226,7 +8226,7 @@
       "word": "\u0447\u0443\u0445\u0430\u043c\u0445\u04af\u04af",
       "oldWord": "",
       "expl": "\uff08\u526f\uff09\u7a76\u7adf\uff1b\u5b9e\u9645\u4e0a\uff0c\u672c\u8d28\u4e0a",
-      "audio": "1028.mp3",
+      "audio": "\u0447\u0443\u0445\u0430\u043c\u0445\u04af\u04af.mp3",
       "lno": "12"
     },
     {
@@ -8234,7 +8234,7 @@
       "word": "\u0448\u0430\u0434\u0430\u0440\u043b\u0430\u0445",
       "oldWord": "",
       "expl": "\uff08\u52a8\uff09\u505a\u8fd1\u4f8d\uff0c\u505a\u4f8d\u81e3",
-      "audio": "1029.mp3",
+      "audio": "\u0448\u0430\u0434\u0430\u0440\u043b\u0430\u0445.mp3",
       "lno": "12"
     },
     {
@@ -8242,7 +8242,7 @@
       "word": "\u0448\u0430\u043b\u0433\u0443\u0443\u0440",
       "oldWord": "",
       "expl": "\uff08\u540d\uff09\u6807\u51c6\uff0c\u68c0\u6d4b\u5668",
-      "audio": "1030.mp3",
+      "audio": "\u0448\u0430\u043b\u0433\u0443\u0443\u0440.mp3",
       "lno": "12"
     },
     {
@@ -8258,7 +8258,7 @@
       "word": "\u044d\u0433\u0437\u044d\u0433\u0442\u044d\u0439",
       "oldWord": "",
       "expl": "\uff08\u5f62\uff09\u6709\u7eb0\u6f0f\u7684\uff1b\u5173\u952e\u7684",
-      "audio": "1032.mp3",
+      "audio": "\u044d\u0433\u0437\u044d\u0433\u0442\u044d\u0439.mp3",
       "lno": "12"
     },
     {
@@ -8274,7 +8274,7 @@
       "word": "\u044d\u0434\u04af\u0433\u044d\u044d",
       "oldWord": "",
       "expl": "\uff08\u526f\uff09\u73b0\u5728\uff0c\u73b0\u4eca",
-      "audio": "1034.mp3",
+      "audio": "\u044d\u0434\u04af\u0433\u044d\u044d.mp3",
       "lno": "12"
     },
     {
@@ -8290,7 +8290,7 @@
       "word": "\u044d\u043c\u0433\u044d\u043d\u044d\u043b",
       "oldWord": "",
       "expl": "\uff08\u540d\uff09\u60b2\u54c0\uff0c\u54c0\u60bc\uff1b\u8ba3\u544a",
-      "audio": "1036.mp3",
+      "audio": "\u044d\u043c\u0433\u044d\u043d\u044d\u043b.mp3",
       "lno": "12"
     },
     {
@@ -8298,7 +8298,7 @@
       "word": "\u044d\u043d\u0434\u04af\u04af\u0440\u044d\u0445",
       "oldWord": "",
       "expl": "\uff08\u52a8\uff09\u8bef\u89e3\uff0c\u5f04\u9519\uff0c\u8bef\u4f1a",
-      "audio": "1037.mp3",
+      "audio": "\u044d\u043d\u0434\u04af\u04af\u0440\u044d\u0445.mp3",
       "lno": "12"
     },
     {
@@ -8322,7 +8322,7 @@
       "word": "\u044d\u0440\u0445\u0448\u044d\u044d\u043b",
       "oldWord": "",
       "expl": "\uff08\u540d\uff09\u7edf\u6cbb\uff0c\u63a7\u5236\uff1b\u52bf\u529b",
-      "audio": "1040.mp3",
+      "audio": "\u044d\u0440\u0445\u0448\u044d\u044d\u043b.mp3",
       "lno": "12"
     },
     {
@@ -8330,7 +8330,7 @@
       "word": "\u044d\u0440\u044d\u043c\u0431\u044d",
       "oldWord": "",
       "expl": "\uff08\u540d\uff09\u5730\u4f4d\uff0c\u804c\u4f4d\uff0c\u54c1\u7ea7",
-      "audio": "1041.mp3",
+      "audio": "\u044d\u0440\u044d\u043c\u0431\u044d.mp3",
       "lno": "12"
     },
     {
@@ -8338,7 +8338,7 @@
       "word": "\u044f\u0432\u0443\u0443\u0440\u0433\u04af\u0439",
       "oldWord": "",
       "expl": "\uff08\u5f62\uff09\u6ca1\u6709\u524d\u9014\u7684\uff0c\u884c\u4e0d\u901a\u7684",
-      "audio": "1042.mp3",
+      "audio": "\u044f\u0432\u0443\u0443\u0440\u0433\u04af\u0439.mp3",
       "lno": "12"
     },
     {
